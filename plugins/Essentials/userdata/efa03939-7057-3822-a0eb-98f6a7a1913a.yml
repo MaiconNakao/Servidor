@@ -1,0 +1,25 @@
+lastAccountName: iKilluaG0D_
+timestamps:
+  login: 1493671981706
+  kits:
+    explorer: 1493045879920
+    pvp: 1493523333994
+    novato: 1493523698054
+  lastteleport: 1493671996958
+  logout: 1493672358681
+ipAddress: 186.220.223.140
+lastlocation:
+  world: world
+  x: 9447.324819252697
+  y: 103.0
+  z: -3203.2504514477696
+  yaw: -267.09653
+  pitch: 24.826824
+logoutlocation:
+  world: world
+  x: 1563.4133796569733
+  y: 79.0
+  z: -321.0287180859832
+  yaw: 94.95974
+  pitch: 7.441832
+money: '729.1666666666666'

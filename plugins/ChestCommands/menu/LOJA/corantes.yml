@@ -1,0 +1,266 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&8Loja (Corantes)'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 5
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'Corantes'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    item-id: 1
+    left-click: false
+    right-click: true
+#   data-value: 0
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+slot1:
+  COMMAND: 'console: give {player} 351:5 16'
+  NAME: '&ePurple Dye'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 5
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 2
+slot2:
+  COMMAND: 'console: give {player} 351:6 16'
+  NAME: '&eCyan Dye'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 6
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 2
+slot3:
+  COMMAND: 'console: give {player} 351:7 16'
+  NAME: '&eLight Gray Dye'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 7
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 2
+slot4:
+  COMMAND: 'console: give {player} 351:8 16'
+  NAME: '&eGray Dye'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 8
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 2
+slot5:
+  COMMAND: 'console: give {player} 351:9 16'
+  NAME: '&ePink Dye'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 9
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 2
+slot6:
+  COMMAND: 'console: give {player} 351:10 16'
+  NAME: '&eLime Dye'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 10
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 2
+slot7:
+  COMMAND: 'console: give {player} 351:12 16'
+  NAME: '&eLight Blue Dye'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 12
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 2
+slot8:
+  COMMAND: 'console: give {player} 351:13 16'
+  NAME: '&eMagenta Dye'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 13
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 3
+slot9:
+  COMMAND: 'console: give {player} 351:14 16'
+  NAME: '&eOrange Dye'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 14
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 3
+slot10:
+  COMMAND: 'console: give {player} 351 16'
+  NAME: '&eInk Sac'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 3
+slot11:
+  COMMAND: 'console: give {player} 351:1 16'
+  NAME: '&eRosa Red'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 3
+slot12:
+  COMMAND: 'console: give {player} 351:2 16'
+  NAME: '&eCactus Green'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 2
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 3
+slot13:
+  COMMAND: 'console: give {player} 351:4 16'
+  NAME: '&eLapis Lazuli'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 4
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 3
+slot14:
+  COMMAND: 'console: give {player} 351:3 16'
+  NAME: '&eCocoa Beans'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 3
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 3
+slot15:
+  COMMAND: 'console: give {player} 351:11 16'
+  NAME: '&eDandelion Yellow'
+  PRICE: 3500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&3.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 351
+  DATA-VALUE: 11
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 4
+voltar:
+  COMMAND: 'loja'
+  NAME: '&cVoltar'
+  ID: 262
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 5

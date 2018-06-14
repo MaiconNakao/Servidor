@@ -1,0 +1,21 @@
+lastAccountName: dimonwars
+timestamps:
+  login: 1493590955251
+  lastteleport: 1493592445455
+  logout: 1493592593237
+ipAddress: 186.244.16.34
+lastlocation:
+  world: plotworld
+  x: 32.560206995095506
+  y: 65.0
+  z: 2435.784438339729
+  yaw: -54.754295
+  pitch: 8.902133
+money: '174250.97222222225'
+logoutlocation:
+  world: plotworld
+  x: 30.95697373083741
+  y: 66.0
+  z: 2433.074999988079
+  yaw: 25.59397
+  pitch: 45.195217

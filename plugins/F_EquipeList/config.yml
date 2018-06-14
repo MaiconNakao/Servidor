@@ -1,0 +1,14 @@
+Configuracao:
+   Usar_Som: true
+   Mostrar_Lore_GUI: true
+
+
+# Variaveis
+# @staff = Nome do staff
+# @customStaff = Nome customizado do staff
+Menu_GUI:
+   Slots: 54
+   Nome: 'Staffs Online'
+   Display_Name: '&e@customStaff'
+   Lore:
+   - '&7O staff &e@staff &7esta online!'

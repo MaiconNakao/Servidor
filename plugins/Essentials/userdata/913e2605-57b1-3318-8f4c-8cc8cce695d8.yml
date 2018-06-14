@@ -1,0 +1,39 @@
+lastAccountName: KananyPlayer
+timestamps:
+  login: 1493673993626
+  lastteleport: 1493674621501
+  logout: 1493675512404
+  kits:
+    pvp: 1493666779533
+    platina: 1493506296382
+ipAddress: 177.132.24.190
+lastlocation:
+  world: plotworld
+  x: -38.72328607088927
+  y: 65.5
+  z: -67.26738473243287
+  yaw: 163.81293
+  pitch: 0.85570204
+money: '28407.409226209'
+logoutlocation:
+  world: plotworld
+  x: 1596.936112014923
+  y: 65.0
+  z: -36.30000001192093
+  yaw: 4.9643555
+  pitch: 14.617722
+homes:
+  ge:
+    world: plotworld
+    x: -45.14181195137874
+    y: 65.0
+    z: -50.02032977365807
+    yaw: 5.003174
+    pitch: 14.617817
+  farm:
+    world: plotworld
+    x: 1599.3847544918783
+    y: 65.0
+    z: -35.50984353441636
+    yaw: 85.78935
+    pitch: 27.078785

@@ -1,0 +1,334 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&8Loja (Blocks-03)'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'blocos3'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    item-id: 1
+    left-click: false
+    right-click: true
+#   data-value: 0
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+slot1:
+  COMMAND: 'console: give {player} 24 64'
+  NAME: '&eSandstone'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 24
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 2
+slot2:
+  COMMAND: 'console: give {player} 24:1 64'
+  NAME: '&eChiseled Sandstone'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 24
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 2
+slot3:
+  COMMAND: 'console: give {player} 24:2 64'
+  NAME: '&eSmooth Sandstone'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 24
+  DATA-VALUE: 2
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 2
+slot4:
+  COMMAND: 'console: give {player} 179 64'
+  NAME: '&eRed Sandstone'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 179
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 2
+slot5:
+  COMMAND: 'console: give {player} 179:1 64'
+  NAME: '&eChiseled Red Sandstone'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 179
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 2
+slot6:
+  COMMAND: 'console: give {player} 179:2 64'
+  NAME: '&eSmooth Red Sandstone'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 179
+  DATA-VALUE: 2
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 2
+slot7:
+  COMMAND: 'console: give {player} 13 64'
+  NAME: '&eCoarse Dirt'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 13
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 2
+slot8:
+  COMMAND: 'console: give {player} 17 16'
+  NAME: '&eOak Wood'
+  PRICE: 3000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f3.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 17
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 3
+slot9:
+  COMMAND: 'console: give {player} 17:2 16'
+  NAME: '&eBirch Wood'
+  PRICE: 3000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f3.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 17
+  DATA-VALUE: 2
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 3
+slot10:
+  COMMAND: 'console: give {player} 17:1 16'
+  NAME: '&eSpruce Wood'
+  PRICE: 3000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f3.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 17
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 3
+slot11:
+  COMMAND: 'console: give {player} 17:3 16'
+  NAME: '&eJungle Wood'
+  PRICE: 3000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f3.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 17
+  DATA-VALUE: 3
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 3
+slot12:
+  COMMAND: 'console: give {player} 162 16'
+  NAME: '&eAcacia Wood'
+  PRICE: 3000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f3.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 162
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 3
+slot13:
+  COMMAND: 'console: give {player} 162:1 16'
+  NAME: '&eDark Oak Wood'
+  PRICE: 3000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f3.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 162
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 3
+slot14:
+  COMMAND: 'console: give {player} 18 64'
+  NAME: '&eOak Leaves'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 18
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 3
+slot15:
+  COMMAND: 'console: give {player} 18:1 64'
+  NAME: '&eSpruce Leaves'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 18
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 4
+slot16:
+  COMMAND: 'console: give {player} 18:2 64'
+  NAME: '&eBirch Leaves'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 18
+  DATA-VALUE: 2
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 4
+slot17:
+  COMMAND: 'console: give {player} 18:3 64'
+  NAME: '&eJungle Leaves'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 18
+  DATA-VALUE: 3
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 4
+slot18:
+  COMMAND: 'console: give {player} 161 64'
+  NAME: '&eAcacia Leaves'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 161
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 4
+slot19:
+  COMMAND: 'console: give {player} 161:1 64'
+  NAME: '&eDark Oak Leaves'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 161
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 4
+voltar:
+  COMMAND: 'loja'
+  NAME: '&cVoltar'
+  ID: 262
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 6
+Proximapagina:
+  COMMAND: 'blocos2'
+  NAME: '&e<- Pagina anterior'
+  ID: 395
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 6

@@ -1,0 +1,24 @@
+lastAccountName: AN3XUS_
+timestamps:
+  login: 1493158117643
+  lastteleport: 1493158141050
+  kits:
+    explorer: 1493156296386
+    pvp: 1493157059587
+  logout: 1493158201535
+ipAddress: 177.133.124.104
+lastlocation:
+  world: world
+  x: 9452.133633476553
+  y: 103.5
+  z: -3203.4654863472097
+  yaw: -271.83847
+  pitch: 0.022902137
+logoutlocation:
+  world: world
+  x: 9274.832954634036
+  y: 112.0
+  z: 1580.955369284294
+  yaw: 3.9557066
+  pitch: 12.057693
+money: '0.0'

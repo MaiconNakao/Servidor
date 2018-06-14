@@ -1,0 +1,54 @@
+
+#==============================O==============================#
+# I---------------------------------------------------------I #
+# |       Anti World Fly 2.3.3 configuration - Readme       | #
+# 1---------------------------------------------------------1 #
+#==============================o==============================#
+# Blocked commands only operate in the worlds in which flying is blocked.
+# Only spaces, no tabs. To check your file, use: yaml-online-parser.appspot.com
+# Default config.yml file: github.com/PyvesB/AntiWorldFly/blob/master/src/main/resources/config.yml
+# Visit the GitHub for some additional documentation: github.com/PyvesB/AntiWorldFly
+#=============================O=O=============================#
+# II-------------------------------------------------------II #
+# |                    General  settings                    | #
+# 2---------------------------------------------------------2 #
+#=============================o=o=============================#
+# Worlds in which flying is blocked; list below with - in front of each world name.
+antiFlyWorlds:
+- world
+
+# Additional blocked commands in the above worlds; list below with - in front of each command.
+otherBlockedCommands: []
+
+#  - /yourCommand_1
+#  - /yourCommand_2
+# Enable or disable chat messages when joining a world.
+chatMessage: true
+
+# Enable or disable title screen messages when joining a world. Disable if running Minecraft 1.7.
+titleMessage: false
+
+# Enable (true) or disable (false) AntiWorlFly blocking when in creative mode.
+antiFlyCreative: true
+
+# Notify player when entering a world in which flying is blocked even if he is not flying.
+notifyNotFlying: true
+
+# A player entering a world not listed in antiFlyWorlds will have flying enabled and automatically start flying if not on the ground.
+# Player must have either antiworldfly.fly or essentials.fly permissions for this feature to be effective.
+toggleFlyingInNonBlockedWorlds: false
+
+# Set the icon of the plugin (default: '\u06DE').
+icon: \u06DE
+
+# Name of the language file.
+languageFileName: lang.yml
+
+# Check for update on plugin launch and notify when an OP joins the game.
+checkForUpdate: true
+
+#=============================OOO=============================#
+# III-----------------------------------------------------III #
+# |         Parameters to appear in future versions         | #
+# 3---------------------------------------------------------3 #
+#=============================ooo=============================#

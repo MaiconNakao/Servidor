@@ -1,0 +1,25 @@
+lastAccountName: luisgamer546
+timestamps:
+  login: 1493522019528
+  kits:
+    explorer: 1493254775329
+    pvp: 1493254768013
+    novato: 1493522179202
+  lastteleport: 1493522250858
+  logout: 1493522281567
+ipAddress: 177.185.234.124
+lastlocation:
+  world: world
+  x: 2146.7180056451293
+  y: 56.0
+  z: -2006.7400296415685
+  yaw: 9.330719
+  pitch: 4.80443
+logoutlocation:
+  world: world
+  x: -3753.487185054525
+  y: 125.0
+  z: -3259.2293677259113
+  yaw: -103.11576
+  pitch: 14.900417
+money: '8590.583333333334'

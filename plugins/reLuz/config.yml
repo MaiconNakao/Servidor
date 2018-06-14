@@ -1,0 +1,24 @@
+# Plugin criado por Rengod # Permissões #                                       #
+# Versão: 1.0              # reluz.admin (Recarregar as configurações do Plugin)#
+
+#Permissao para usar o comando /luz
+permission: 'reluz.usar'
+
+#Cooldown para usar o comando.
+#Observação: Necessário colocar em segundos.
+Delay:
+  enable: false
+  delay: 30
+  mensagem: '&cAguarde para utilizar esse comando novamente.'
+
+#Mensagens do plugin.
+Mensagens:
+  luz-ativada:
+  - ''
+  - '&eVocê ativou sua lanterna VIP, aproveite.'
+  - ''
+  luz-desativada:
+  - ''
+  - '&cVocê desativou sua lanterna VIP'
+  - ''
+  sem-permissao: '&cVocê não tem permissão para usar esse comando.'

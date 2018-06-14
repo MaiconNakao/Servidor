@@ -1,0 +1,23 @@
+lastAccountName: Guiciato
+timestamps:
+  login: 1528863602059
+  kits:
+    villager: 1528772255606
+    zombie: 1528840931848
+  lastteleport: 1528841088396
+  logout: 1528863612476
+ipAddress: 177.15.96.54
+lastlocation:
+  world: Mina
+  x: 898.3524354033552
+  y: 68.0
+  z: -1251.4390616919845
+  yaw: 86.43962
+  pitch: 13.23213
+logoutlocation:
+  world: PlotWorld
+  x: 25.843255321857015
+  y: 65.0
+  z: -41.11964083011193
+  yaw: -351.7731
+  pitch: 28.169159

@@ -1,0 +1,20 @@
+CustomHead:
+   Ativado: true
+   porcentagem-drop: 50
+   porcentagem-drop-vip: 75
+   Display_Name: '&cCabeça de {jogador}.'
+   Lore:
+   - ''
+   - '&f* Esse jogador foi dropado e a'
+   - '&f  Cabeça dele foi junto também!'
+   - ''
+
+######################################################################################################
+#                 QUANDO O JOGADOR COMPRAR UM IRONGOLEM NO MERCADO NEGRO.                            #
+# SE VOCE USA OUTRO TIPO DE PL DE SPAWNER SEM SER O SILKSPAWNERS TROQUE O COMANDO AQUI EM BAIXO.     #
+#					   O COMANDO E EXECUTADO PELO CONSOLE.                                           #
+######################################################################################################
+Comando-spawner-golem: 'ss give {jogador} irongolem 1'
+Comando-spawner-pigman: 'ss give {jogador} zombiepigman 1'
+
+Jogador-offline: '&cEsse jogador não foi encontrado.'

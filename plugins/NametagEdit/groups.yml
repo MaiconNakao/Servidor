@@ -1,0 +1,51 @@
+Groups:
+  Dono:
+    Permission: nte.dono
+    Prefix: '&6[DONO] '
+    Suffix: '&f'
+    SortPriority: 1
+  Gerente:
+    Permission: nte.gerente
+    Prefix: '&4[Gerente] '
+    Suffix: '&f'
+    SortPriority: 2
+  Admin:
+    Permission: nte.admin
+    Prefix: '&c[Admin] '
+    Suffix: '&f'
+    SortPriority: 3
+  Mod:
+    Permission: nte.mod
+    Prefix: '&2[Mod] '
+    Suffix: '&f'
+    SortPriority: 4
+  Ajudante:
+    Permission: nte.ajudante
+    Prefix: '&e[Ajudante] '
+    Suffix: '&f'
+    SortPriority: 5
+  Youtuber:
+    Permission: nte.youtuber
+    Prefix: '&c[YouTuber] '
+    Suffix: '&f'
+    SortPriority: 6
+  Soldado:
+    Permission: nte.soldado
+    Prefix: '&3[Soldado] '
+    Suffix: '&f'
+    SortPriority: 7
+  Mestre:
+    Permission: nte.mestre
+    Prefix: '&5[Mestre] '
+    Suffix: '&f'
+    SortPriority: 8
+  Expert:
+    Permission: nte.expert
+    Prefix: '&b[Expert] '
+    Suffix: '&f'
+    SortPriority: 9
+  Ranks:
+    Permission: nte.ranks
+    Prefix: '&7'
+    Suffix: '&f'
+    SortPriority: 10

@@ -1,0 +1,21 @@
+lastAccountName: BaggioKing
+timestamps:
+  login: 1493254953952
+  lastteleport: 1493253243251
+  logout: 1493254959153
+ipAddress: 189.58.201.115
+lastlocation:
+  world: world
+  x: 9467.14427543753
+  y: 103.5
+  z: -3190.175250944067
+  yaw: 49.31153
+  pitch: 19.822893
+logoutlocation:
+  world: world
+  x: 9454.5
+  y: 103.0
+  z: -3203.5
+  yaw: -271.83847
+  pitch: 0.022902137
+money: '0.0'

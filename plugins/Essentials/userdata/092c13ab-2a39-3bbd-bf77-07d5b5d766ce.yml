@@ -1,0 +1,24 @@
+lastAccountName: ICoreYT
+timestamps:
+  login: 1493080160262
+  kits:
+    explorer: 1493080199971
+    pvp: 1493080188069
+  lastteleport: 1493081175370
+  logout: 1493081177370
+ipAddress: 187.49.140.116
+lastlocation:
+  world: world
+  x: 1660.7725134170441
+  y: 79.5
+  z: -319.2804709209275
+  yaw: 172.0862
+  pitch: 20.652431
+logoutlocation:
+  world: world
+  x: 1673.705102836216
+  y: 79.5
+  z: -317.0335504284406
+  yaw: 117.03623
+  pitch: 43.452446
+money: '2088.467261904758'

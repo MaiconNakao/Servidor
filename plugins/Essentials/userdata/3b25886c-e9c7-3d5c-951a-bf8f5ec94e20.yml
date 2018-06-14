@@ -1,0 +1,23 @@
+lastAccountName: SmokerCratos
+timestamps:
+  login: 1493083019705
+  kits:
+    explorer: 1492987284108
+  lastteleport: 1492987504390
+  logout: 1493083048394
+ipAddress: 187.13.213.69
+lastlocation:
+  world: world
+  x: 1775.127337715969
+  y: 93.0
+  z: -320.61501808401766
+  yaw: -63.899982
+  pitch: 24.300005
+logoutlocation:
+  world: world
+  x: 9454.5
+  y: 102.5
+  z: -3203.5
+  yaw: -271.83847
+  pitch: 0.022902137
+money: '10669.642857142859'

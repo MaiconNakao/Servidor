@@ -1,0 +1,134 @@
+size: 54
+items:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eVillager
+      enchants:
+        DAMAGE_ALL: 5
+        DURABILITY: 5
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eVillager
+      enchants:
+        DAMAGE_ALL: 5
+        DIG_SPEED: 5
+        DURABILITY: 5
+        LOOT_BONUS_BLOCKS: 5
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eVillager
+      enchants:
+        DIG_SPEED: 5
+        DURABILITY: 5
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eVillager
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: RAW_FISH
+    damage: 3
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §6Fragmento COMUM
+      lore:
+      - '§7Fragmento tipo: §a§lCOMUM'
+      enchants:
+        DAMAGE_ALL: 1
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    amount: 16
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eVillager
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+    amount: 16
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eVillager
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eVillager
+      enchants:
+        ARROW_DAMAGE: 5
+        DURABILITY: 5
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eVillager
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 5
+        DURABILITY: 2
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eVillager
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 5
+        DURABILITY: 2
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eVillager
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 5
+        DURABILITY: 2
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eVillager
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 5
+        DURABILITY: 2
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 31
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eVillager
+      enchants:
+        DIG_SPEED: 5
+        DURABILITY: 5
+        LOOT_BONUS_BLOCKS: 5

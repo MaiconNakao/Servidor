@@ -1,0 +1,30 @@
+lastAccountName: brunoplay643
+timestamps:
+  login: 1493589294768
+  lastteleport: 1493589350557
+  kits:
+    explorer: 1493493218075
+  logout: 1493589388604
+ipAddress: 177.128.42.90
+lastlocation:
+  world: world
+  x: 9440.699999988079
+  y: 105.0
+  z: -3198.1023281122525
+  yaw: -68.5105
+  pitch: 28.899696
+homes:
+  home:
+    world: plotworld
+    x: -224.0261889820943
+    y: 65.0
+    z: 237.5993866160396
+    yaw: -39.707214
+    pitch: 20.285877
+logoutlocation:
+  world: plotworld
+  x: -246.13672209953117
+  y: 65.0
+  z: 231.29993902495167
+  yaw: 180.28656
+  pitch: 20.900288

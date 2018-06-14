@@ -1,0 +1,130 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&8Loja (Potions)'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 4
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'pocoes'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    item-id: 1
+    left-click: false
+    right-click: true
+#   data-value: 0
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+slot1:
+  COMMAND: 'console: give {player} 379 1'
+  NAME: '&eBrewing Stand'
+  PRICE: 15000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f15.000'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 379
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 2
+slot2:
+  COMMAND: 'console: give {player} 374 16'
+  NAME: '&eGlass Bottle'
+  PRICE: 500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 374
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 2
+slot3:
+  COMMAND: 'console: give {player} 377 2'
+  NAME: '&eBlaze Powder'
+  PRICE: 30000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f30.000'
+    - '&7Quantidade: &fx2'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 377
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 2
+slot4:
+  COMMAND: 'console: give {player} 378 2'
+  NAME: '&eMagma Cream'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx2'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 378
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 2
+slot5:
+  COMMAND: 'console: give {player} 378 16'
+  NAME: '&eGlowstone Dust'
+  PRICE: 500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 348
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 2
+slot6:
+  COMMAND: 'console: give {player} 353 1'
+  NAME: '&eSugar'
+  PRICE: 2500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f2.500'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 353
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 2
+slot8:
+  COMMAND: 'loja'
+  NAME: '&cVoltar'
+  ID: 262
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 4

@@ -1,0 +1,61 @@
+Database:
+#Database arguments like auto reconnecting (this fixes mysql issues with connection being closed after some time) and encoding
+  arguments: '?characterEncoding=utf8&autoReconnect=true'
+#Address(IP/DNS) of the database: Default localhost
+  address: localhost
+#offline = SQLite (Offline Database); online = MySQL (Online Database with phpMyAdmin); config = No database (stored in whitelist.yml)
+  type: config
+#Port of the mysql database: Default 3306
+  port: 3306
+#Database name. Default: antibot
+  name: antibot
+#Self explanatory
+  username: root
+  password: password
+AntiBot-Ultra:
+#Debug messages? Default: true
+  debug: true
+#Check for updates? Default: true
+  update: true
+Protection:
+#Enable protection against bots? Default: true (Far far better than proxy checking)
+  enabled: true
+#Measured in ticks. The amount of delay before "removing" player that has connected. If the player was not removed from list and there are players connecting
+#over the limit (defined by max-connections), a bot attack will be detected. Default: 40 (2 seconds)
+  ignore-delay: 13
+#Limit the amount of players that connect at the same time. Default: 5
+  max-connections: 3
+#Measured in ticks. Default: 3600 (3 minutes)
+  attack-duration: 3600
+#List of messages to send to player
+  messages:
+    attack-detected: '[AntiBot] A bot attack has been detected! Whitelist turned on!'
+    attack-stopped: '[AntiBot] Bot attack has been stopped! Whitelist turned off!'
+Whitelist:
+#Measured in ticks. Default: 6000 (5 minutes)
+  play-time: 6000
+#List of messages to send to player
+  messages:
+    whitelist-add: '[AntiBot] You have been added to the whitelist! When a bot attack
+      occurs you will be able to connect!'
+    whitelist-kick: '[AntiBot]\nYou have been stopped!\nReason: A bot attack is occuring!\nPlease
+      contact administrator at example.com for help'
+Suppress:
+#Hide join message whilst a bot attack is running? Default: true
+  join: true
+#Hide leave message whilst a bot attack is running? Default: true
+  leave: true
+Proxy:
+#Enable proxy checking? Default: false (This won't stop all bots because bukkit/spigot doesn't show real port address | Use with caution)
+  enabled: false
+#Lists of hosts that will help in blocking proxies
+  lists:
+    http://botscout,com/test/?ip=: Y
+    http://api,stopforumspam,org/api?ip=: '<appears>yes</appears>'
+#Lists of proxies that will be downloaded (List can contain any numbers, ip's will be selected)
+  download-lists:
+  - http://aname.dbmgaming.com/Proxy/proxylist.txt
+#List of messages to send to player
+  messages:
+    proxy-kick: '[AntiBot]\nYou have been stopped!\nReason: Proxy has been found\nPlease
+      contact administrator at example.com for help'

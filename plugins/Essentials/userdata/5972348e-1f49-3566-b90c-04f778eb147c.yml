@@ -1,0 +1,66 @@
+lastAccountName: KiroGaya
+timestamps:
+  login: 1528839694639
+  logout: 1528842429592
+  lastteleport: 1528842198492
+  kits:
+    basicovip++: 1528771820721
+    expert: 1528762300253
+    villager: 1528778007448
+    blaze: 1528753286608
+    basico: 1528770975187
+    pvp: 1528771125236
+    spider: 1528753296801
+    soldado: 1528654642579
+ipAddress: 177.102.108.213
+logoutlocation:
+  world: SpawnVip
+  x: 9.317952182752167
+  y: 15.393805181374585
+  z: -63.70743133553488
+  yaw: -133.45172
+  pitch: 90.0
+lastlocation:
+  world: world
+  x: -394.8986983063735
+  y: 64.24638251413162
+  z: 33.51652147351945
+  yaw: -322.7036
+  pitch: 66.51241
+money: '834336.0'
+homes:
+  arena:
+    world: Killer
+    x: 834.8447215818405
+    y: 4.0
+    z: -256.50259186573516
+    yaw: 129.09326
+    pitch: 24.967787
+  drop:
+    world: Killer
+    x: 1151.6487081972969
+    y: 4.0
+    z: -101.43616085199234
+    yaw: -65.80902
+    pitch: 8.09594
+  minavip:
+    world: Teste
+    x: -14.409323661099998
+    y: 110.0
+    z: -5.60261817967568
+    yaw: -89.60898
+    pitch: 1.269601
+  lojavip:
+    world: Lojavip
+    x: 0.4264015172823787
+    y: 69.0
+    z: 41.84214741089175
+    yaw: -179.75983
+    pitch: 3.2476103
+  lojapvp:
+    world: LojaPvP
+    x: 2288.723880887958
+    y: 8.363664580858877
+    z: -959.3172854838268
+    yaw: 354.85986
+    pitch: 0.63477516

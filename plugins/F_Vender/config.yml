@@ -1,0 +1,12 @@
+Itens:
+#ID do item;Preco de 1 Unidade
+# Exemplo: 1 pedra por 5 reais = 1;5
+- '334;250'
+- '371;320'
+- '265;410'
+- '399;910'
+
+Mensagens:
+   Sem_Permissao: '&3&lSeven&f&lUP  &cVoce nao possui permissao!'
+   Sem_Item: '&3&lSeven&f&lUP  &cVoce nao possui itens para vender!'
+   Vendido: '&3&lSeven&f&lUP  &9Todos os itens(@quantidade) foram vendidos por @preco!'

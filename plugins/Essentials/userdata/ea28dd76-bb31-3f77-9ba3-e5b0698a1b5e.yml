@@ -1,0 +1,32 @@
+lastAccountName: yStormGoD
+timestamps:
+  login: 1493495762434
+  kits:
+    explorer: 1493494473101
+    pvp: 1493494502708
+    iniciante: 1493495037981
+  lastteleport: 1493496435857
+  logout: 1493496474288
+ipAddress: 177.13.42.5
+lastlocation:
+  world: plotworld
+  x: 65.2973104731427
+  y: 65.0
+  z: 51.233472394562845
+  yaw: 47.608177
+  pitch: 8.723564
+homes:
+  e:
+    world: world
+    x: 1583.5062290256583
+    y: 79.0
+    z: -313.05076092215717
+    yaw: -0.3418579
+    pitch: 3.578497
+logoutlocation:
+  world: world
+  x: 2111.110286162155
+  y: 57.28502770378924
+  z: -2017.8245346980116
+  yaw: 164.52618
+  pitch: 13.320896

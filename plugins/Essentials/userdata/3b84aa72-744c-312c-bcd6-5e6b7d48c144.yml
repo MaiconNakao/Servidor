@@ -1,0 +1,43 @@
+lastAccountName: PvPExtremoBR
+timestamps:
+  login: 1493649423274
+  kits:
+    prata: 1493334060588
+    ouro: 1493302504906
+    explorer: 1493163968510
+    soldado: 1493164676952
+    platina: 1493481652140
+    bronze: 1493388421276
+  lastteleport: 1493649762800
+  logout: 1493649934128
+ipAddress: 200.180.116.198
+lastlocation:
+  world: plotworld
+  x: 34.42066826074495
+  y: 65.0
+  z: 2437.095767784992
+  yaw: -19.34999
+  pitch: 79.85
+logoutlocation:
+  world: world
+  x: 1777.349914227088
+  y: 93.0
+  z: -327.63315322345244
+  yaw: 145.94998
+  pitch: 43.05001
+money: '2.426922619342804'
+homes:
+  spawner:
+    world: plotworld
+    x: -51.60762027810272
+    y: 65.0
+    z: -258.8047207340409
+    yaw: -351.8999
+    pitch: -5.1000113
+  loka:
+    world: plotworld
+    x: -107.42532627707311
+    y: 65.0
+    z: -272.8951610263655
+    yaw: 21.85025
+    pitch: 8.500001

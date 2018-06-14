@@ -1,0 +1,24 @@
+lastAccountName: _zFlasheey_
+timestamps:
+  login: 1493322396529
+  kits:
+    explorer: 1493322507908
+    pvp: 1493322152028
+  logout: 1493322930313
+  lastteleport: 1493322636174
+ipAddress: 191.23.48.192
+lastlocation:
+  world: world
+  x: 1257.8861487691859
+  y: 40.0
+  z: -718.6308602394804
+  yaw: -91.00645
+  pitch: 11.564288
+logoutlocation:
+  world: plotworld
+  x: 35.080788267780974
+  y: 65.0
+  z: 78.11088125262215
+  yaw: -200.05011
+  pitch: 71.8029
+money: '0.0'

@@ -1,0 +1,21 @@
+lastAccountName: FestPlayer
+timestamps:
+  login: 1493600656003
+  kits:
+    explorer: 1493600678317
+  logout: 1493601059105
+ipAddress: 189.105.44.16
+lastlocation:
+  world: world
+  x: -124.0
+  y: 64.0
+  z: -228.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 9426.01366018351
+  y: 101.0
+  z: -3204.361731024761
+  yaw: 83.01404
+  pitch: 17.159018

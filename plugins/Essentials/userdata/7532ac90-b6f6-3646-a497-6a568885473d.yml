@@ -1,0 +1,22 @@
+lastAccountName: TNTUP
+timestamps:
+  login: 1493662704889
+  kits:
+    explorer: 1493662774632
+  lastteleport: 1493663102943
+  logout: 1493663166632
+ipAddress: 187.180.184.90
+lastlocation:
+  world: world
+  x: 9478.226896072298
+  y: 102.0
+  z: -3202.9927753889638
+  yaw: -86.85971
+  pitch: 31.199936
+logoutlocation:
+  world: world
+  x: 764.5192697585086
+  y: 76.0
+  z: -998.6138616014754
+  yaw: -314.62567
+  pitch: 30.063662

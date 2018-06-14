@@ -1,0 +1,23 @@
+lastAccountName: OooXanaina
+timestamps:
+  login: 1493066579051
+  logout: 1493066652566
+  lastteleport: 1493066338158
+  kits:
+    explorer: 1493065319215
+ipAddress: 191.34.127.15
+lastlocation:
+  world: plotworld
+  x: -89.71628302794409
+  y: 65.0
+  z: 172.71680726028117
+  yaw: 174.18481
+  pitch: 19.46825
+logoutlocation:
+  world: plotworld
+  x: -36.69999998807907
+  y: 62.0
+  z: 147.46961032269942
+  yaw: -10.050013
+  pitch: -60.899975
+money: '1044.7604166666715'

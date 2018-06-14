@@ -1,0 +1,24 @@
+lastAccountName: Alguem_
+timestamps:
+  login: 1493054485001
+  lastteleport: 1493051062057
+  kits:
+    explorer: 1493050127641
+    pvp: 1493050113095
+  logout: 1493057170775
+ipAddress: 186.232.130.213
+lastlocation:
+  world: world
+  x: 9282.937942915789
+  y: 108.0
+  z: 1572.2972308511935
+  yaw: 74.2428
+  pitch: -12.642385
+logoutlocation:
+  world: world
+  x: 9455.676778901208
+  y: 103.0
+  z: -3199.7239123218214
+  yaw: 85.11676
+  pitch: -40.95001
+money: '0.0'

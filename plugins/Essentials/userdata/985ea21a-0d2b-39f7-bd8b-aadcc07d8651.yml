@@ -1,0 +1,26 @@
+lastAccountName: Ruan_229
+timestamps:
+  login: 1493485264065
+  lastteleport: 1493485811518
+  kits:
+    explorer: 1493416737054
+    recruta: 1493484767012
+    pvp: 1493416798724
+    soldado: 1493485735933
+  logout: 1493486530293
+ipAddress: 177.35.18.202
+lastlocation:
+  world: world
+  x: 1569.5180122910267
+  y: 93.0
+  z: -334.5883081633911
+  yaw: -112.761086
+  pitch: 29.074825
+logoutlocation:
+  world: world
+  x: 1512.699999988079
+  y: 80.0
+  z: -322.52080345145396
+  yaw: -194.60138
+  pitch: 22.004936
+money: '1306605.9678819445'

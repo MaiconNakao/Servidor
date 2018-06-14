@@ -1,0 +1,23 @@
+lastAccountName: SrPedroo
+timestamps:
+  login: 1493669197243
+  logout: 1493669434223
+  kits:
+    explorer: 1493669215662
+  lastteleport: 1493669231320
+ipAddress: 89.115.178.46
+lastlocation:
+  world: world
+  x: 9450.83784777641
+  y: 103.5
+  z: -3203.5023334008874
+  yaw: -294.03848
+  pitch: 14.722899
+logoutlocation:
+  world: world
+  x: 9282.759482202224
+  y: 108.0
+  z: 1566.4496108128126
+  yaw: -206.31934
+  pitch: 8.443508
+money: '0.0'

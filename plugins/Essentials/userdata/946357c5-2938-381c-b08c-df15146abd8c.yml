@@ -1,0 +1,29 @@
+lastAccountName: LucasWinsPvP
+timestamps:
+  login: 1493670339883
+  lastteleport: 1493672043199
+  logout: 1493672411331
+  kits:
+    prata: 1493590906401
+    ouro: 1493649333770
+    explorer: 1493588526024
+    pvp: 1493589085556
+    novato: 1493589265549
+    bronze: 1493590938265
+    platina: 1493671350951
+ipAddress: 189.61.92.228
+lastlocation:
+  world: plotworld
+  x: 15.744120313903927
+  y: 65.0
+  z: -350.4897260351505
+  yaw: 85.65005
+  pitch: 25.64996
+logoutlocation:
+  world: world
+  x: 776.6999999880791
+  y: 76.5
+  z: -1006.700699981682
+  yaw: -287.3266
+  pitch: 2.1636646
+money: '0.0'

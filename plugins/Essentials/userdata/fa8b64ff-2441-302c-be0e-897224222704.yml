@@ -1,0 +1,21 @@
+lastAccountName: pimenta0202
+timestamps:
+  login: 1493384103952
+  lastteleport: 1493243880418
+  logout: 1493384270536
+ipAddress: 200.222.213.21
+lastlocation:
+  world: plotworld
+  x: 68.40084414649323
+  y: 65.0
+  z: 69.54526416107058
+  yaw: 3.995186
+  pitch: 2.8173692
+logoutlocation:
+  world: world
+  x: 9454.715653204797
+  y: 101.5
+  z: -3229.8392122448695
+  yaw: -353.73804
+  pitch: 29.099966
+money: '0.0'

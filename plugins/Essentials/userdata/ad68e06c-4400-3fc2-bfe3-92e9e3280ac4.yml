@@ -1,0 +1,23 @@
+lastAccountName: NickInvadido
+timestamps:
+  login: 1493577745694
+  lastteleport: 1493578493905
+  kits:
+    explorer: 1493577813759
+    novato: 1493578553635
+  logout: 1493580053311
+ipAddress: 189.69.99.132
+lastlocation:
+  world: world
+  x: 9454.5
+  y: 102.50999999046324
+  z: -3203.5
+  yaw: -269.10977
+  pitch: 83.40004
+logoutlocation:
+  world: world
+  x: 1557.476730864493
+  y: 79.0
+  z: -312.39883586179604
+  yaw: 9.733998
+  pitch: 7.267864

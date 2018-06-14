@@ -1,0 +1,23 @@
+lastAccountName: Suicidal
+timestamps:
+  login: 1493485193380
+  kits:
+    explorer: 1493484776571
+  lastteleport: 1493485288728
+  logout: 1493485464286
+ipAddress: 187.14.144.180
+lastlocation:
+  world: world
+  x: 9260.917017188252
+  y: 111.0625
+  z: 1558.215710184263
+  yaw: -277.334
+  pitch: 7.724514
+money: '506933.035714285715'
+logoutlocation:
+  world: world
+  x: 1532.2907191605752
+  y: 79.0
+  z: -314.0268926638126
+  yaw: -17.0482
+  pitch: 10.026664

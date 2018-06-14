@@ -1,0 +1,10 @@
+# JoinMessagePlus
+#       
+# EnableJoinMessage: true/false - Should the Join-Message be enabled.
+# EnableQuitMessage: true/false - Should the Quit-Message be anabled.
+# JoinMessage: '&6[&a+&6] %player/%displayname' - Your custom Join-Message.
+# QuitMessage: '&6[&4-&6] %player/%displayname' - Your custom Quit-Message.
+EnableJoinMessage: false
+EnableQuitMessage: false
+JoinMessage: '&3[&a+&3] &7%player'
+QuitMessage: '&3[&c-&3] &7%player'

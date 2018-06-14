@@ -1,0 +1,406 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&8Locais do Servidor'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'warp;warps;ewarp;ewarps'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 1
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: dragon_egg
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+11asdasdasdasdad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 1
+  POSITION-Y: 1
+poiasdasdasdadnts:
+  COMMAND: ''
+  NAME: '&aWARPS'
+  ID: 388
+  KEEP-OPEN: true
+  DATA-VALUE: 0
+  POSITION-X: 5
+  POSITION-Y: 1
+22aasdasdasdd:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 2
+  POSITION-Y: 1
+11asdads:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 3
+  POSITION-Y: 1
+11asdasdad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 4
+  POSITION-Y: 1
+11as2asdad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 6
+  POSITION-Y: 1
+11asd4d:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 7
+  POSITION-Y: 1
+123dasdasdad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 8
+  POSITION-Y: 1
+11asdas3dagsgad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 9
+  POSITION-Y: 1
+11ass3dafasad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 1
+  POSITION-Y: 2
+11asde3dasdvasad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 1
+  POSITION-Y: 3
+11ac3dasdaafad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 1
+  POSITION-Y: 4
+11asdas3dasdashad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 1
+  POSITION-Y: 5
+11asdas3dauad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 1
+  POSITION-Y: 6
+11asdas3dajd:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 2
+  POSITION-Y: 6
+11asdas3dvcdad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 3
+  POSITION-Y: 6
+11asdas3dnbdad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 4
+  POSITION-Y: 6
+11asdas3dccad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 5
+  POSITION-Y: 6
+11asdas3dahssad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 6
+  POSITION-Y: 6
+11asdas3davbnad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 7
+  POSITION-Y: 6
+11asdas3da22d:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 8
+  POSITION-Y: 6
+11asdas3dasdfd:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 9
+  POSITION-Y: 6
+11asdas3dasvhd:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 9
+  POSITION-Y: 2
+11asdas3dasdgad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 9
+  POSITION-Y: 3
+11asdas3dcssad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 9
+  POSITION-Y: 4
+11asdas3daffad:
+  COMMAND: ''
+  NAME: '&3&lSeven&f&lUP'
+  ID: 106
+  KEEP-OPEN: true
+  DATA-VALUE: 5
+  POSITION-X: 9
+  POSITION-Y: 5
+a:
+  COMMAND: 'warp crates'
+  NAME: '&5Crates'
+  ID: 342
+  LORE:
+      - '&8'
+      - '&7Use suas KEYS aqui'
+  KEEP-OPEN: false
+  ENCHANTMENT: 'fortune ,1'
+  DATA-VALUE: 0
+  POSITION-X: 3
+  POSITION-Y: 3
+b:
+  COMMAND: 'warp terrenos'
+  NAME: '&3Terrenos'
+  ID: 2
+  LORE:
+      - '&8'
+      - '&7Veja as plots de outros jogadores'
+  KEEP-OPEN: false
+  ENCHANTMENT: 'fortune ,1'
+  DATA-VALUE: 0
+  POSITION-X: 4
+  POSITION-Y: 3
+c:
+  COMMAND: 'warp madeira'
+  NAME: '&9Madeira'
+  ID: 271
+  LORE:
+      - '&8'
+      - '&7Pegue seu machado e colete Madeiras'
+  KEEP-OPEN: false
+  ENCHANTMENT: 'fortune ,1'
+  DATA-VALUE: 0
+  POSITION-X: 5
+  POSITION-Y: 3
+d:
+  COMMAND: 'spawn'
+  NAME: '&2» SPAWN «'
+  ID: 399
+  LORE:
+      - '&8'
+      - '&7Veja o centro do servidor'
+  KEEP-OPEN: false
+  ENCHANTMENT: 'fortune ,1'
+  DATA-VALUE: 0
+  POSITION-X: 5
+  POSITION-Y: 2
+e:
+  COMMAND: 'minas'
+  NAME: '&6Minas'
+  ID: 257
+  LORE:
+      - '&8'
+      - '&7Minere para upar de RANK'
+  KEEP-OPEN: true
+  ENCHANTMENT: 'fortune ,1'
+  DATA-VALUE: 0
+  POSITION-X: 6
+  POSITION-Y: 3
+f:
+  COMMAND: 'drops'
+  NAME: '&eDROPS'
+  ID: 388
+  LORE:
+      - '&8'
+      - '&7Venda seus drops de MOB/MAQUINAS'
+  KEEP-OPEN: true
+  ENCHANTMENT: 'fortune ,1'
+  DATA-VALUE: 0
+  POSITION-X: 7
+  POSITION-Y: 3
+aa:
+  COMMAND: 'arenas'
+  NAME: '&cArenas'
+  ID: 377
+  LORE:
+      - '&8'
+      - '&7Lute e consiga itens OP'
+  KEEP-OPEN: true
+  ENCHANTMENT: 'fortune ,1'
+  DATA-VALUE: 0
+  POSITION-X: 3
+  POSITION-Y: 4
+bb:
+  COMMAND: 'warp encantar'
+  NAME: '&bEncantar'
+  ID: 116
+  LORE:
+      - '&8'
+      - '&7Encante seu item para ir PVP'
+  KEEP-OPEN: false
+  ENCHANTMENT: 'fortune ,1'
+  DATA-VALUE: 0
+  POSITION-X: 4
+  POSITION-Y: 4
+cc:
+  COMMAND: 'warp minapvp'
+  NAME: '&dMinaPvP'
+  ID: 267
+  LORE:
+      - '&8'
+      - '&7Minere com muita atenção pois lá o PVP é ATIVADO'
+  KEEP-OPEN: false
+  ENCHANTMENT: 'fortune ,1'
+  DATA-VALUE: 0
+  POSITION-X: 5
+  POSITION-Y: 4
+ee:
+  COMMAND: 'warp almas'
+  NAME: '&7Almas'
+  ID: 397
+  LORE:
+      - '&8'
+      - '&7Troque suas cabeças por almas'
+  KEEP-OPEN: false
+  ENCHANTMENT: 'fortune ,1'
+  DATA-VALUE: 1
+  POSITION-X: 4
+  POSITION-Y: 5
+e233e:
+  COMMAND: 'loja'
+  NAME: '&6LOJA'
+  ID: 323
+  LORE:
+      - '&8'
+      - '&7Abra o Menu da LOJA'
+  KEEP-OPEN: true
+  ENCHANTMENT: 'fortune ,1'
+  DATA-VALUE: 0
+  POSITION-X: 6
+  POSITION-Y: 5
+bbb:
+  COMMAND: 'warp recompensa'
+  NAME: '&aRecompensa'
+  ID: 131
+  LORE:
+      - '&8'
+      - '&7Abra sua Recompensa Diária'
+  KEEP-OPEN: false
+  ENCHANTMENT: 'fortune ,1'
+  DATA-VALUE: 0
+  POSITION-X: 7
+  POSITION-Y: 4
+ccc:
+  COMMAND: 'warp spawners'
+  NAME: '&5Spawners'
+  ID: 52
+  LORE:
+      - '&8'
+      - '&7Compre seu MOB SPAWNER e começe a farmar'
+  KEEP-OPEN: false
+  ENCHANTMENT: 'fortune ,1'
+  DATA-VALUE: 0
+  POSITION-X: 6
+  POSITION-Y: 4

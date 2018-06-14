@@ -1,0 +1,40 @@
+lastAccountName: Ryan_Youtuber
+timestamps:
+  login: 1493261398585
+  kits:
+    explorer: 1493261432519
+    pvp: 1493261438769
+    bronze: 1493261719598
+  lastteleport: 1493263675462
+  logout: 1493264439222
+ipAddress: 177.203.125.141
+lastlocation:
+  world: plotworld
+  x: -177.7614420494481
+  y: 61.0
+  z: -102.41825091274178
+  yaw: -52.474823
+  pitch: 1.9499774
+money: '455521.47569444444'
+homes:
+  do:
+    world: plotworld
+    x: -149.55755086626408
+    y: 65.0
+    z: -96.13690216635787
+    yaw: 42.92505
+    pitch: 35.55
+  home1:
+    world: plotworld
+    x: -150.05277477932066
+    y: 65.0
+    z: -82.02543997545483
+    yaw: 132.62503
+    pitch: 38.850002
+logoutlocation:
+  world: plotworld
+  x: -176.0874270506733
+  y: 64.0
+  z: -98.03432400763982
+  yaw: 210.92578
+  pitch: 32.850018

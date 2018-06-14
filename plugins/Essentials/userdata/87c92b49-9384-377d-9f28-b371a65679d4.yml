@@ -1,0 +1,23 @@
+lastAccountName: Gamebubi
+timestamps:
+  login: 1493064027093
+  kits:
+    explorer: 1493054899761
+  lastteleport: 1493064071008
+  logout: 1493064107942
+ipAddress: 189.68.144.70
+lastlocation:
+  world: world
+  x: 9426.34028157614
+  y: 101.0
+  z: -3204.3140426474083
+  yaw: 93.76551
+  pitch: 13.067599
+logoutlocation:
+  world: world
+  x: 1713.2801635558449
+  y: 79.0
+  z: -312.48731502485725
+  yaw: 20.76706
+  pitch: -0.80247915
+money: '6334.201388888894'

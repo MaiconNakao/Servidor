@@ -1,0 +1,97 @@
+size: 54
+items:
+  '35':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '37':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '38':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '39':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '40':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '41':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '42':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '43':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '44':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '45':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '46':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '47':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '48':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '49':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '50':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '51':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '52':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64
+  '53':
+    ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 64

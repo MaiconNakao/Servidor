@@ -1,0 +1,40 @@
+general:
+  check-updates: true
+  language: english
+  language-save: false
+  npc-list-update-time: 60
+real-players:
+  enable-override: true
+  prefix: '&6'
+  prefix-red: '&4'
+fake-players:
+  enabled: true
+  prefix: '&e'
+  list:
+  - Dragoonzin
+  - Fradas
+  message:
+    join: '&ePlayer &6%player% &ejoined to server'
+    leave: '&ePlayer &6%player% &edisconnected'
+citizens:
+  enabled: true
+  prefix: '&3'
+fake-max-players:
+  enabled: false
+  fake-max-online: 80
+fake-server-list:
+  enabled: true
+  motd:
+    enabled: true
+    value: '&4FakePlayersOnline &6installed!'
+  constant-online-count:
+    enabled: false
+    players-online: 10
+  fake-players-hint-in-server-list: true
+server-lock:
+  is-locked: false
+  unlock-after-reload: true
+  kick-delay: 10
+list-command-override:
+  enable: true
+  command-list: list,players,online,playerlist,who

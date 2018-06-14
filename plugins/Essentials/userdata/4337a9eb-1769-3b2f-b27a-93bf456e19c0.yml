@@ -1,0 +1,21 @@
+lastAccountName: Joaozinho_V
+timestamps:
+  login: 1493311425862
+  logout: 1493311645010
+  lastteleport: 1493311535900
+ipAddress: 187.73.171.38
+lastlocation:
+  world: world
+  x: 9454.300000011921
+  y: 103.5
+  z: -3201.8518729720167
+  yaw: -248.73901
+  pitch: 14.572966
+logoutlocation:
+  world: world
+  x: 9459.645831002044
+  y: 106.0
+  z: -3193.224170634476
+  yaw: -210.48889
+  pitch: 30.923006
+money: '0.0'

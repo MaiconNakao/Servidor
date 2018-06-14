@@ -1,0 +1,32 @@
+lastAccountName: Robert123cr10
+timestamps:
+  login: 1493484072751
+  kits:
+    explorer: 1493481145090
+    bronze: 1493482707678
+  lastteleport: 1493484292235
+  logout: 1493484385831
+ipAddress: 189.4.72.30
+lastlocation:
+  world: world
+  x: 2122.186100541686
+  y: 56.0
+  z: -2013.1787175570641
+  yaw: 23.730797
+  pitch: 4.204451
+money: '12880.645833333332'
+homes:
+  home:
+    world: plotworld
+    x: -103.43384356796116
+    y: 65.0
+    z: 154.31117688417874
+    yaw: 0.0
+    pitch: 9.0
+logoutlocation:
+  world: world
+  x: 768.2057745416124
+  y: 76.0
+  z: -1005.566201941729
+  yaw: -39.975952
+  pitch: -36.899986

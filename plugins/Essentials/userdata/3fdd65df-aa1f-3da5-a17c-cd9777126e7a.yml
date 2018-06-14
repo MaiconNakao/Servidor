@@ -1,0 +1,40 @@
+lastAccountName: zCheatingPvP_
+timestamps:
+  login: 1493666601486
+  kits:
+    campeao: 1493648862255
+    prata: 1493594160132
+    ouro: 1493594052201
+    explorer: 1493525554714
+    recruta: 1493594163236
+    pvp: 1493603916456
+    novato: 1493525853981
+    soldado: 1493527336447
+    bronze: 1493527365357
+    platina: 1493605323400
+  lastteleport: 1493667389962
+  logout: 1493669238708
+ipAddress: 179.104.81.184
+lastlocation:
+  world: plotworld
+  x: 342.1002088430929
+  y: 65.0
+  z: 84.48699205329264
+  yaw: -94.50008
+  pitch: 25.94998
+logoutlocation:
+  world: world
+  x: 9454.439802526114
+  y: 102.0625
+  z: -3218.4703595825986
+  yaw: -50.681458
+  pitch: -32.850006
+money: '161138.59809027612'
+homes:
+  farmar:
+    world: plotworld
+    x: -179.487378075046
+    y: 65.0
+    z: -314.8785277840537
+    yaw: -169.21284
+    pitch: 15.899942

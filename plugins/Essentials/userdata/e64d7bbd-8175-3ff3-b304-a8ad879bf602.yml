@@ -1,0 +1,25 @@
+lastAccountName: TheDarkPlays
+timestamps:
+  login: 1493178717010
+  kits:
+    explorer: 1493177773755
+    pvp: 1493177768804
+    novato: 1493178995290
+  lastteleport: 1493178880486
+  logout: 1493179042087
+ipAddress: 138.36.34.255
+lastlocation:
+  world: world
+  x: 9260.282930321015
+  y: 111.0
+  z: 1543.3105852385008
+  yaw: -201.95247
+  pitch: 17.429758
+logoutlocation:
+  world: world
+  x: 1727.8519268461407
+  y: 79.0
+  z: -315.0792072150669
+  yaw: 39.60019
+  pitch: 30.149992
+money: '893.8647073412726'

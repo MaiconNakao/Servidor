@@ -1,0 +1,24 @@
+lastAccountName: Henriquinhi_548
+timestamps:
+  login: 1493158968537
+  kits:
+    explorer: 1493084413482
+    pvp: 1493084407232
+  lastteleport: 1493084484901
+  logout: 1493084496704
+ipAddress: 177.156.12.150
+lastlocation:
+  world: world
+  x: 1770.1274775988456
+  y: 79.0
+  z: -318.3463348123094
+  yaw: 249.5517
+  pitch: 12.018843
+logoutlocation:
+  world: world
+  x: 2141.4764293928392
+  y: 56.0
+  z: -2012.2062421181492
+  yaw: 61.380554
+  pitch: 30.604456
+money: '0.0'

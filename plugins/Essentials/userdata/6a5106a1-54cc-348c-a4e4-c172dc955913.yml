@@ -1,0 +1,23 @@
+lastAccountName: JuuzouKc
+timestamps:
+  login: 1492981750341
+  lastteleport: 1492981810961
+  kits:
+    pvp: 1492981814661
+  logout: 1492981823825
+ipAddress: 177.132.222.146
+lastlocation:
+  world: world
+  x: 9452.265562902006
+  y: 101.0
+  z: -3234.440347005365
+  yaw: -214.1638
+  pitch: 23.888191
+logoutlocation:
+  world: world
+  x: 417.1929662080865
+  y: 26.0
+  z: -2298.0593609008265
+  yaw: 255.35742
+  pitch: 26.305513
+money: '0.0'

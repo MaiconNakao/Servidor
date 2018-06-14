@@ -1,0 +1,41 @@
+lastAccountName: ZeuzGamer_0202
+timestamps:
+  login: 1493485228445
+  lastteleport: 1493488793636
+  kits:
+    campeao: 1493487729996
+    prata: 1493079440200
+    ouro: 1493148977602
+    explorer: 1493051354770
+    recruta: 1493079462456
+    diamante: 1493166175618
+    pvp: 1493053939682
+    iniciante: 1493052130269
+    novato: 1493053303185
+    soldado: 1493079475006
+    bronze: 1493079488758
+  logout: 1493489231853
+ipAddress: 179.104.19.206
+lastlocation:
+  world: plotworld
+  x: 100.46273277623696
+  y: 65.0
+  z: -1266.9790329022808
+  yaw: -167.55022
+  pitch: 27.600006
+money: '4312936.328149194'
+logoutlocation:
+  world: plotworld
+  x: 100.5814494252055
+  y: 65.0
+  z: -1267.652206592183
+  yaw: -104.70037
+  pitch: 28.500013
+homes:
+  home:
+    world: plotworld
+    x: 100.44577991117056
+    y: 65.0
+    z: -1268.699999988079
+    yaw: -255.45023
+    pitch: -41.699993

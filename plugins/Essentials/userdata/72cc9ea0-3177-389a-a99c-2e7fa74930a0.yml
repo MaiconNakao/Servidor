@@ -1,0 +1,23 @@
+lastAccountName: Ultra_Hard
+timestamps:
+  login: 1493592589737
+  kits:
+    explorer: 1493592683377
+    pvp: 1493592630006
+  lastteleport: 1493593041002
+  logout: 1493593166744
+ipAddress: 177.22.179.72
+lastlocation:
+  world: world
+  x: 9282.739758109263
+  y: 111.0
+  z: 1593.3333943644539
+  yaw: 86.26838
+  pitch: 34.93961
+logoutlocation:
+  world: world
+  x: 9445.110549073384
+  y: 102.0
+  z: -3222.295888163157
+  yaw: 195.11288
+  pitch: 49.841663

@@ -1,0 +1,80 @@
+lastAccountName: murilobds
+timestamps:
+  login: 1493661650209
+  kits:
+    coronel: 1493591076140
+    capitao: 1493591088650
+    gaia: 1493590905051
+    recruta: 1493591333555
+    pvp: 1493655897520
+    caos: 1493589216768
+    iniciante: 1493595421433
+    novato: 1493595453270
+    bronze: 1493581462183
+    soldado: 1493584690697
+    zeus: 1493591035293
+    general: 1493591064815
+    campeao: 1493591097300
+    prata: 1493586907478
+    marechal: 1493591056003
+    ouro: 1493591114609
+    explorer: 1493389896608
+    cronos: 1493591020575
+    diamante: 1493591105456
+    vip: 1493590342235
+    hades: 1493591044399
+    platina: 1493591124764
+  lastteleport: 1493664417969
+  logout: 1493665136030
+ipAddress: 191.19.50.42
+lastlocation:
+  world: plotworld
+  x: -182.12019515146855
+  y: 75.0
+  z: -326.2394692870225
+  yaw: 333.00027
+  pitch: 29.250027
+logoutlocation:
+  world: plotworld
+  x: -188.5629554250114
+  y: 64.0
+  z: -315.7809279299141
+  yaw: 239.99896
+  pitch: 4.350062
+money: '3397234.503081122'
+homes:
+  simadapvp:
+    world: world
+    x: 9278.887903338931
+    y: 111.0
+    z: 1581.2602382843033
+    yaw: -179.6443
+    pitch: -5.7922883
+  mob:
+    world: plotworld
+    x: 105.74136265289462
+    y: 65.0
+    z: 2438.998860848411
+    yaw: -37.499516
+    pitch: -75.14998
+  vip:
+    world: world
+    x: -1309.2024950042428
+    y: 158.0
+    z: -5242.881030063157
+    yaw: -78.4948
+    pitch: 8.630514
+  minavip:
+    world: world
+    x: -1396.4342392237656
+    y: 157.0
+    z: -5181.428169794781
+    yaw: 92.95511
+    pitch: 20.630508
+  loja:
+    world: plotworld
+    x: -335.3235697692117
+    y: 65.0
+    z: 227.0981701218077
+    yaw: 2.7000122
+    pitch: 3.65

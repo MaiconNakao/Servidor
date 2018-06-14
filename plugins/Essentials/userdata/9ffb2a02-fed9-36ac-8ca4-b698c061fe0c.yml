@@ -1,0 +1,24 @@
+lastAccountName: TeamFall
+timestamps:
+  login: 1493328289313
+  lastteleport: 1493328729156
+  kits:
+    explorer: 1493235725400
+    pvp: 1493237662220
+  logout: 1493328927210
+ipAddress: 177.89.29.202
+lastlocation:
+  world: plotworld
+  x: -100.99485465322621
+  y: 65.0
+  z: 144.2208809742151
+  yaw: 15.899998
+  pitch: 3.300001
+logoutlocation:
+  world: plotworld
+  x: 3.2290075212597396
+  y: 65.0
+  z: 2415.1636914626865
+  yaw: -1.0000048
+  pitch: 25.65
+money: '71416.96490575359'

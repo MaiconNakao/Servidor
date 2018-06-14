@@ -1,0 +1,161 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&8Loja (Categorias)'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 4
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'loja;'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    item-id: 1
+    left-click: false
+    right-click: true
+#   data-value: 0
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+slot1:
+  COMMAND: 'blocos1'
+  NAME: '&eBlocos'
+  LORE:
+    - 'Clique para abrir a categoria de &fBlocos'
+  ID: 2
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 1
+slot2:
+  COMMAND: 'plantacoes'
+  NAME: '&ePlantações'
+  LORE:
+    - 'Clique para abrir a categoria de &fPlantações'
+  ID: 81
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 1
+slot3:
+  COMMAND: 'pocoes'
+  NAME: '&ePoções'
+  LORE:
+    - 'Clique para abrir a categoria de &fPoções'
+  ID: 379
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 1
+slot4:
+  COMMAND: 'Ultilitarios'
+  NAME: '&eUltilitários'
+  LORE:
+    - 'Clique para abrir a categoria de &fUltilitários'
+  ID: 130
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 1
+slot5:
+  COMMAND: 'Decoracoes'
+  NAME: '&eDecorações'
+  LORE:
+    - 'Clique para abrir a categoria de &fDecorações'
+  ID: 31
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 2
+slot6:
+  COMMAND: 'Corantes'
+  NAME: '&eCorantes'
+  LORE:
+    - 'Clique para abrir a categoria de &fCorantes'
+  ID: 351
+  DATA-VALUE: 6
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 2
+slot7:
+  COMMAND: 'Ferramentas'
+  NAME: '&eFerramentas'
+  LORE:
+    - 'Clique para abrir a categoria de &fFerramentas'
+  ID: 278
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 2
+slot9:
+  COMMAND: ''
+  NAME: '&cSair'
+  ID: 262
+  KEEP-OPEN: false
+  POSITION-X: 5
+  POSITION-Y: 4
+vidro1:
+  COMMAND: ''
+  NAME: '-'
+  ID: 106
+  KEEP-OPEN: false
+  POSITION-X: 1
+  POSITION-Y: 4
+vidro2:
+  COMMAND: ''
+  NAME: '-'
+  ID: 106
+  KEEP-OPEN: false
+  POSITION-X: 2
+  POSITION-Y: 4
+vidro3:
+  COMMAND: ''
+  NAME: '-'
+  ID: 106
+  KEEP-OPEN: false
+  POSITION-X: 3
+  POSITION-Y: 4
+vidro4:
+  COMMAND: ''
+  NAME: '-'
+  ID: 106
+  KEEP-OPEN: false
+  POSITION-X: 4
+  POSITION-Y: 4
+vidro5:
+  COMMAND: ''
+  NAME: '-'
+  ID: 106
+  KEEP-OPEN: false
+  POSITION-X: 6
+  POSITION-Y: 4
+vidro6:
+  COMMAND: ''
+  NAME: '-'
+  ID: 106
+  KEEP-OPEN: false
+  POSITION-X: 7
+  POSITION-Y: 4
+vidro7:
+  COMMAND: ''
+  NAME: '-'
+  ID: 106
+  KEEP-OPEN: false
+  POSITION-X: 8
+  POSITION-Y: 4
+vidro8:
+  COMMAND: ''
+  NAME: '-'
+  ID: 106
+  KEEP-OPEN: false
+  POSITION-X: 9
+  POSITION-Y: 4

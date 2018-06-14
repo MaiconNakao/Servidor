@@ -1,0 +1,72 @@
+lastAccountName: Luska
+timestamps:
+  login: 1493568049495
+  lastteleport: 1493574181721
+  kits:
+    coronel: 1493480618669
+    capitao: 1493480622819
+    gaia: 1493570708750
+    pvp: 1493400393917
+    caos: 1493570623173
+    zeus: 1493401067395
+    general: 1493480614668
+    campeao: 1493480628519
+    marechal: 1493479053224
+    explorer: 1493141275980
+    cronos: 1493570823277
+    vip: 1493570564884
+    hades: 1493480584128
+  logout: 1493576545385
+ipAddress: 186.229.95.72
+lastlocation:
+  world: plotworld
+  x: -65.82175448024631
+  y: 65.0
+  z: 2383.8545475561864
+  yaw: -184.95056
+  pitch: 10.561758
+logoutlocation:
+  world: world
+  x: 9454.5
+  y: 102.5
+  z: -3203.5
+  yaw: -276.7857
+  pitch: -5.0640388
+money: '2000539.23611111'
+nickname: §cLi§fxo
+homes:
+  home:
+    world: plotworld
+    x: -44.01579555530126
+    y: 59.88388228745299
+    z: 46.30000001192093
+    yaw: -355.9278
+    pitch: 4.230045
+  lixo:
+    world: plotworld
+    x: 230.48279060050845
+    y: 65.0
+    z: -110.0787568317408
+    yaw: 185.03877
+    pitch: 76.36521
+  lapis:
+    world: world
+    x: -1398.2284975581651
+    y: 157.0
+    z: -5179.812849404238
+    yaw: -220.58609
+    pitch: 30.635605
+  spawners:
+    world: world
+    x: 9401.107327516225
+    y: 119.0625
+    z: -1071.1537962462728
+    yaw: -73.79444
+    pitch: 19.840614
+  loja:
+    world: plotworld
+    x: -35.08350812706658
+    y: 66.39139849217034
+    z: 2354.8871441093233
+    yaw: 3.2632475
+    pitch: 10.179395

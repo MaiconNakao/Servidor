@@ -1,0 +1,388 @@
+# 
+# +------------------------------------------------------+ #
+# |                       Notes                          | #
+# +------------------------------------------------------+ #
+ops-name-color: '6'
+nickname-prefix: ''
+max-nick-length: 30
+change-displayname: true
+teleport-safety: true
+teleport-cooldown: 1
+teleport-delay: 1
+teleport-invulnerability: 3
+heal-cooldown: 60
+permission-based-item-spawn: false
+spawnmob-limit: 10
+warn-on-smite: true
+socialspy-commands:
+- msg
+- w
+- r
+- mail
+- m
+- t
+- whisper
+- emsg
+- tell
+- er
+- reply
+- ereply
+- email
+- action
+- describe
+- eme
+- eaction
+- edescribe
+- etell
+- ewhisper
+- pm
+player-commands:
+- afk
+- afk.auto
+- back
+- back.ondeath
+- balance
+- balance.others
+- balancetop
+- build
+- chat.color
+- chat.format
+- chat.shout
+- chat.question
+- clearinventory
+- compass
+- depth
+- delhome
+- getpos
+- geoip.show
+- help
+- helpop
+- home
+- home.others
+- ignore
+- info
+- itemdb
+- kit
+- kits.tools
+- list
+- mail
+- mail.send
+- me
+- motd
+- msg
+- msg.color
+- nick
+- near
+- pay
+- ping
+- protect
+- r
+- rules
+- realname
+- seen
+- sell
+- sethome
+- setxmpp
+- signs.create.protection
+- signs.create.trade
+- signs.break.protection
+- signs.break.trade
+- signs.use.balance
+- signs.use.buy
+- signs.use.disposal
+- signs.use.enchant
+- signs.use.free
+- signs.use.gamemode
+- signs.use.heal
+- signs.use.info
+- signs.use.kit
+- signs.use.mail
+- signs.use.protection
+- signs.use.repair
+- signs.use.sell
+- signs.use.time
+- signs.use.trade
+- signs.use.warp
+- signs.use.weather
+- spawn
+- suicide
+- time
+- tpa
+- tpaccept
+- tpahere
+- tpdeny
+- warp
+- warp.list
+- world
+- worth
+- xmpp
+kits:
+  Pvp:
+    delay: 7200
+    items:
+    - 267 1 sharpness:3 unbreaking:2 fireaspect:1  name:&9Inicial
+    - 258 1 unbreaking:3 sharpness:4 efficiency:4 fortune:3  name:&9Inicial
+    - 257 1 unbreaking:3 efficiency:4 fortune:3  name:&9Inicial
+    - 256 1 unbreaking:3 efficiency:4 fortune:3  name:&9Inicial
+    - 261 1 power:3  name:&9Inicial
+    - 262 64 name:&9Inicial
+    - 302 1 unbreaking:3 protection:4  name:&9Inicial
+    - 303 1 unbreaking:3 protection:4  name:&9Inicial
+    - 304 1 unbreaking:3 protection:4  name:&9Inicial
+    - 305 1 unbreaking:3 protection:4 featherfalling:4  name:&9Inicial
+    - 364 64
+  Vip:
+    delay: 1296000
+    items:
+    - 276 1 sharpness:10 unbreaking:10 smite:10 baneofarthropods:10 looting:10 fireaspect:10 knockback:10  name:&4&lKit_Vip
+    - 279 1 unbreaking:10 sharpness:10 efficiency:10 fortune:10  name:&4&lKit_Vip
+    - 278 1 unbreaking:10 efficiency:10 fortune:10  name:&4&lKit_Vip
+    - 261 1 unbreaking:10 power:10 flame:10 punch:10 infinity:1  name:&4&lKit_Vip
+    - 310 1 unbreaking:10 protection:10 fireprotection:10 blastprotection:10 projectileprotection:10  name:&4&lKit_Vip
+    - 311 1 unbreaking:10 protection:10 fireprotection:10 blastprotection:10 projectileprotection:10  name:&4&lKit_Vip
+    - 312 1 unbreaking:10 protection:10 fireprotection:10 blastprotection:10 projectileprotection:10  name:&4&lKit_Vip
+    - 313 1 unbreaking:10 protection:10 fireprotection:10 featherfalling:10 blastprotection:10 projectileprotection:10  name:&4&lKit_Vip
+    - 322:1 192
+    - 373:8233 10
+  Guerreiro:
+    delay: 1296000
+    items:
+    - 276 1 sharpness:20 unbreaking:20 smite:20 baneofarthropods:20 looting:20 fireaspect:20 knockback:20  name:&4&lGuerreiro
+    - 279 1 unbreaking:20 sharpness:20 efficiency:20 fortune:20  name:&4&lGuerreiro
+    - 278 1 unbreaking:20 efficiency:20 fortune:20  name:&4&lGuerreiro
+    - 261 1 unbreaking:20 power:20 flame:20 punch:20 infinity:1  name:&4&lGuerreiro
+    - 310 1 unbreaking:20 protection:20 fireprotection:20 blastprotection:20 projectileprotection:20  name:&4&lGuerreiro
+    - 311 1 unbreaking:20 protection:20 fireprotection:20 blastprotection:20 projectileprotection:20  name:&4&lGuerreiro
+    - 312 1 unbreaking:20 protection:20 fireprotection:20 blastprotection:20 projectileprotection:20  name:&4&lGuerreiro
+    - 313 1 unbreaking:20 protection:20 fireprotection:20 featherfalling:20 blastprotection:20 projectileprotection:20  name:&4&lGuerreiro
+    - 322:1 192
+    - 373:8233 10
+  Ninja:
+    delay: 1296000
+    items:
+    - 276 1 sharpness:30 unbreaking:30 smite:30 baneofarthropods:30 looting:30 fireaspect:30 knockback:30  name:&4&lNinja
+    - 279 1 unbreaking:30 sharpness:30 efficiency:30 fortune:30  name:&4&lNinja
+    - 278 1 unbreaking:30 efficiency:30 fortune:30  name:&4&lNinja
+    - 261 1 unbreaking:30 power:30 flame:30 punch:30 infinity:1  name:&4&lNinja
+    - 310 1 unbreaking:30 protection:30 fireprotection:30 blastprotection:30 projectileprotection:30  name:&4&lNinja
+    - 311 1 unbreaking:30 protection:30 fireprotection:30 blastprotection:30 projectileprotection:30  name:&4&lNinja
+    - 312 1 unbreaking:30 protection:30 fireprotection:30 blastprotection:30 projectileprotection:30  name:&4&lNinja
+    - 313 1 unbreaking:30 protection:30 fireprotection:30 featherfalling:30 blastprotection:30 projectileprotection:30  name:&4&lNinja
+    - 322:1 192
+    - 373:8233 10
+  God:
+    delay: 1296000
+    items:
+    - 276 1 sharpness:40 unbreaking:40 smite:40 baneofarthropods:40 looting:40 fireaspect:40 knockback:40  name:&4&lGod
+    - 279 1 unbreaking:40 sharpness:40 efficiency:40 fortune:40  name:&4&lGod
+    - 278 1 unbreaking:40 efficiency:40 fortune:40  name:&4&lGod
+    - 261 1 unbreaking:40 power:40 flame:40 punch:40 infinity:1  name:&4&lGod
+    - 310 1 unbreaking:40 protection:40 fireprotection:40 blastprotection:40 projectileprotection:40  name:&4&lGod
+    - 311 1 unbreaking:40 protection:40 fireprotection:40 blastprotection:40 projectileprotection:40  name:&4&lGod
+    - 312 1 unbreaking:40 protection:40 fireprotection:40 blastprotection:40 projectileprotection:40  name:&4&lGod
+    - 313 1 unbreaking:40 protection:40 fireprotection:40 featherfalling:40 blastprotection:40 projectileprotection:40  name:&4&lGod
+    - 322:1 192
+    - 373:8233 10
+  Imortal:
+    delay: 1296000
+    items:
+    - 276 1 sharpness:50 unbreaking:50 smite:50 baneofarthropods:50 looting:50 fireaspect:50 knockback:50  name:&4&lImortal
+    - 279 1 unbreaking:50 sharpness:50 efficiency:50 fortune:50  name:&4&lImortal
+    - 278 1 unbreaking:50 efficiency:50 fortune:50  name:&4&lImortal
+    - 261 1 unbreaking:50 power:50 flame:50 punch:50 infinity:1  name:&4&lImortal
+    - 310 1 unbreaking:50 protection:50 fireprotection:50 blastprotection:50 projectileprotection:50  name:&4&lImortal
+    - 311 1 unbreaking:50 protection:50 fireprotection:50 blastprotection:50 projectileprotection:50  name:&4&lImortal
+    - 312 1 unbreaking:50 protection:50 fireprotection:50 blastprotection:50 projectileprotection:50  name:&4&lImortal
+    - 313 1 unbreaking:50 protection:50 fireprotection:50 featherfalling:50 blastprotection:50 projectileprotection:50  name:&4&lImortal
+    - 322:1 192
+    - 373:8233 10
+  Staff:
+    delay: 1296000
+    items:
+    - 276 1 sharpness:100 unbreaking:100 smite:100 baneofarthropods:100 looting:100 fireaspect:100 knockback:100  name:&4&lStaff
+    - 279 1 unbreaking:100 sharpness:100 efficiency:100 fortune:100  name:&4&lStaff
+    - 278 1 unbreaking:100 efficiency:100 fortune:100  name:&4&lStaff
+    - 261 1 unbreaking:100 power:100 flame:100 punch:100 infinity:1  name:&4&lStaff
+    - 310 1 unbreaking:100 protection:100 fireprotection:100 blastprotection:100 projectileprotection:100  name:&4&lStaff
+    - 311 1 unbreaking:100 protection:100 fireprotection:100 blastprotection:100 projectileprotection:100  name:&4&lStaff
+    - 312 1 unbreaking:100 protection:100 fireprotection:100 blastprotection:100 projectileprotection:100  name:&4&lStaff
+    - 313 1 unbreaking:100 protection:100 fireprotection:100 featherfalling:100 blastprotection:100 projectileprotection:100  name:&4&lStaff
+    - 322:1 192
+    - 373:8233 10
+  Farm:
+    delay: 259200
+    items:
+    - 338 16 name:&6Kit_Farm
+    - 391 16 name:&6Kit_Farm
+    - 392 16 name:&6Kit_Farm
+    - 372 16 name:&6Kit_Farm
+    - 81 16 name:&6Kit_Farm
+    - 88 32 name:&6Kit_Farm
+    - 79 16 name:&6Kit_Farm
+    - 351:15 32
+  Rango:
+    delay: 900
+    items:
+      - 366 16 name:&6Kit_Rango
+      - 320 16 name:&6Kit_Rango
+      - 364 16 name:&6Kit_Rango
+  Ajuda:
+    delay: 1296000
+    items:
+    - 278 1 unbreaking:6 efficiency:6 fortune:6  name:&4&lPicareta_Ajuda
+    - 279:0 1 dig_speed:8 durability:3 name:Machado_Ajuda
+enabledSigns:
+- color
+- balance
+- buy
+- sell
+- trade
+- free
+- disposal
+- warp
+- kit
+- mail
+- enchant
+- gamemode
+- heal
+- info
+- spawnmob
+- repair
+- time
+- weather
+sign-use-per-second: 4
+backup:
+  interval: 30
+per-warp-permission: false
+list:
+  Admins: owner admin
+debug: false
+remove-god-on-disconnect: false
+auto-afk: 300
+auto-afk-kick: -1
+freeze-afk-players: false
+disable-item-pickup-while-afk: false
+cancel-afk-on-interact: true
+cancel-afk-on-move: true
+death-messages: true
+allow-silent-join-quit: false
+custom-join-message: none
+custom-quit-message: none
+world-teleport-permissions: false
+default-stack-size: -1
+oversized-stacksize: 64
+repair-enchanted: true
+unsafe-enchantments: true
+register-back-in-listener: false
+login-attack-delay: 5
+max-fly-speed: 0.8
+max-walk-speed: 0.8
+mails-per-minute: 1000
+max-tempban-time: -1
+update-bed-at-daytime: true
+world-home-permissions: false
+sethome-multiple:
+  default: 3
+  vip: 5
+  staff: 10
+tpa-accept-cancellation: 120
+starting-balance: 150
+currency-symbol: $
+max-money: 10000000000000
+min-money: 0
+economy-log-enabled: false
+non-ess-in-help: true
+hide-permissionless-help: true
+chat:
+  radius: 0
+  format: <{DISPLAYNAME}> {MESSAGE}
+protect:
+  prevent:
+    lava-flow: false
+    water-flow: false
+    water-bucket-flow: false
+    fire-spread: true
+    lava-fire-spread: true
+    flint-fire: false
+    lightning-fire-spread: true
+    portal-creation: false
+    tnt-explosion: false
+    tnt-playerdamage: false
+    tnt-minecart-explosion: false
+    tnt-minecart-playerdamage: false
+    fireball-explosion: false
+    fireball-fire: false
+    fireball-playerdamage: false
+    witherskull-explosion: false
+    witherskull-playerdamage: false
+    wither-spawnexplosion: false
+    wither-blockreplace: false
+    creeper-explosion: false
+    creeper-playerdamage: false
+    creeper-blockdamage: false
+    enderdragon-blockdamage: true
+    enderman-pickup: false
+    villager-death: false
+    entitytarget: false
+    spawn:
+      creeper: false
+      skeleton: false
+      spider: false
+      giant: false
+      zombie: false
+      slime: false
+      ghast: false
+      pig_zombie: false
+      enderman: false
+      cave_spider: false
+      silverfish: false
+      blaze: false
+      magma_cube: false
+      ender_dragon: false
+      pig: false
+      sheep: false
+      cow: false
+      chicken: false
+      squid: false
+      wolf: false
+      mushroom_cow: false
+      snowman: false
+      ocelot: false
+      iron_golem: false
+      villager: false
+      wither: false
+      bat: false
+      witch: false
+      horse: false
+  creeper:
+    max-height: -1
+  disable:
+    fall: false
+    pvp: false
+    drown: false
+    suffocate: false
+    lavadmg: false
+    projectiles: false
+    contactdmg: false
+    firedmg: false
+    lightning: false
+    wither: false
+    weather:
+      storm: false
+      thunder: false
+      lightning: false
+    build: true
+    use: true
+    warn-on-build-disallow: true
+  alert:
+    on-placement: 10,11,46,327
+    on-use: 327
+  blacklist:
+    placement: 10,11,46,327
+    usage: 327
+newbies:
+  announce-format: '&dBem Vindo {DISPLAYNAME}&d ao &4&lMega Craft Rankup'
+  spawnpoint: newbies
+  kit: 
+respawn-listener-priority: high
+respawn-at-home: false

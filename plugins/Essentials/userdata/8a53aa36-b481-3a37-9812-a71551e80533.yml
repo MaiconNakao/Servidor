@@ -1,0 +1,39 @@
+lastAccountName: SiriousGamers
+timestamps:
+  login: 1493487622523
+  kits:
+    prata: 1493494213168
+    ouro: 1493498046686
+    explorer: 1493482739042
+    recruta: 1493489323434
+    pvp: 1493499110437
+    iniciante: 1493488798873
+    novato: 1493488768132
+    soldado: 1493490182648
+    bronze: 1493492242794
+  lastteleport: 1493500623758
+  logout: 1493500699941
+ipAddress: 189.114.169.18
+lastlocation:
+  world: world
+  x: 1402.0859513567195
+  y: 79.0
+  z: -315.21334000852346
+  yaw: 13.359395
+  pitch: 8.318005
+money: '447070.5600595237'
+homes:
+  casa:
+    world: plotworld
+    x: -34.650291371686656
+    y: 65.0
+    z: 220.78269815903883
+    yaw: -156.14978
+    pitch: 24.149956
+logoutlocation:
+  world: plotworld
+  x: -110.41482023943311
+  y: 65.0
+  z: 221.85821170223696
+  yaw: -181.0035
+  pitch: 18.678646

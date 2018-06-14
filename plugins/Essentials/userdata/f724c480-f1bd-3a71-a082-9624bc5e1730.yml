@@ -1,0 +1,40 @@
+lastAccountName: yPriest
+timestamps:
+  login: 1493667549263
+  kits:
+    explorer: 1493325954967
+  lastteleport: 1493668603925
+  logout: 1493668617879
+  lastheal: 1493667680740
+ipAddress: 131.255.79.1
+lastlocation:
+  world: world
+  x: 726.5
+  y: 79.0
+  z: -314.5
+  yaw: 104.22519
+  pitch: 14.074248
+logoutlocation:
+  world: world
+  x: 9454.670676353737
+  y: 103.5
+  z: -3205.533083953297
+  yaw: -179.41895
+  pitch: 3.3956401
+money: '7180964.0575396847'
+nickname: yPriest
+homes:
+  lixo:
+    world: plotworld
+    x: -44.07123476250227
+    y: 65.0
+    z: 38.01469518447112
+    yaw: -0.97355527
+    pitch: 4.59851
+  lapis:
+    world: world
+    x: -1313.635012074688
+    y: 157.0
+    z: -5096.300000011921
+    yaw: -4.534442
+    pitch: -2.3562443

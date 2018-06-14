@@ -1,0 +1,47 @@
+lastAccountName: Bardo
+timestamps:
+  login: 1493386526604
+  kits:
+    prata: 1493166129275
+    ouro: 1493164888625
+    explorer: 1492966897655
+    recruta: 1492971367767
+    pvp: 1493340191178
+    iniciante: 1493167029722
+    bronze: 1493166997940
+    soldado: 1493167015510
+    novato: 1493167039577
+    platina: 1493340146416
+  lastteleport: 1493383961608
+  logout: 1493386569133
+ipAddress: 177.37.189.196
+lastlocation:
+  world: plotworld
+  x: -42.84956733221711
+  y: 65.0
+  z: -132.81700872560836
+  yaw: -262.9505
+  pitch: 11.550062
+logoutlocation:
+  world: plotworld
+  x: 14.308340488292993
+  y: 65.0
+  z: -176.8709825002948
+  yaw: -319.49942
+  pitch: 5.5500584
+homes:
+  home:
+    world: plotworld
+    x: -33.639861606717155
+    y: 65.0
+    z: -129.43433927484745
+    yaw: -180.45001
+    pitch: 4.9499974
+  wor:
+    world: plotworld
+    x: -46.020948356840606
+    y: 65.0
+    z: 5.050957120223561
+    yaw: -4.499893
+    pitch: 23.099993
+money: '9.518849205225706'

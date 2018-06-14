@@ -1,0 +1,70 @@
+MySQL:
+  use: false
+  Host: localhost
+  Port: 3306
+  Username: test
+  Password: '123'
+  Database: minecraft
+language: br
+server_name: '&7'
+check_for_updates: true
+case_sensitive_for_flatfile: false
+key_length: 10
+one_vip_change: false
+usekey_global: false
+rvip_unlisted: true
+use_vault_for_permissions: true
+check_time: 10
+pagseguro:
+  use: false
+  email: suporte@lojamodelo.com.br
+  token: 95112EE828D94278BD394E91C4388F20
+  mode: 1
+  mysql_log: false
+paypal:
+  use: false
+  username: username
+  password: password
+  signature: signature
+  mode: 1
+  mysql_log: false
+logging:
+  usekey: false
+vip_groups:
+- Soldado
+- Mestre
+- Expert
+- Ajudante
+- Mod
+- Admin
+- Gerente
+- Diretor
+default_group: default
+vip_items:
+- Soldado,0,cmd,tm bc &b&l@player{NL}Tornou-se &3[Soldado]!
+- Soldado,0,cmd,pex user @player group set Soldado
+- Soldado,0,cmd,crate key all vip 1
+- Mestre,0,cmd,tm bc &b&l@player{NL}Tornou-se &5[Mestre]!
+- Mestre,0,cmd,pex user @player group set Mestre
+- Mestre,0,cmd,crate key all vip 2
+- Expert,0,cmd,tm bc &b&l@player{NL}Tornou-se &b[Expert]!
+- Expert,0,cmd,pex user @player group set Expert
+- Expert,0,cmd,crate key all vip 3
+- Ajudante,0,cmd,pex user @player group set Ajudante
+- Ajudante,0,cmd,tm bc &b&l@player{NL}foi promovido a &e&lAJUDANTE&f!
+- Mod,0,cmd,pex user @player group set Mod
+- Mod,0,cmd,tm bc &b&l@player{NL} foi promovido a &5&lMODERADOR&f!
+- Admin,0,cmd,pex user @player group set Admin
+- Admin,0,cmd,tm bc &b&l@player{NL}foi promovido a &c&lADMIN&f!
+- Gerente,0,cmd,pex user @player group set gerente
+- Gerente,0,cmd,tm bc &b&l@player{NL}foi promovido a &4&lGERENTE&f!
+- Gerente,0,cmd,op @player
+- Diretor,0,cmd,pex user @player group set diretor
+- Diretor,0,cmd,tm bc &b&l@player{NL}foi promovido a &6&lDONO&F!
+- Diretor,0,cmd,op @player
+vips:
+  OneForAll:
+    inicio: 13/06/2018
+    usando: Expert
+    Expert: 30
+keys: {}

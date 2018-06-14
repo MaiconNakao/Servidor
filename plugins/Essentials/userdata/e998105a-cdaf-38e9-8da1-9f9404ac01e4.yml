@@ -1,0 +1,23 @@
+lastAccountName: JavaEdit_
+timestamps:
+  login: 1493161990000
+  kits:
+    explorer: 1493162082184
+  lastteleport: 1493162789503
+  logout: 1493162801258
+ipAddress: 189.114.193.71
+lastlocation:
+  world: world
+  x: 9275.533981793342
+  y: 111.0
+  z: 1592.699999988079
+  yaw: -73.792816
+  pitch: 2.6381505
+logoutlocation:
+  world: world
+  x: 1738.0420628204085
+  y: 79.5
+  z: -319.16365662065624
+  yaw: 169.45345
+  pitch: 16.881454
+money: '22486.636904761905'

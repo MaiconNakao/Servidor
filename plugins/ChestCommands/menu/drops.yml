@@ -1,0 +1,58 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&7DROPS'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'drops'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 1
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: dragon_egg
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+1:
+  COMMAND: 'warp dropsmob'
+  NAME: '&aDROP DE MOBS'
+  KEEP-OPEN: true
+  ENCHANTMENT: 'fortune ,1'
+  ID: 351
+  POSITION-X: 4
+  POSITION-Y: 2
+2:
+  COMMAND: 'warp drops'
+  NAME: '&cDROP DE MAQUINAS'
+  KEEP-OPEN: true
+  ENCHANTMENT: 'fortune ,1'
+  ID: 168
+  POSITION-X: 6
+  POSITION-Y: 2

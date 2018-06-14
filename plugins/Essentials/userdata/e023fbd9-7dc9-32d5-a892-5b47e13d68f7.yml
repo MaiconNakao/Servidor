@@ -1,0 +1,25 @@
+lastAccountName: Blonde
+timestamps:
+  login: 1493320361083
+  kits:
+    explorer: 1493320403173
+    pvp: 1493321535902
+    bronze: 1493321327541
+  lastteleport: 1493321564461
+  logout: 1493322309880
+ipAddress: 187.182.21.137
+lastlocation:
+  world: plotworld
+  x: 53.85575576892398
+  y: 65.0
+  z: 2428.637134335526
+  yaw: -164.27219
+  pitch: 14.500794
+logoutlocation:
+  world: plotworld
+  x: -88.11855922692325
+  y: 65.0
+  z: 2419.998925181475
+  yaw: -94.001526
+  pitch: 8.055113
+money: '373512.748015873'

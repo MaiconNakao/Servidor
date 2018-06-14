@@ -1,0 +1,23 @@
+lastAccountName: VoplerGrM
+timestamps:
+  login: 1493138770282
+  lastteleport: 1493138837694
+  kits:
+    explorer: 1493138843395
+  logout: 1493139975896
+ipAddress: 191.191.93.242
+lastlocation:
+  world: world
+  x: 9467.798351993784
+  y: 103.5
+  z: -3200.0996411755327
+  yaw: -241.98874
+  pitch: 14.122883
+money: '0.0'
+logoutlocation:
+  world: plotworld
+  x: 155.30000001192093
+  y: 65.0
+  z: -190.71692807472803
+  yaw: 349.05798
+  pitch: 7.5001082

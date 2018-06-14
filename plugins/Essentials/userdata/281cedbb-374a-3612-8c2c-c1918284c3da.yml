@@ -1,0 +1,25 @@
+lastAccountName: ursinho
+timestamps:
+  login: 1493087023272
+  lastteleport: 1493087638187
+  kits:
+    prata: 1493087657838
+    explorer: 1493087106304
+    pvp: 1493087448334
+  logout: 1493087773447
+ipAddress: 191.223.171.119
+lastlocation:
+  world: world
+  x: 1792.7495828794497
+  y: 79.0
+  z: -318.1680130446995
+  yaw: -277.64984
+  pitch: 72.9
+logoutlocation:
+  world: world
+  x: 1479.7390040680448
+  y: 79.0
+  z: -313.38758638345774
+  yaw: 242.78839
+  pitch: 90.0
+money: '829570.3993055557'

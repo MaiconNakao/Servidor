@@ -1,0 +1,56 @@
+lastAccountName: Levi
+timestamps:
+  login: 1493411407487
+  kits:
+    gaia: 1493155979236
+    recruta: 1492989020415
+    pvp: 1493228402785
+    caos: 1493154447905
+    novato: 1493075908480
+    soldado: 1492970075825
+    bronze: 1492982333757
+    zeus: 1493058023406
+    general: 1493058984409
+    prata: 1492985710882
+    marechal: 1493058029906
+    ouro: 1492989754301
+    explorer: 1492967854169
+    cronos: 1493057179226
+    diamante: 1493057855264
+    vip: 1493236017662
+    vipexplorer: 1493236006140
+    hades: 1493058026456
+  lastteleport: 1493411629502
+  logout: 1493411760000
+ipAddress: 177.157.134.162
+lastlocation:
+  world: plotworld
+  x: -124.89858732804483
+  y: 68.66559528975537
+  z: -91.8224439644699
+  yaw: -255.87914
+  pitch: 11.899326
+logoutlocation:
+  world: plotworld
+  x: -187.28231566755335
+  y: 133.16983274141703
+  z: -70.7627284684841
+  yaw: -43.55429
+  pitch: 90.0
+homes:
+  home:
+    world: world
+    x: -1314.5670689785438
+    y: 157.0
+    z: -5096.388032318115
+    yaw: 0.022898262
+    pitch: 6.5734344
+  loja:
+    world: plotworld
+    x: -130.22523700559356
+    y: 58.0
+    z: -86.80225856035266
+    yaw: -83.85
+    pitch: 32.45001
+money: '11250018.453640457'
+nickname: Levizera

@@ -1,0 +1,23 @@
+lastAccountName: Zombienho
+timestamps:
+  login: 1493142555298
+  kits:
+    explorer: 1493142091992
+  lastteleport: 1493142176387
+  logout: 1493142720274
+ipAddress: 177.35.247.39
+lastlocation:
+  world: world
+  x: 2110.5
+  y: 58.0
+  z: -2013.5
+  yaw: -90.71924
+  pitch: 2.4044523
+logoutlocation:
+  world: plotworld
+  x: -128.34292878805184
+  y: 65.0
+  z: -106.76249998807907
+  yaw: 149.97093
+  pitch: 12.75699
+money: '0.0'

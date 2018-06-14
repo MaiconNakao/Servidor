@@ -1,0 +1,22 @@
+lastAccountName: armesgamesjogos
+timestamps:
+  login: 1493656311622
+  kits:
+    explorer: 1493656346632
+  lastteleport: 1493656962055
+  logout: 1493657117547
+ipAddress: 200.204.100.35
+lastlocation:
+  world: plotworld
+  x: 36.62188789371106
+  y: 65.0
+  z: 2419.701661080314
+  yaw: -184.50003
+  pitch: 29.750006
+logoutlocation:
+  world: world
+  x: 1449.7296372909511
+  y: 79.0
+  z: -314.0123546839846
+  yaw: -257.16156
+  pitch: 90.0

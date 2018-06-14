@@ -1,0 +1,40 @@
+lastAccountName: TexugaVelha
+timestamps:
+  login: 1493592899910
+  kits:
+    coronel: 1493594808091
+    capitao: 1493594809996
+    gaia: 1493594762632
+    recruta: 1493594833976
+    caos: 1493594753377
+    iniciante: 1493593678534
+    bronze: 1493594825864
+    soldado: 1493594832170
+    zeus: 1493594802292
+    general: 1493594806535
+    campeao: 1493594813849
+    prata: 1493594823011
+    marechal: 1493594804985
+    ouro: 1493594822008
+    cronos: 1493594792017
+    diamante: 1493594815251
+    vip: 1493594742840
+    hades: 1493594803282
+    platina: 1493594816604
+  logout: 1493594880505
+ipAddress: 189.29.80.10
+lastlocation:
+  world: world
+  x: -124.0
+  y: 64.0
+  z: -228.0
+  yaw: 0.0
+  pitch: 0.0
+money: '55000.0'
+logoutlocation:
+  world: world
+  x: 9459.321261191619
+  y: 104.0
+  z: -3184.4848292090296
+  yaw: 116.37231
+  pitch: 77.50372

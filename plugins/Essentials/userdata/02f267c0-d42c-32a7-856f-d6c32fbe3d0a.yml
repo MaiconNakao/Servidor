@@ -1,0 +1,26 @@
+lastAccountName: Rianoligamer062
+timestamps:
+  login: 1493656048990
+  logout: 1493658173981
+  kits:
+    explorer: 1493053475236
+    pvp: 1493053427697
+    iniciante: 1493120585538
+    novato: 1493056219013
+  lastteleport: 1493657968348
+ipAddress: 186.225.219.38
+lastlocation:
+  world: plotworld
+  x: 37.646872397743884
+  y: 65.0
+  z: -275.20763931507656
+  yaw: -55.68436
+  pitch: 16.200846
+logoutlocation:
+  world: world
+  x: 1401.5053853133102
+  y: 79.0
+  z: -318.06217194642034
+  yaw: 171.02249
+  pitch: -6.1831026
+money: '4810350.674983562'

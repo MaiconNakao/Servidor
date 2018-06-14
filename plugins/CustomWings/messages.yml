@@ -1,0 +1,7 @@
+noPermissiontoUseCommand: "&cYou do not have the required permissions to use this command"
+noPermissionEquipWing: "&cYou do not have the permission to equip this wing"
+selectWing: "&2You have equiped the {WING} &2wing"
+unselectWing: "&2You have unequiped your wing"
+seeOtherPlayersWingsON: "&cOther players wings are now hidden for you"
+seeOtherPlayersWingsOFF: "&2You can now see other players wings"
+reloadMessage: "&2CustomWings has been reloaded!"

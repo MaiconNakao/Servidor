@@ -1,0 +1,23 @@
+lastAccountName: zItachi_
+timestamps:
+  login: 1493156264639
+  kits:
+    explorer: 1493156283478
+  lastteleport: 1493156289784
+  logout: 1493156381198
+ipAddress: 201.37.95.157
+lastlocation:
+  world: world
+  x: 9434.93683398711
+  y: 102.0
+  z: -3202.0592957748145
+  yaw: -270.78864
+  pitch: 15.4729
+logoutlocation:
+  world: world
+  x: 1785.3565104649058
+  y: 79.0
+  z: -318.423773402134
+  yaw: 123.70151
+  pitch: 19.51885
+money: '729.1666666666666'

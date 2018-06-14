@@ -1,0 +1,36 @@
+lastAccountName: _Can0n_
+timestamps:
+  login: 1493677707708
+  kits:
+    ouro: 1493599614897
+    explorer: 1492975671334
+    pvp: 1493402636379
+    caos: 1493678023976
+    platina: 1493598576693
+    novato: 1493677880314
+  logout: 1493672386282
+  lastteleport: 1493678055081
+ipAddress: 190.109.66.7
+lastlocation:
+  world: world
+  x: 1247.3642602449004
+  y: 40.0
+  z: -712.6142865106502
+  yaw: 33.717968
+  pitch: 7.52362
+logoutlocation:
+  world: world
+  x: 766.769826903306
+  y: 76.0
+  z: -1011.1543349359339
+  yaw: 69.71289
+  pitch: 14.54998
+money: '8928.0'
+homes:
+  home:
+    world: plotworld
+    x: 36.683289479986826
+    y: 65.0
+    z: 2355.780883880939
+    yaw: 90.3
+    pitch: 69.0

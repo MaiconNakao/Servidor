@@ -1,0 +1,23 @@
+lastAccountName: BrackUchiha
+timestamps:
+  login: 1493593043505
+  kits:
+    explorer: 1493593103024
+    pvp: 1493593117911
+  lastteleport: 1493593129627
+  logout: 1493593304565
+ipAddress: 177.6.35.60
+lastlocation:
+  world: world
+  x: 9461.261566906052
+  y: 102.5
+  z: -3205.107179663741
+  yaw: -290.28833
+  pitch: 21.772896
+logoutlocation:
+  world: world
+  x: 9454.558689733802
+  y: 103.0
+  z: -3197.3184840828976
+  yaw: -30.213123
+  pitch: 90.0

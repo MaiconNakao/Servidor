@@ -1,0 +1,22 @@
+lastAccountName: Pinkship
+timestamps:
+  login: 1493416227644
+  kits:
+    explorer: 1493416305135
+  lastteleport: 1493416350035
+  logout: 1493416366491
+ipAddress: 200.165.181.133
+lastlocation:
+  world: world
+  x: 1764.0903949362782
+  y: 79.0
+  z: -316.580496451068
+  yaw: 7.740082
+  pitch: -0.75832313
+logoutlocation:
+  world: world
+  x: 9271.877076971112
+  y: 113.0
+  z: 1583.6772867794823
+  yaw: -81.544586
+  pitch: 75.42839

@@ -1,0 +1,15 @@
+entrada:
+  world: Fight
+  x: 0.4599466446192669
+  y: 6.5
+  z: 11.366202585028654
+  yaw: -180.08598
+  pitch: 2.189693
+saida:
+  world: Fight
+  x: 0.49542453914778506
+  y: 6.5
+  z: 20.525220210487227
+  yaw: -180.06346
+  pitch: 2.0838838
+GuerreiroAtual: Guiciato

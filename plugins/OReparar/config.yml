@@ -1,0 +1,28 @@
+#
+#     Olá, este plugin foi desenvolvido por Victor696!
+#                    Skype: locked-_
+#              Quaisquer dúvidas só chamar ...
+#
+#                   OReparar - v2.0
+#                     by Victor696
+#
+
+Reparar:
+
+  Custo: 1000                                                 # Custo para poder reparar o item da mão do jogador;
+  Lore:                                                       # Lore do papel do menu do comando /reparar;
+  - ''
+  - '&8* &7Preco: &f$@custo'
+  - '&8* &7Funcao: &fReparar Item de sua mao'
+    
+  Permissao: oreparar.usar                                    # Permissão para uso do comando /reparar;
+    
+  Mensagens:
+  
+    1: "&4* &cEsse item nao precisa ser Reparado!"              # Quando o item estiver com a durabilidade no máximo;
+    2: "&4* &cItem nao compativel!"                        # Quando o item não for compatível com reparação;
+    3: "&4* &cVoce nao tem permissao para isso!"           # Quando o jogador não tiver permissão;
+    4: "&4* &cVoce nao tem dinheiro suficiente! (&2R$&c@valor)"     # Quando o jogador não tiver saldo suficiente;
+    5: "&2* &aItem reparado com Sucesso!"                  # Quando o jogador reparar com sucesso;
+    6: "&4* &cUse este comando somente In-game!"           # Quando o console tentar usar o comando /reparar;
+    7: "&2* &aConfiguracao Recarregada com Sucesso!"       # Quando der reload no plugin; ( /reparar reload )

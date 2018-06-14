@@ -1,0 +1,28 @@
+lastAccountName: Gabriel_5
+timestamps:
+  login: 1493590388121
+  kits:
+    explorer: 1493048961638
+    recruta: 1493592386238
+    pvp: 1493063974514
+    iniciante: 1493591384772
+    novato: 1493050659422
+    bronze: 1493593553159
+  lastteleport: 1493591248499
+  logout: 1493593996161
+ipAddress: 187.74.72.219
+lastlocation:
+  world: world
+  x: 769.2242906608617
+  y: 76.0
+  z: -999.6473299237357
+  yaw: -219.5653
+  pitch: 1.6798377
+logoutlocation:
+  world: world
+  x: 1532.8436106643974
+  y: 79.0
+  z: -315.3517194229766
+  yaw: -130.90675
+  pitch: 7.553881
+money: '11788.417658730172'

@@ -1,0 +1,23 @@
+lastAccountName: gabriell2006
+timestamps:
+  login: 1493494109264
+  logout: 1493494117799
+  lastteleport: 1493249851003
+  kits:
+    explorer: 1493248404820
+ipAddress: 187.40.208.250
+lastlocation:
+  world: plotworld
+  x: -160.48028333238088
+  y: 60.0
+  z: -123.54555715630659
+  yaw: 278.67044
+  pitch: -38.88968
+logoutlocation:
+  world: world
+  x: 9454.5
+  y: 102.5
+  z: -3203.5
+  yaw: -312.34885
+  pitch: 2.2399638
+money: '0.0'

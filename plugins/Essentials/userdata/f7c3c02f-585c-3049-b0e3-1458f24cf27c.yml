@@ -1,0 +1,25 @@
+lastAccountName: zPiclesPvP
+timestamps:
+  login: 1493593151008
+  kits:
+    explorer: 1493593185891
+    pvp: 1493593258294
+    iniciante: 1493594043886
+  lastteleport: 1493594849996
+  logout: 1493594903028
+ipAddress: 177.192.251.46
+lastlocation:
+  world: world
+  x: 1628.9653442279005
+  y: 79.0
+  z: -314.50662599173387
+  yaw: -92.60016
+  pitch: 16.650625
+money: '24340.5902777778'
+logoutlocation:
+  world: world
+  x: 1478.4874695177696
+  y: 79.0
+  z: -318.3710743235458
+  yaw: 164.41922
+  pitch: -20.071465

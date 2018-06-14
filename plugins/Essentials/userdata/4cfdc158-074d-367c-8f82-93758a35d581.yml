@@ -1,0 +1,27 @@
+lastAccountName: pedro19
+timestamps:
+  login: 1493602449829
+  lastteleport: 1493606360019
+  kits:
+    prata: 1493606281326
+    explorer: 1492982564806
+    iniciante: 1493521608438
+    novato: 1493521590033
+    bronze: 1493605435251
+  logout: 1493606614268
+ipAddress: 191.242.123.147
+lastlocation:
+  world: world
+  x: 1531.1986987588036
+  y: 79.0
+  z: -318.37511235737475
+  yaw: -251.99982
+  pitch: 4.800024
+logoutlocation:
+  world: world
+  x: 1478.4836867928946
+  y: 79.0
+  z: -317.90318345827353
+  yaw: 181.34978
+  pitch: 2.099966
+money: '34929.361979166664'

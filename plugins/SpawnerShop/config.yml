@@ -1,0 +1,65 @@
+options:
+  heads: true
+  shopname: Loja de SPAWNERS
+  openmessage: '&aAbrindo a loja de spawners.'
+  signsuccess: '&eLoja criada com sucesso.'
+  inventorysize: 27
+  nopermission: '&cSem acesso para isso.'
+  cooldown: 0
+  cooldownmessage: '&aYou can not use that command yet!'
+  currencysign: $
+  reloadsuccess: '&ePlugin recarregado.'
+  prefix: '&3&lNovaEra '
+  nomoney: '&cSem dinheiro suficiente.'
+prices:
+  enderman: 500000
+  blaze: 1000000
+  skeleton: 500000
+  zombie: 70000
+  creeper: 1000000000
+  cavespider: 1000000
+  spider: 60000
+  wolf: 100000
+  chicken: 100000
+  cow: 20000
+  pig: 30000
+  ocelot: 100000
+  mushroom: 100000
+  sheep: 100000
+  bat: 100000
+  rabbit: 100000
+  squid: 100000
+  villager: 5151234643634
+  zombiepig: 90000
+  silverfish: 100000
+  irongolem: 1500000
+  slime: 100000
+  horse: 100000
+  witch: 100000
+  wither: 3400000
+spawners:
+  enderman: false
+  blaze: true
+  skeleton: false
+  zombie: true
+  creeper: false
+  cavespider: false
+  spider: true
+  wolf: false
+  chicken: false
+  cow: true
+  pig: true
+  ocelot: false
+  mushroom: false
+  sheep: false
+  bat: false
+  rabbit: false
+  squid: false
+  villager: false
+  zombiepigman: true
+  silverfish: false
+  irongolem: true
+  slime: false
+  horse: false
+  witch: false
+  wither: true

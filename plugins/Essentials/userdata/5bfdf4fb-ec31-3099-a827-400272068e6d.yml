@@ -1,0 +1,24 @@
+lastAccountName: juniorr1227
+timestamps:
+  login: 1493595358999
+  kits:
+    explorer: 1493593237422
+    pvp: 1493593487922
+  lastteleport: 1493595533942
+  logout: 1493595752531
+ipAddress: 187.94.206.13
+lastlocation:
+  world: world
+  x: 1635.7891664287738
+  y: 79.0
+  z: -314.8717464809536
+  yaw: 137.09988
+  pitch: 11.84998
+logoutlocation:
+  world: plotworld
+  x: 318.448633054378
+  y: 65.0
+  z: -349.2066824877313
+  yaw: -94.34985
+  pitch: 19.200058
+money: '59416.401909722204'

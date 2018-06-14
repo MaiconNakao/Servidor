@@ -1,0 +1,26 @@
+lastAccountName: Ryan_Marcos
+timestamps:
+  login: 1493593881359
+  lastteleport: 1493597610278
+  kits:
+    explorer: 1493594372120
+    pvp: 1493594212617
+    iniciante: 1493595194739
+    soldado: 1493595920884
+    bronze: 1493596597337
+  logout: 1493598262538
+ipAddress: 177.128.121.14
+lastlocation:
+  world: plotworld
+  x: 325.21134624393267
+  y: 65.0
+  z: -136.90166335244257
+  yaw: -323.97437
+  pitch: 38.032356
+logoutlocation:
+  world: plotworld
+  x: 338.80219720425566
+  y: 65.5
+  z: -139.19536429923315
+  yaw: 111.40805
+  pitch: 17.313261

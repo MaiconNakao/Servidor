@@ -1,0 +1,25 @@
+lastAccountName: Durzim
+timestamps:
+  login: 1493491183627
+  kits:
+    explorer: 1493427168954
+    pvp: 1493427165047
+    iniciante: 1493428644531
+    novato: 1493427447080
+  lastteleport: 1493491226031
+  logout: 1493491238483
+ipAddress: 191.205.78.249
+lastlocation:
+  world: world
+  x: 9475.554556490075
+  y: 102.0
+  z: -3202.3918624523767
+  yaw: -86.888306
+  pitch: 31.222897
+logoutlocation:
+  world: world
+  x: 9260.709816646247
+  y: 111.0625
+  z: 1559.768279204999
+  yaw: -283.74408
+  pitch: 4.8577127

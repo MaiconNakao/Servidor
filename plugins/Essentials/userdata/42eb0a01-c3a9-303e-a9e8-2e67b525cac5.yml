@@ -1,0 +1,24 @@
+lastAccountName: RafaRafa
+timestamps:
+  login: 1493479250340
+  kits:
+    explorer: 1493479297684
+    pvp: 1493479895997
+    novato: 1493480470681
+  lastteleport: 1493480468027
+  logout: 1493480503058
+ipAddress: 79.168.176.220
+lastlocation:
+  world: world
+  x: 1795.227801069174
+  y: 79.5
+  z: -311.5873069787278
+  yaw: -19.19953
+  pitch: 55.691902
+logoutlocation:
+  world: world
+  x: 1739.4156681199074
+  y: 79.0
+  z: -313.8354140528528
+  yaw: 345.92163
+  pitch: 2.8675594

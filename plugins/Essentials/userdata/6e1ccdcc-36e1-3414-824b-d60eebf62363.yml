@@ -1,0 +1,26 @@
+lastAccountName: Biru_
+timestamps:
+  login: 1493571923085
+  lastteleport: 1493573808141
+  kits:
+    explorer: 1492970434162
+    recruta: 1493572079723
+    bronze: 1493572026302
+    soldado: 1493572050736
+  logout: 1493574105352
+ipAddress: 177.128.168.84
+lastlocation:
+  world: world
+  x: 9401.660250411354
+  y: 119.0
+  z: -1073.18657705815
+  yaw: -158.40964
+  pitch: 13.316805
+logoutlocation:
+  world: plotworld
+  x: -224.22005393569083
+  y: 65.0
+  z: 162.93155066293673
+  yaw: -96.89929
+  pitch: 9.3324375
+money: '245041.0714285714'

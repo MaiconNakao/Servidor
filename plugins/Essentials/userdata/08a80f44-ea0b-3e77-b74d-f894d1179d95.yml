@@ -1,0 +1,28 @@
+lastAccountName: PlsDontBeSad
+timestamps:
+  login: 1493661459638
+  logout: 1493661788037
+  kits:
+    prata: 1493596316358
+    explorer: 1493486951524
+    recruta: 1493489598739
+    pvp: 1493597710924
+    novato: 1493488649582
+    bronze: 1493499567545
+  lastteleport: 1493661551045
+ipAddress: 191.241.53.230
+lastlocation:
+  world: world
+  x: 9464.607470519804
+  y: 105.24918707874468
+  z: -3199.108683254958
+  yaw: -39.938416
+  pitch: 25.522905
+logoutlocation:
+  world: plotworld
+  x: -179.71740620599996
+  y: 64.0
+  z: -329.78308688482184
+  yaw: -352.05005
+  pitch: 23.100002
+money: '1010218.586309524'

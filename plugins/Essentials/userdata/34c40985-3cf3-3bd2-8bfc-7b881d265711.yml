@@ -1,0 +1,23 @@
+lastAccountName: CronozFN
+timestamps:
+  login: 1493434801951
+  lastteleport: 1493434820610
+  kits:
+    explorer: 1493434204092
+    pvp: 1493434723236
+  logout: 1493434948551
+ipAddress: 179.189.146.88
+lastlocation:
+  world: world
+  x: 9441.954153296841
+  y: 102.5
+  z: -3203.2246889003763
+  yaw: -271.83847
+  pitch: 0.022902137
+logoutlocation:
+  world: plotworld
+  x: 66.37665898562729
+  y: 65.5
+  z: 73.90968420431258
+  yaw: 171.53549
+  pitch: 22.278574

@@ -1,0 +1,117 @@
+#--------------------------------------------#
+#             LsGuerreiro v1.0               #
+#         Plugin criado por DevLeeo.         #
+#        Contato: Devleeo@outlook.com        #
+#--------------------------------------------#
+
+#Usar items proprios? se false ira usar o kit default(Full iron, espada de iron, arco, maca dourada normal)
+#Se true ira usar os items do inventario do jogador.
+ItemsProprios: true
+
+#Premio para o vencedor do evento.
+Premio: 2000000
+
+#Tag do vencedor do evento.
+Tag: "&f[&3Guerreiro&f]"
+
+#Mensagem quando jogador morre no guerreiro (true = sim, false = nao)
+MensagemMorte:
+    Ativar: true
+    Mensagem: "{prefix} &7{morto} &bfoi eliminado do guerreiro."
+    
+#Bloquear teleporte no evento guerreiro.
+#Recomendo deixar no true, pois podem ocorrer bugs caso esteja false.
+BloquearTeleporte:
+    Ativar: true
+    Mensagem: "{prefix} &cTeleporte bloqueado no evento guerreiro."
+
+#Numero minino de participantes para o evento iniciar
+MinimoPlayers: 2
+
+#Ativar pvp depois de X segundos.
+DelayAtivarPvp: 10
+
+#Tempo para comecar o evento.
+DelayIniciarEvento: 30
+
+#########################
+#       Mensagens       #
+#########################
+
+#Prefix, fica na frente de algumas mensagens.
+Prefix: "&f[&c&lZHG&f]&f"
+
+#Comando bloqueado
+ComandoBloqueado: "{prefix} &cVoce nao pode usar este comando no evento."
+
+#Teleportado saida
+TeleportadoSaida: "{prefix} Voce sera teleportado para o saida em §f5s."
+
+#Mensagem de pvp desativado.
+PvpDesativado: "{prefix} &cPvp desativado, Aguarde o evento iniciar."
+
+#Mensagem informando que o evento ja esta acontecendo.
+Acontecendo: "{prefix} &cO guerreiro ja esta acontecendo."
+
+#Mensagem informando que o evento nao esta acontecendo.
+nAcontecendo: "{prefix} &cO guerreiro nao esta acontecendo."
+
+#Mensagem informando que o evento nao esta aberto.
+NaoAberto: "{prefix} &cO guerreiro nao esta aberto."
+
+#Mensagem avisando que o jogador ja esta no guerreiro.
+JaParticipando: "{prefix} &cVoce ja esta participando do evento."
+
+#Mensagem avisando para esvaziar o inventario.
+EsvazieInv: "{prefix} &cEsvazie seu inventario para entrar no evento"
+
+#Mensagem avisando que entrou no guerreiro.
+EntrouNoGuerreiro: "{prefix} &bVoce entrou no evento guerreiro."
+
+#Mensagem sem permissao
+SemPerm: "{prefix} &cVoce nao tem acesso a este comando."
+
+#Mensagem avisando que o evento esta iniciando.
+Iniciando:
+    - "{prefix} Iniciando guerreiro."
+    - "{prefix} Fechando em 30 segundos."
+    - "{prefix} Para participar use /guerreiro participar."
+    - "{prefix} Valendo 200k + tag &3[Guerreiro]"
+
+#Mensagem enviada quando nao tem o minimo de jogadores para iniciar o evento.
+MinPlayers:
+    - "{prefix} Evento finalizado."
+    - "{prefix} Numero de participantes menor que 2."
+
+#Mensagem enviada avisando que o evento esta fechado.
+EventoFechado:
+    - "{prefix} Evento fechado."
+    - "{prefix} Ativando pvp em 10 segundos."
+
+#Mensagem enviada avisando que o pvp foi ativado.
+PvpAtivado:
+    - "{prefix} PvP Ativado."
+    - "{prefix} Boa sorte a todos."
+
+#Mensagem enviada aos jogadores quando o evento e finalizado por adm.
+FinalizadoPorAdm:
+    - "{prefix} Evento finalizado por um admin."
+    - "{prefix} Participantes teleportados para saida."
+
+#Mensagem enviada quando usa /guerreiro status
+GuerreiroStatus:
+    - "{prefix} Status:"
+    - "&3» &bAcontecendo: &f{acontecendo}"
+    - "&3» &bJogadores vivos: &f{vivos}"
+
+#Mensagem enviada quando o evento e finalizado.
+GuerreiroFinalizado:
+    - "&3{prefix} &bEvento finalizado."
+    - "&3{prefix} &bVencedor: &7{player}"
+    - "&3{prefix} &bO vencedor recebeu 200k + tag b3[Guerreiro]"
+
+#Lista de comandos bloqueados no evento
+ComandosBloqueados:
+  - buff
+  - tpaccept
+  - tpyes

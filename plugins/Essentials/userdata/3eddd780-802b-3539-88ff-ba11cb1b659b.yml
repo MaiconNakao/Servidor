@@ -1,0 +1,22 @@
+lastAccountName: zManinho
+timestamps:
+  login: 1528840041046
+  logout: 1528841182091
+  lastteleport: 1528841149295
+  kits:
+    villager: 1528840288952
+ipAddress: 177.55.41.203
+lastlocation:
+  world: Mina
+  x: 894.4162908738575
+  y: 66.0
+  z: -1250.4946215017467
+  yaw: -179.56049
+  pitch: 24.187231
+logoutlocation:
+  world: world
+  x: -439.0553764266665
+  y: 48.0
+  z: 54.14161304199343
+  yaw: 268.94714
+  pitch: 15.340951

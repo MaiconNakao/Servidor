@@ -1,0 +1,23 @@
+lastAccountName: KINGOFWARS123
+timestamps:
+  login: 1493324605239
+  kits:
+    explorer: 1493253276189
+  lastteleport: 1493253320095
+  logout: 1493324606539
+ipAddress: 201.37.241.176
+lastlocation:
+  world: world
+  x: 9457.022415305824
+  y: 103.0
+  z: -3186.4247696776447
+  yaw: 90.411514
+  pitch: 34.372875
+logoutlocation:
+  world: world
+  x: 9454.5
+  y: 102.5
+  z: -3203.5
+  yaw: -270.48846
+  pitch: -1.4770979
+money: '2958.829365079365'

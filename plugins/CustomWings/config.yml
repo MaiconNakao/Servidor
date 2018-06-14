@@ -1,0 +1,201 @@
+#The distance players have to be within to see each others wings
+wingsVisibilityDistance: 30
+
+#All data of the Main gui
+Gui:
+  guiName: "&c&lWing selector"
+  guiSize: 54
+  
+  wingRemover:
+    itemName: "&4Remove Wing"
+    itemMaterial: 166
+    itemDamage: 0
+    itemSlot: 53
+    
+  seeWingsToggle:
+    itemNameON: "&4Hide players wings"
+    itemNameOFF: "&5Show players wings"
+    itemMaterialON: 95
+    itemDamageON: 13
+    itemMaterialOFF: 95
+    itemDamageOFF: 14
+    itemSlot: 52
+
+Wings:
+  #This will also the wingname that is used in the permission node
+  SoulShadow:
+    gui:
+      itemName: "&5Soul Shadow"
+      itemMaterial: 381
+      itemDamage: 0
+      itemSlot: 0
+      equippedLore: 
+        - "&6You have the &5Soulshadow Wing &6equipped"
+      unequippedLore:
+        - "&3You do not have the &5Soulshadow Wing &3equipped"
+      noPermissionLore:
+        - "&cYou do not own the &5Soulshadow Wing"
+  
+    wing:
+      #The lowest point of the wing compared to the players feet
+      startingY: 0.3
+      #The distance conmapred to the center of the player to the start of the wing
+      distanceFromPlayer: 0.2
+      #The distance between particles in the x and y direction
+      distanceBetweenParticles: 0.1
+      
+      #Should the wing be animated
+      wingAnimation: true
+      #Offset between the 2 points the wing will flap. If wingAnimation = false startOffset will still be used.
+      #This is in degrees where directly next to the player is 0 degrees and behind the player is 90 degrees
+      startOffset: 30
+      #This is in degrees where directly next to the player is 90 degrees and behind the player is 0 degrees
+      stopOffset: 20
+      #This how fast the wing should flap. This is in degrees per 2 ticks
+      wingFlapSpeed: 4
+      
+      #All of the symples with their particle name. More then one can be used.
+      #If you see a barrier particle (if you did not use it) it means you probably did not define a character or made a spelling mistake.
+      
+      #1.12 particles. In lower versions some particles may not be available
+      
+      #barrier, cloud, crit, crit_magic, damage_indicator, dragon_breath, drip_lava, drip_water, enchantment_table, end_rod, explosion_huge, explosion_large, explosion_normal
+      #fireworks_spark, flame, heart, lava, note, portal, redstone, slime, smoke_large, smoke_normal, snow_shovel, showball, spell, spell_instant, spell_mob, spell_mob_ambient
+      #spell_witch, spit, suspended, suspended_depth, sweep_attack, totem, town_aura, villager_angry, villager_happy, water_bubble, water_drop, water_splash, water_wake
+      
+      particleNames:
+        x: "crit_magic" 
+      
+      #The grid of the Wing itself. It's recommended to use Notepad++ for this as all characters in Notepad++ have the same height and width.
+      lines:
+        1:  "-,-,-,-,x,x,x,-,-,-"
+        2:  "-,-,-,x,x,x,x,x,-,-"
+        3:  "-,-,x,x,x,x,x,x,x,-"
+        4:  "-,x,x,x,x,x,x,x,x,-"
+        5:  "x,x,x,x,x,x,x,x,x,x"
+        6:  "x,x,x,x,x,x,x,x,x,x"
+        7:  "x,x,x,x,x,x,x,x,x,x"
+        8:  "x,x,x,x,x,x,x,x,x,x"
+        9:  "-,-,x,x,x,x,x,x,x,x"
+        10: "-,-,-,x,x,x,x,x,x,x"
+        11: "-,-,-,x,x,x,x,x,x,x"
+        12: "-,-,-,-,x,x,x,x,x,x"
+        13: "-,-,-,-,x,x,x,x,x,x"
+        14: "-,-,-,-,-,x,x,x,x,-"
+        15: "-,-,-,-,-,x,x,x,x,-"
+        16: "-,-,-,-,-,-,x,x,x,-"
+        17: "-,-,-,-,-,-,x,x,x,-"
+        18: "-,-,-,-,-,-,-,x,x,-"
+        19: "-,-,-,-,-,-,-,-,x,-"
+
+  BloodHound:
+    gui:
+      itemName: "&4Blood Hound"
+      itemMaterial: 331
+      itemDamage: 0
+      itemSlot: 1
+      equippedLore: 
+        - "&6You have the &4Blood Hound Wing &6equipped"
+      unequippedLore:
+        - "&3You do not have the &4Blood Hound Wing &3equipped"
+      noPermissionLore:
+        - "&cYou do not own the &4Blood Hound Wing"
+  
+    wing:
+      startingY: 0.4
+      distanceFromPlayer: 0.2
+      distanceBetweenParticles: 0.2
+      
+      wingAnimation: false
+      startOffset: 20
+      stopOffset: 0
+      wingFlapSpeed: 0
+      
+      particleNames:
+        x: "redstone"
+        +: "flame"
+      
+      lines:
+        1:  "-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,x,+"
+        2:  "-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,x,+,-"
+        3:  "-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,x,+,-,-"
+        4:  "-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,x,x,x,-,-,-"
+        5:  "-,-,-,-,-,-,-,-,-,-,-,-,-,-,x,x,x,+,-,-,-"
+        6:  "-,-,-,-,-,-,-,-,-,-,-,-,-,x,x,x,+,-,-,-,-"
+        7:  "-,-,-,-,-,-,-,-,-,-,-,x,x,x,x,+,-,-,-,-,-"
+        8:  "-,-,-,-,-,-,-,-,-,-,x,x,x,+,-,-,-,-,x,+,-"
+        9:  "-,-,-,-,-,-,-,-,-,x,x,x,+,-,-,-,x,x,+,-,-"
+        10: "-,-,-,-,-,-,-,x,x,x,+,-,-,-,-,x,x,+,-,-,-"
+        11: "-,-,-,-,-,-,x,x,+,-,-,-,-,x,x,+,-,-,-,-,-"
+        12: "-,-,-,-,x,x,x,+,-,-,-,x,x,x,+,-,-,-,-,-,-"
+        13: "-,-,-,x,x,+,-,-,-,x,x,x,+,-,-,-,-,-,-,-,-"
+        14: "-,-,x,x,x,-,-,x,x,x,+,-,-,-,-,-,x,+,-,-,-"
+        15: "-,-,-,x,x,x,x,x,+,-,-,-,-,x,x,x,+,-,-,-,-"
+        16: "-,-,-,-,x,x,x,+,-,-,x,x,x,x,+,-,-,-,-,-,-"
+        17: "-,-,-,-,x,x,x,-,-,x,x,x,+,-,-,-,-,-,-,-,-"
+        18: "-,-,-,-,-,x,x,x,x,x,+,-,-,-,-,x,+,-,-,-,-"
+        19: "-,-,-,-,-,x,x,x,+,-,-,-,x,x,x,+,-,-,-,-,-"
+        20: "-,-,-,-,x,x,x,+,-,-,-,x,x,+,-,-,-,-,-,-,-"
+        21: "-,-,-,-,x,x,x,-,-,x,x,+,-,-,-,-,-,-,-,-,-"
+        22: "-,-,-,x,x,x,x,x,x,x,+,-,-,-,-,-,-,-,-,-,-"
+        23: "x,x,x,x,x,x,x,x,-,-,-,-,-,-,-,-,-,-,-,-,-"
+        24: "-,x,x,-,-,-,x,x,-,-,-,-,-,-,-,-,-,-,-,-,-"
+        25: "-,-,x,x,-,-,-,x,x,-,-,-,-,-,-,-,-,-,-,-,-"
+        26: "-,-,-,x,x,-,-,-,x,x,-,-,-,-,-,-,-,-,-,-,-"
+        27: "-,-,-,-,x,x,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-"
+        
+  Wisdom:
+    gui:
+      itemName: "&fWisdom"
+      itemMaterial: 403
+      itemDamage: 1
+      itemSlot: 2
+      equippedLore: 
+        - "&6You have the &fWisdom Wing &6equipped"
+      unequippedLore:
+        - "&3You do not have the &fWisdom Wing &3equipped"
+      noPermissionLore:
+        - "&cYou do not own the &fWisdom Wing Wing"
+  
+    wing:
+      startingY: 0.4
+      distanceFromPlayer: 0.2
+      distanceBetweenParticles: 0.2
+      
+      wingAnimation: false
+      startOffset: 20
+      stopOffset: 0
+      wingFlapSpeed: 0
+      
+      particleNames:
+        x: "enchantment_table"
+        +: "spell"
+      
+      lines:
+        1:  "-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,x,+"
+        2:  "-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,x,+,-"
+        3:  "-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,x,+,-,-"
+        4:  "-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,x,x,x,-,-,-"
+        5:  "-,-,-,-,-,-,-,-,-,-,-,-,-,-,x,x,x,+,-,-,-"
+        6:  "-,-,-,-,-,-,-,-,-,-,-,-,-,x,x,x,+,-,-,-,-"
+        7:  "-,-,-,-,-,-,-,-,-,-,-,x,x,x,x,+,-,-,-,-,-"
+        8:  "-,-,-,-,-,-,-,-,-,-,x,x,x,+,-,-,-,-,x,+,-"
+        9:  "-,-,-,-,-,-,-,-,-,x,x,x,+,-,-,-,x,x,+,-,-"
+        10: "-,-,-,-,-,-,-,x,x,x,+,-,-,-,-,x,x,+,-,-,-"
+        11: "-,-,-,-,-,-,x,x,+,-,-,-,-,x,x,+,-,-,-,-,-"
+        12: "-,-,-,-,x,x,x,+,-,-,-,x,x,x,+,-,-,-,-,-,-"
+        13: "-,-,-,x,x,+,-,-,-,x,x,x,+,-,-,-,-,-,-,-,-"
+        14: "-,-,+,x,x,-,-,x,x,x,+,-,-,-,-,-,x,+,-,-,-"
+        15: "-,-,-,+,x,x,x,x,+,-,-,-,-,x,x,x,+,-,-,-,-"
+        16: "-,-,-,-,+,x,x,+,-,-,x,x,x,x,+,-,-,-,-,-,-"
+        17: "-,-,-,-,+,x,x,-,-,x,x,x,+,-,-,-,-,-,-,-,-"
+        18: "-,-,-,-,-,+,x,x,x,x,+,-,-,-,-,x,+,-,-,-,-"
+        19: "-,-,-,-,-,+,x,x,+,-,-,-,x,x,x,+,-,-,-,-,-"
+        20: "-,-,-,-,+,x,x,+,-,-,-,x,x,+,-,-,-,-,-,-,-"
+        21: "-,-,-,-,+,x,x,-,-,x,x,+,-,-,-,-,-,-,-,-,-"
+        22: "-,-,-,+,x,x,x,x,x,x,+,-,-,-,-,-,-,-,-,-,-"
+        23: "x,x,x,x,x,x,x,x,-,-,-,-,-,-,-,-,-,-,-,-,-"
+        24: "-,+,x,-,-,-,+,x,-,-,-,-,-,-,-,-,-,-,-,-,-"
+        25: "-,-,+,x,-,-,-,+,x,-,-,-,-,-,-,-,-,-,-,-,-"
+        26: "-,-,-,+,x,-,-,-,+,x,-,-,-,-,-,-,-,-,-,-,-"
+        27: "-,-,-,-,+,x,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-"

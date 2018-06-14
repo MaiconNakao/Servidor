@@ -1,0 +1,25 @@
+lastAccountName: SrDevidMito_Br
+timestamps:
+  login: 1493658605333
+  kits:
+    explorer: 1492978985851
+    novato: 1493588396590
+    platina: 1493660505249
+  lastteleport: 1493660288289
+  logout: 1493660519361
+ipAddress: 177.138.145.226
+lastlocation:
+  world: plotworld
+  x: 108.80481591171451
+  y: 65.0
+  z: 292.0353037504972
+  yaw: -89.33519
+  pitch: 30.012913
+logoutlocation:
+  world: plotworld
+  x: 109.10018891518014
+  y: 65.0
+  z: 291.4158402692244
+  yaw: 45.95728
+  pitch: 16.882261
+money: '3016.5488591269823'

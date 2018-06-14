@@ -1,0 +1,42 @@
+command /pl:
+    trigger:
+        send "&cVoce foi para a lista dos monitorados"
+command /plugins:
+    trigger:
+        send "&cVoce foi para a lista dos monitorados"
+command /ver [<player>]:
+    trigger:
+        send "&cVoce foi para a lista dos monitorados"
+command /version [<player>]:
+    trigger:
+        send "&cVoce foi para a lista dos monitorados"
+command /? [<player>]:
+    trigger:
+        send "&cVoce foi para a lista dos monitorados"
+command /icanhasbukkit [<player>]:
+    trigger:
+        send "&cVoce foi para a lista dos monitorados"
+command /about [<player>]:
+    trigger:
+        send "&cVoce foi para a lista dos monitorados"
+command /bukkit:? [<player>]:
+    trigger:
+        send "&cVoce foi para a lista dos monitorados"
+command /bukkit:ver [<player>]:
+    trigger:
+        send "&cVoce foi para a lista dos monitorados"
+command /bukkit:about [<player>]:
+    trigger:
+        send "&cVoce foi para a lista dos monitorados"
+command /bukkit:version [<player>]:
+    trigger:
+        send "&cVoce foi para a lista dos monitorados"
+command /bukkit:help [<player>]:
+    trigger:
+        send "&cVoce foi para a lista dos monitorados"
+command /bukkit:pl [<player>]:
+    trigger:
+        send "&cVoce foi para a lista dos monitorados"
+command /bukkit:plugins [<player>]:
+    trigger:
+        send "&cVoce foi para a lista dos monitorados"

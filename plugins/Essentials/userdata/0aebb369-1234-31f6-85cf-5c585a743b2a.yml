@@ -1,0 +1,26 @@
+lastAccountName: yGodPvP
+timestamps:
+  login: 1492993277070
+  kits:
+    explorer: 1492992150259
+    pvp: 1492992356036
+    soldado: 1492993460959
+    novato: 1492993469759
+  lastteleport: 1492993832948
+  logout: 1492993974768
+ipAddress: 189.76.242.194
+lastlocation:
+  world: world
+  x: 9454.5
+  y: 102.5
+  z: -3203.5
+  yaw: -276.85037
+  pitch: 6.661784
+logoutlocation:
+  world: world
+  x: 9272.65368792152
+  y: 113.0
+  z: 1578.762499988079
+  yaw: -11.466431
+  pitch: 32.171207
+money: '45035.71428571427'

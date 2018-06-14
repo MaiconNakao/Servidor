@@ -1,0 +1,439 @@
+# Citizens NPC Storage
+
+
+
+
+
+
+last-created-npc-id: 18
+npc:
+  '1':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjI2MjkyNzUyMTIsInByb2ZpbGVJZCI6IjgzMmQwNGRhYzY2MDQ4ZDk4NmVkNzI0N2ZhNWI4OGUzIiwicHJvZmlsZU5hbWUiOiJBc3Ryb25hdXRhIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YTNlZjMzNjc1OGU3NzJhMTNjNjY5ZmYxZDhiZTQ1MTUxMDc4ZjVjODhjMzY0YmQ5N2FjMDlkNzQxNDgxN2MifX19
+      cached-skin-uuid-name: astronauta
+      cached-skin-uuid: 832d04da-c660-48d9-86ed-7247fa5b88e3
+      player-skin-name: astronauta
+      player-skin-signature: p13s/eq6bA2LcvvslsBycB2VU4fr7g3pJnU5QpCkrbv5G1v1j9voDa1cyo8NwqRHxLgK9dxvs0xakQRwfwwzkCm00Ri0aEQNNEHCWxX++iyytTw6n6EVvy319xUIxyQu9sW/tMs78DIL/yVELjC8JS5dtMGSswq0HPnH2Nb1VDNbXSAno7GUPdrtodYLKkx+vgllrfRJ3qF9/rxz9IcRGmwyUQOTPNsz7cuCyPwPzmJ42xgU+QaQ/rRs775siseEOZsdLvV8W5b7K8wP5BFU/PVPTKAPIf8f8EjWCDafYRe6X8YfftE39EgyYT5zNuuPSYUVK9/fB7ZAChRkfsQxjSNaEtHNWgXdnshB5pYucszDm68FurtqB3JcmIz+xI7+OsiXXShHlWOmlbkBU4NvklXqj9wUpOmuUULglYcjomvyXg03uMmlARZHapTxeMDQIq8OPEc4VYWGAN4qvim64sTeGoerDfPYhuFSFFPEbQFaKfLTMu1u2ma2DNGPqRrldbd06U4/1FMqP325ZyDQAClYjCvDDxRoajwmUutdluFwYVTU/y8FghJiCUhnG3tUDIcY2Rn89zDMHJpM3tOoNoFI7VP5PoYA+rOK/QfdT/6csK1WQp5bU1aQOvrjBs2hrGIDqaylBvQJr4sn9YkoLATv7XWInVjmfHDuYBgv0Is=
+    name: §6Astronauta
+    uuid: 89836547-10c2-4210-9556-33e672486860
+    traits:
+      inventory: {}
+      location:
+        world: world
+        x: '-414.46992277657876'
+        y: '51.5'
+        z: '71.50490333660458'
+        yaw: '-180.373046875'
+        pitch: '-1.2199010848999023'
+      spawned: true
+      owner:
+        owner: LeoDevi
+        uuid: 0d342046-c7cc-457c-b93b-fc07fec15616
+    traitnames: owner,location,inventory,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    name: §6§lLOJA VIRTUAL
+    uuid: b7417c22-cb39-42ab-b5ee-bc839a6f8561
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: world
+        x: '-462.47844677962394'
+        y: '-5.725865449549707E7'
+        z: '4.554739789808872'
+        yaw: '312.1522216796875'
+        pitch: '0.0'
+      type: Villager
+      owner:
+        owner: Ieieu202_
+        uuid: dfb5dde5-d400-4b8a-8b18-47aef26c72af
+    traitnames: location,owner,inventory,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    name: §7Mercado Negro
+    uuid: 17deefea-271c-4c7e-835d-ef3d497d485f
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: world
+        x: '-426.49708772260124'
+        y: '51.5'
+        z: '59.53496306727426'
+        yaw: '-95.56524658203125'
+        pitch: '0.0'
+      type: Villager
+      owner:
+        owner: Ieieu202_
+        uuid: a72c4126-b0ec-37fe-bafd-7d2ed03cf12c
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: owner,location,inventory,lookclose,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '18':
+    name: §3§lKEYS DIARIAS
+    uuid: 007951ed-738c-4196-aa82-05ae7fadbea5
+    traits:
+      spawned: true
+      location:
+        world: world
+        x: '-380.46732846573747'
+        y: '48.5'
+        z: '51.489008146545274'
+        yaw: '57.563995361328125'
+        pitch: '-6.0941667556762695'
+      inventory: {}
+      owner:
+        owner: fndsOP_
+        uuid: 6aef1b44-9a8d-3657-92f4-230533e01d0f
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: location,owner,inventory,spawned,lookclose,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjI2MjkyNzU0MjMsInByb2ZpbGVJZCI6IjJkOGU3ZWZlZmViNDQ2ZTVhMzYxMTY4NDdhNDNkMjUyIiwicHJvZmlsZU5hbWUiOiJHb29kIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNGM2NjlkZTNlZTc5Y2FkZGQyZTIxNjQ3NDcxYjAyNGVjMTg2NWU5ZDFhY2U0ZmU5ZjhiM2NiMWI4OGQiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ==
+      cached-skin-uuid-name: good
+      cached-skin-uuid: 2d8e7efe-feb4-46e5-a361-16847a43d252
+      player-skin-name: good
+      player-skin-signature: eOiHcRFhAta/wD2q9DJeA4eJsNBfsmtCcXDF5bYDsYFxwY3bJhszdDD06zXhJUwIC44Ih1vD0EmFlkOCOjJ0k7vQBTku2fb4B2cGMoDDAfDmFaUpwbO6xx3LunZBNHDWp47t6fiFwkMiVYg+VoyEfsLRF3014DcOiT4eh6ZzzivwkHu8X1jGlNFvAIpi+VrfhheuoIThwBMC5AP2DseSkKr+NgwE3TdPyTk97audPb0th1LWE0jf6fuEi4vjWGuyRttEIevVpRp+Zu3bzGuUPZDcSsYSkT5bYS53MT7zKYIxbbh423boqJyHDGHVa9obMPa5AUh9gK94RspHjU5wUjH+wSoo9hNTq8sp0hZVgWMG/sfDWILCp/kjnKYLakLg3es3o3pG/vJaSpVgEK7RrwZc3b7PshxIIqB9UVYmL0MfJrHNOxrWOntoa5KvPjELoe0FQkaReZwVGjeNvtbpkQOc5qbAD1cx1mCEJeeryq45wduPBrXLFCPId6ciHI84+hx6cUY+lGsSq2hzkCS01YnKX6Pjwa41aNxuSnOs+dftuud+v++sjooGbp+nhoQjj+gWkamApP91Dr83IqWu2IrviZ8cqd8DlFn3hDKSHqMcSQicsYC+A5TO/FqOn9UlfchQPDcMmPoHUnivF5EeQzzvbwDJek2e+NHYSyYToS8=
+  '17':
+    metadata:
+      player-skin-name: sefduarte
+    name: §aSefDuarte
+    uuid: 3d6476c7-d4b0-410b-8c35-47a52c249c9f
+    traits:
+      location:
+        world: world
+        x: '-422.5109484744725'
+        y: '50.5'
+        z: '39.52137132131746'
+        yaw: '-179.62841796875'
+        pitch: '23.966007232666016'
+      inventory:
+        '0':
+          type: DIAMOND_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      equipment:
+        hand:
+          type: DIAMOND_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: DIAMOND_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: DIAMOND_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: DIAMOND_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: location,inventory,equipment,spawned,lookclose,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '16':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjI2MjkyNzQ4NTQsInByb2ZpbGVJZCI6IjBiY2FhOWQ2NDIzMzRlNDY4MWRlMDJiYmZiZWUyMDc5IiwicHJvZmlsZU5hbWUiOiJQYWNvcXVpdGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ExMjhjM2UxOTIxM2YxN2Q4MmFmMzAxYjYzMWM5NzU4ODNiYjM0MmNmM2U1NTY3YjZjNWFmYzk1NTJlZDIxMTMifX19
+      cached-skin-uuid-name: pacoquita
+      cached-skin-uuid: 0bcaa9d6-4233-4e46-81de-02bbfbee2079
+      player-skin-name: pacoquita
+      player-skin-signature: Ti1r+ZP5zFhmKDx6bkhVUuOHVhI6nMSRQvYRn6zwTapl/c/zFLM7qqI1yqHIFHK+T12vcY5R23elPAY46EYpUwE2mRU1+bnr4dyLIngQdSQm9dxXugm9FkSxjtukc8ZGt7ITdoX0pNRdZ4DNN/U5uCRvuNrZAGJnWpxkjjWwIZqonzBB9qb1TcA69h5WQZOj5CfsRYJpbljK2jRRhr6v9zXiijSdq4hnvjEF5gq4lEbPcDjS05aFVZymn+JJw+qfJBPA13pmpUfX39ePj/v6PHpo3MZGzbuYge6unjDIjjbiK1nHrt27ed4U5MScAav8RV1JoGuiPXvU+SHcNAHPUAWPD/XnbpYCmk6qD3rYEv0Wi1UQIjGLEVp9QHMgtmd1YVI3Hp8oIs45kwlOPZdbdQLpgpH9yklgCzi4tuMQYFI5tx4lrgE/dOwQsYe14t4VJdzFl7nHOuK3Wo9BIY1sdaKP5zxJpbdKqVrIaPqI/d5F5TnmFh9NNXICQ8mbrfjg7CIOL7wbTpGWvPiVd1S05A5xWPj3VawAYA8j6gfQ0VVPFkAFWRrL7VPqJzPCeBIQnNZjPzTUxZd7JMTrS0zoMQbTS/p9kaAUd6VPcTFc9bd2aOrBygpxLXREvcu2SJMgdn6Gf6mrKATmjJ7Ec16XgRkgNjrxnBUUfgEE2JbCHDI=
+    name: §6Pacoquita
+    uuid: 04680335-a8f3-415f-9f59-95808d14aff3
+    traits:
+      location:
+        world: world
+        x: '-424.47529640536305'
+        y: '50.0'
+        z: '37.494866904418046'
+        yaw: '-132.20437622070312'
+        pitch: '14.822417259216309'
+      inventory:
+        '0':
+          type: GOLD_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      equipment:
+        hand:
+          type: GOLD_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: GOLD_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: GOLD_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: GOLD_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: location,inventory,equipment,spawned,lookclose,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '15':
+    metadata:
+      player-skin-name: 4n1m3_i5_l1f3
+    name: §c4N1M3_I5_L1F3
+    uuid: 14be627f-2766-436f-9cd1-f2017c722b31
+    traits:
+      location:
+        world: world
+        x: '-425.5164413130844'
+        y: '49.5'
+        z: '35.50129743925737'
+        yaw: '-117.29885864257812'
+        pitch: '13.902565956115723'
+      inventory:
+        '0':
+          type: IRON_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      equipment:
+        hand:
+          type: IRON_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: IRON_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: IRON_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: IRON_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: location,inventory,equipment,spawned,lookclose,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '14':
+    metadata:
+      player-skin-name: miticnerd
+    name: §bMiticNerd
+    uuid: 3fe049e8-bd8d-4efb-8146-4e05515f6aeb
+    traits:
+      location:
+        world: world
+        x: '-424.525959750693'
+        y: '49.0'
+        z: '33.520172591534475'
+        yaw: '-101.160400390625'
+        pitch: '10.636273384094238'
+      inventory:
+        '0':
+          type: STONE_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      equipment:
+        hand:
+          type: STONE_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: CHAINMAIL_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: CHAINMAIL_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: CHAINMAIL_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: location,inventory,equipment,spawned,lookclose,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '13':
+    metadata:
+      player-skin-name: fndsop_
+    name: §bfndsOP_
+    uuid: 59b08f04-0d2a-45b4-969b-ac5c0e367379
+    traits:
+      location:
+        world: world
+        x: '-423.48486792195985'
+        y: '48.5'
+        z: '31.482739745447223'
+        yaw: '-81.70352172851562'
+        pitch: '-5.127750873565674'
+      inventory:
+        '0':
+          type: WOOD_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      equipment:
+        hand:
+          type: WOOD_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: LEATHER_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: LEATHER_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: LEATHER_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: location,inventory,equipment,spawned,lookclose,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '12':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjI2MjkyNzQ4NTQsInByb2ZpbGVJZCI6IjBiY2FhOWQ2NDIzMzRlNDY4MWRlMDJiYmZiZWUyMDc5IiwicHJvZmlsZU5hbWUiOiJQYWNvcXVpdGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ExMjhjM2UxOTIxM2YxN2Q4MmFmMzAxYjYzMWM5NzU4ODNiYjM0MmNmM2U1NTY3YjZjNWFmYzk1NTJlZDIxMTMifX19
+      cached-skin-uuid-name: pacoquita
+      cached-skin-uuid: 0bcaa9d6-4233-4e46-81de-02bbfbee2079
+      player-skin-name: pacoquita
+      player-skin-signature: Ti1r+ZP5zFhmKDx6bkhVUuOHVhI6nMSRQvYRn6zwTapl/c/zFLM7qqI1yqHIFHK+T12vcY5R23elPAY46EYpUwE2mRU1+bnr4dyLIngQdSQm9dxXugm9FkSxjtukc8ZGt7ITdoX0pNRdZ4DNN/U5uCRvuNrZAGJnWpxkjjWwIZqonzBB9qb1TcA69h5WQZOj5CfsRYJpbljK2jRRhr6v9zXiijSdq4hnvjEF5gq4lEbPcDjS05aFVZymn+JJw+qfJBPA13pmpUfX39ePj/v6PHpo3MZGzbuYge6unjDIjjbiK1nHrt27ed4U5MScAav8RV1JoGuiPXvU+SHcNAHPUAWPD/XnbpYCmk6qD3rYEv0Wi1UQIjGLEVp9QHMgtmd1YVI3Hp8oIs45kwlOPZdbdQLpgpH9yklgCzi4tuMQYFI5tx4lrgE/dOwQsYe14t4VJdzFl7nHOuK3Wo9BIY1sdaKP5zxJpbdKqVrIaPqI/d5F5TnmFh9NNXICQ8mbrfjg7CIOL7wbTpGWvPiVd1S05A5xWPj3VawAYA8j6gfQ0VVPFkAFWRrL7VPqJzPCeBIQnNZjPzTUxZd7JMTrS0zoMQbTS/p9kaAUd6VPcTFc9bd2aOrBygpxLXREvcu2SJMgdn6Gf6mrKATmjJ7Ec16XgRkgNjrxnBUUfgEE2JbCHDI=
+    name: §aPacoquita
+    uuid: 58902d3f-a4fe-4f9c-b34a-c454ea3277fe
+    traits:
+      location:
+        world: world
+        x: '-414.513474440769'
+        y: '52.0'
+        z: '47.530786368862486'
+        yaw: '1.1239395141601562'
+        pitch: '-1.1629869937896729'
+      inventory:
+        '0':
+          type: GOLD_INGOT
+          amount: 1
+          durability: 0
+          mdata: 0
+      equipment:
+        hand:
+          type: GOLD_INGOT
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: GOLD_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: GOLD_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: GOLD_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+    traitnames: location,inventory,equipment,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

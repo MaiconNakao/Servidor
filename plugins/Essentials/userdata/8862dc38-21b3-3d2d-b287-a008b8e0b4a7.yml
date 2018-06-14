@@ -1,0 +1,44 @@
+lastAccountName: iLabyG0D
+timestamps:
+  login: 1493669023331
+  kits:
+    zeus: 1493484549609
+    gaia: 1493417446486
+    explorer: 1493075866983
+    cronos: 1493484536409
+    athena: 1493484608682
+    vip: 1493591120659
+    caos: 1493484462334
+  lastteleport: 1493603635202
+  logout: 1493676111409
+ipAddress: 189.110.174.162
+lastlocation:
+  world: plotworld
+  x: 33.43650541138618
+  y: 67.0
+  z: 185.5737404913595
+  yaw: -219.90254
+  pitch: 28.799898
+homes:
+  vender:
+    world: plotworld
+    x: 35.19881111579941
+    y: 65.0
+    z: 189.66632855436035
+    yaw: 2.7000213
+    pitch: 20.700024
+  farm:
+    world: plotworld
+    x: 38.57252375418781
+    y: 65.0
+    z: 2378.2491385733965
+    yaw: -319.01904
+    pitch: 17.759186
+logoutlocation:
+  world: world
+  x: 9441.870356713855
+  y: 106.0
+  z: -3197.9600852512763
+  yaw: -80.888435
+  pitch: 42.022907
+money: '3360506.539704823'

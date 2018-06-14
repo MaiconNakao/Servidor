@@ -1,0 +1,22 @@
+lastAccountName: Ultra_Fire
+timestamps:
+  login: 1493592605072
+  kits:
+    explorer: 1493592691022
+  lastteleport: 1493594035182
+  logout: 1493594239146
+ipAddress: 187.120.38.75
+lastlocation:
+  world: world
+  x: 9452.131831234194
+  y: 103.5
+  z: -3203.5099470650894
+  yaw: -268.05185
+  pitch: 56.633755
+logoutlocation:
+  world: world
+  x: 9451.942024981698
+  y: 103.5
+  z: -3204.2318078151643
+  yaw: -230.91759
+  pitch: 37.16737

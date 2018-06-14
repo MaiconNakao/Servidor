@@ -1,0 +1,33 @@
+lastAccountName: Dream_Nick
+timestamps:
+  login: 1493600007087
+  kits:
+    ouro: 1493568410561
+    explorer: 1493483894130
+    iniciante: 1493484850534
+  lastteleport: 1493600028430
+  logout: 1493600092696
+ipAddress: 152.249.153.77
+lastlocation:
+  world: plotworld
+  x: -178.58562956726905
+  y: 65.0
+  z: 221.8929972018349
+  yaw: 312.31387
+  pitch: 11.332901
+money: '111048.122829861113'
+homes:
+  home:
+    world: plotworld
+    x: -101.69407212310159
+    y: 65.0
+    z: 152.0010201988056
+    yaw: 1.4851507
+    pitch: 19.607775
+logoutlocation:
+  world: world
+  x: 9469.20979360814
+  y: 105.0
+  z: -3198.907601168377
+  yaw: 61.407074
+  pitch: 53.61821

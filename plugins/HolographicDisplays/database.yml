@@ -1,0 +1,75 @@
+frag:
+  location: world, -406.518, 50.200, 32.409
+  lines:
+  - '&b&lFragmentos'
+  - '&aVenda-os por um bom Preço'
+topkils:
+  location: world, -420.891, 51.200, 35.595
+  lines:
+  - '&a&lTopKills'
+  - '&3-->&fApenas os Matadores São colocados Aqui&3<---'
+  - '&bSeja um deles Matando todos que Encontrar'
+coin:
+  location: world, -414.510, 56.200, 47.667
+  lines:
+  - '&e&lTop Grana Do Server'
+regras:
+  location: world, -418.589, 53.200, 59.484
+  lines:
+  - '&aSeja Esperto e use o &3/Regras'
+luapvp:
+  location: Lua, -21.490, 239.200, 22.511
+  lines:
+  - '&6&lPvP (On) &a&lDepois da linha &4&lVermelha'
+cubo1:
+  location: Lua, -17.378, 239.700, 10.568
+  lines:
+  - '&a&lCubo 1'
+cubo2:
+  location: Lua, -38.548, 239.700, 6.487
+  lines:
+  - '&a&lCubo 2'
+cubo3:
+  location: Lua, -47.524, 239.700, -10.505
+  lines:
+  - '&a&lCubo 3'
+cubo4:
+  location: Lua, -46.333, 239.700, -30.445
+  lines:
+  - '&a&lCubo 4'
+cubo5:
+  location: Lua, -33.514, 239.700, -42.376
+  lines:
+  - '&a&lCubo 5'
+cubo6:
+  location: Lua, -13.739, 239.700, -45.875
+  lines:
+  - '&a&lCubo 6'
+cubo7:
+  location: Lua, -8.252, 239.700, -26.470
+  lines:
+  - '&a&lCubo 7'
+cubo8:
+  location: Lua, 8.732, 239.700, -28.455
+  lines:
+  - '&a&lCubo 8'
+cubo9:
+  location: Lua, -6.433, 239.700, -10.671
+  lines:
+  - '&a&lCubo 9'
+cubo10:
+  location: Lua, -6.516, 239.700, -0.589
+  lines:
+  - '&a&lCubo 10'
+cubo11:
+  location: Lua, -24.482, 239.700, -9.476
+  lines:
+  - '&a&lCubo 11'
+arenap:
+  location: Killer, 803.700, 27.125, -294.764
+  lines:
+  - '&ePara entrar &a&l/WARP ARENAP'
+recheadavip:
+  location: Teste, -3.649, 114.600, 4.546
+  lines:
+  - '&e&lRecheadaVip'

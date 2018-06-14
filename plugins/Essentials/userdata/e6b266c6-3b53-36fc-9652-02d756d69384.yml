@@ -1,0 +1,47 @@
+lastAccountName: _PlaYs_
+timestamps:
+  login: 1493597993468
+  kits:
+    prata: 1493598281843
+    ouro: 1493598278391
+    explorer: 1493047773298
+    recruta: 1493598299990
+    pvp: 1493598810288
+    iniciante: 1493051189807
+    novato: 1493500116034
+    bronze: 1493598286045
+    platina: 1493598268342
+    soldado: 1493598297734
+  lastteleport: 1493598823448
+  logout: 1493598874828
+ipAddress: 187.109.95.19
+lastlocation:
+  world: plotworld
+  x: 178.10752294247763
+  y: 65.0
+  z: -130.39195375670425
+  yaw: 330.24692
+  pitch: 8.289138
+money: '5167.4649573079'
+logoutlocation:
+  world: world
+  x: 9448.409187811667
+  y: 102.5
+  z: -3201.781518639965
+  yaw: -99.94861
+  pitch: 14.732053
+homes:
+  farm:
+    world: plotworld
+    x: 208.82392969053362
+    y: 70.0
+    z: -107.77647669409589
+    yaw: 354.73944
+    pitch: 43.09082
+  bau:
+    world: plotworld
+    x: 172.5
+    y: 53.0
+    z: -115.5
+    yaw: 89.909424
+    pitch: 70.853935

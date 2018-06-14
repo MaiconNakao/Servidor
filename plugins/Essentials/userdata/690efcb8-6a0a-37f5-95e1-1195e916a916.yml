@@ -1,0 +1,24 @@
+lastAccountName: oMAGOBR
+timestamps:
+  login: 1493659833556
+  kits:
+    explorer: 1493659868525
+    novato: 1493660137815
+  lastteleport: 1493660135866
+  logout: 1493660486833
+ipAddress: 50.177.170.165
+lastlocation:
+  world: world
+  x: 9274.735541695478
+  y: 111.0
+  z: 1576.5586507802861
+  yaw: 14.155609
+  pitch: 5.7577105
+money: '15492.45876736111'
+logoutlocation:
+  world: world
+  x: 9456.840806487804
+  y: 103.5
+  z: -3202.7894383993307
+  yaw: -230.7097
+  pitch: 32.099995

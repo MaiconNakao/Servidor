@@ -1,0 +1,29 @@
+lastAccountName: vamobr
+timestamps:
+  login: 1492985994179
+  lastteleport: 1492993842349
+  kits:
+    prata: 1492993403299
+    ouro: 1492993389298
+    explorer: 1492986429832
+    iniciante: 1492985555635
+    platina: 1492992893549
+    bronze: 1492993469209
+    soldado: 1492993984734
+  logout: 1492994387708
+ipAddress: 191.254.149.170
+lastlocation:
+  world: world
+  x: 9456.435646626325
+  y: 103.5
+  z: -3203.486217169324
+  yaw: -269.10977
+  pitch: 83.40004
+money: '80874.59325396789'
+logoutlocation:
+  world: world
+  x: 9259.845792660259
+  y: 111.0625
+  z: 1558.288555134634
+  yaw: -279.17126
+  pitch: -30.178389

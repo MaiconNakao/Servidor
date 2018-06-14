@@ -1,0 +1,25 @@
+lastAccountName: DeereL
+timestamps:
+  login: 1492992182842
+  kits:
+    explorer: 1492971092624
+    pvp: 1492971086924
+    bronze: 1492972793431
+  lastteleport: 1492974094351
+  logout: 1492992200344
+ipAddress: 179.158.143.162
+lastlocation:
+  world: world
+  x: 1771.8285253718975
+  y: 79.0
+  z: -314.97372870958856
+  yaw: 132.85175
+  pitch: 11.718843
+logoutlocation:
+  world: world
+  x: 9451.830568737434
+  y: 103.0
+  z: -3205.4106479794445
+  yaw: 3.8615298
+  pitch: 17.572908
+money: '716182.1428571428'

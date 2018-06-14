@@ -1,0 +1,20 @@
+lastAccountName: ySwaggerPvP
+timestamps:
+  login: 1493583717836
+  lastteleport: 1493583771872
+  logout: 1493583788063
+ipAddress: 187.41.202.26
+lastlocation:
+  world: world
+  x: 9455.512246904616
+  y: 104.0
+  z: -3203.184291245588
+  yaw: 188.09016
+  pitch: 8.05159
+logoutlocation:
+  world: world
+  x: 9454.612583358641
+  y: 103.0
+  z: -3202.790032214335
+  yaw: -99.04535
+  pitch: 24.446577

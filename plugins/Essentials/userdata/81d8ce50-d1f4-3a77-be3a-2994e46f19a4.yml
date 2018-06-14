@@ -1,0 +1,23 @@
+lastAccountName: WildStyleRO
+timestamps:
+  login: 1493429480306
+  lastteleport: 1493002520398
+  kits:
+    explorer: 1493002526899
+  logout: 1493429502607
+ipAddress: 200.100.203.51
+lastlocation:
+  world: world
+  x: 9450.63212473784
+  y: 103.5
+  z: -3203.4181746290997
+  yaw: -272.66086
+  pitch: -10.772247
+logoutlocation:
+  world: world
+  x: 9430.853001715936
+  y: 101.5
+  z: -3204.841164287637
+  yaw: -95.92901
+  pitch: 11.332104
+money: '400.00000000000364'

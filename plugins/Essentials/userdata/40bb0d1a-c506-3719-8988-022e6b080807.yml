@@ -1,0 +1,24 @@
+lastAccountName: Aykon_Gamer
+timestamps:
+  login: 1493654525554
+  logout: 1493655510310
+  kits:
+    explorer: 1493593009350
+    pvp: 1493655060003
+    novato: 1493655081266
+  lastteleport: 1493655326683
+ipAddress: 179.111.70.54
+lastlocation:
+  world: world
+  x: 1778.5
+  y: 80.0
+  z: -307.5
+  yaw: 180.25175
+  pitch: 3.6188433
+logoutlocation:
+  world: plotworld
+  x: -6.47864976400095
+  y: 65.0
+  z: 2405.0010584647566
+  yaw: 10.349731
+  pitch: 48.20001

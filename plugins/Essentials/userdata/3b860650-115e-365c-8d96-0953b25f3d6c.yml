@@ -1,0 +1,49 @@
+lastAccountName: gabriell2003
+timestamps:
+  login: 1493656170842
+  kits:
+    campeao: 1493591526687
+    prata: 1493520115877
+    ouro: 1493605233567
+    explorer: 1492984278849
+    recruta: 1493596848024
+    diamante: 1493605198765
+    pvp: 1493596757206
+    iniciante: 1493596820459
+    novato: 1493596799422
+    bronze: 1493656237697
+    soldado: 1493595813207
+    platina: 1493656302869
+  lastteleport: 1493657366059
+  logout: 1493657741084
+ipAddress: 187.40.208.250
+lastlocation:
+  world: plotworld
+  x: 35.3892410365322
+  y: 65.0
+  z: 2433.6425490075158
+  yaw: 10.568134
+  pitch: 46.09539
+money: '3919.4279515473'
+logoutlocation:
+  world: plotworld
+  x: 22.625950638269956
+  y: 65.0
+  z: 2428.4824311399752
+  yaw: -337.6433
+  pitch: 17.031599
+homes:
+  casa1:
+    world: plotworld
+    x: -172.7905548975
+    y: 65.0
+    z: -130.59852323220838
+    yaw: 311.4347
+    pitch: 4.971669
+  casa2:
+    world: plotworld
+    x: -175.4591709866149
+    y: 47.0
+    z: -169.30721154587485
+    yaw: 28.358063
+    pitch: 16.799992

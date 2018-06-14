@@ -1,0 +1,50 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&7Arenas'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'Arenas;arena'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    item-id: 1
+    left-click: false
+    right-click: true
+#   data-value: 0
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+slot2de3:
+  COMMAND: 'warp arenafps'
+  NAME: '&eArena Fps'
+  LORE:
+    - ' Clique para ir para a Arena'
+  ID: 20
+  KEEP-OPEN: false
+  POSITION-X: 3
+  POSITION-Y: 2
+11sdasdas123123dwewad:
+  COMMAND: 'warp arena'
+  NAME: '&cArena (MANUTENCAO)'
+  ID: 160
+  KEEP-OPEN: true
+  DATA-VALUE: 14
+  POSITION-X: 7
+  POSITION-Y: 2

@@ -1,0 +1,25 @@
+lastAccountName: informau
+timestamps:
+  login: 1493675039837
+  kits:
+    prata: 1493672083720
+    explorer: 1493667930446
+    novato: 1493672032929
+    soldado: 1493675342195
+  lastteleport: 1493672159661
+  logout: 1493677129092
+ipAddress: 200.161.107.5
+lastlocation:
+  world: plotworld
+  x: -36.0
+  y: 65.0
+  z: 286.0
+  yaw: 3.7544596
+  pitch: 22.19824
+logoutlocation:
+  world: plotworld
+  x: -59.56189877788114
+  y: 65.0
+  z: 333.5197853030682
+  yaw: 188.33311
+  pitch: -3.1781056

@@ -1,0 +1,37 @@
+lastAccountName: uRomaVapePago
+timestamps:
+  login: 1493652850830
+  kits:
+    prata: 1493605648661
+    ouro: 1493605651512
+    explorer: 1493598011041
+    pvp: 1493598601187
+    novato: 1493599707361
+    bronze: 1493599717170
+    platina: 1493605638851
+  lastteleport: 1493653514056
+  logout: 1493653534514
+ipAddress: 191.189.18.128
+lastlocation:
+  world: world
+  x: 1343.2620519286925
+  y: 79.0
+  z: -313.47617961957025
+  yaw: 78.736855
+  pitch: 4.4970446
+money: '3317922.55208333314'
+homes:
+  home:
+    world: plotworld
+    x: -179.54713210899808
+    y: 65.0
+    z: -326.44824435915615
+    yaw: -353.88538
+    pitch: 10.943024
+logoutlocation:
+  world: plotworld
+  x: -188.85557733952874
+  y: 65.0
+  z: -310.8322598055394
+  yaw: -319.11014
+  pitch: 24.202547

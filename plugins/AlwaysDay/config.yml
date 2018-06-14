@@ -1,0 +1,20 @@
+enabled: true
+worlds:
+  day:
+  - world
+  - PlotWorld
+  - Lua
+  - Fight
+  - Mina
+  - Arena
+  - Killer
+  - Lojavip
+  - Teste
+  night: []
+  calm:
+  - world
+  - Mina
+  storm: []
+updates:
+  autoupdate: true
+  remind: true

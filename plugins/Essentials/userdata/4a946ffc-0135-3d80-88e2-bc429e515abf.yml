@@ -1,0 +1,50 @@
+lastAccountName: BixApfel
+timestamps:
+  login: 1493675783028
+  kits:
+    capitao: 1493665211447
+    recruta: 1493678339490
+    pvp: 1493512541352
+    iniciante: 1493516274053
+    novato: 1493493406094
+    soldado: 1493405783430
+    bronze: 1493420627445
+    campeao: 1493493851363
+    prata: 1492973220907
+    ouro: 1493516464527
+    explorer: 1492968469110
+    diamante: 1493499824961
+    platina: 1493500790172
+  lastteleport: 1493678281322
+  logout: 1493673840667
+ipAddress: 187.57.110.243
+lastlocation:
+  world: world
+  x: 9400.796185118996
+  y: 119.0
+  z: -1068.300000011921
+  yaw: -2.0345764
+  pitch: 72.69809
+money: '10566.9613917404786'
+logoutlocation:
+  world: plotworld
+  x: 105.23132595314816
+  y: 65.0
+  z: 2440.483826707895
+  yaw: -3.09219
+  pitch: 30.656033
+homes:
+  farm:
+    world: plotworld
+    x: 29.30000001192093
+    y: 65.5
+    z: -109.30000001192093
+    yaw: -163.54565
+    pitch: 32.68833
+  trap:
+    world: plotworld
+    x: 105.41921225704925
+    y: 65.0
+    z: 2434.8276593513824
+    yaw: 0.6269226
+    pitch: 11.377096

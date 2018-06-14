@@ -1,0 +1,9 @@
+FakePlayers:
+  enabled: true
+  max-players: 2018
+  fake-players: 1
+  random:
+    enabled: false
+    min-players: 10
+    max-player: 20
+    max-players: 2018

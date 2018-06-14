@@ -1,0 +1,25 @@
+lastAccountName: Gabriel_br234
+timestamps:
+  login: 1493672052090
+  kits:
+    explorer: 1493662751777
+    pvp: 1493662743964
+    novato: 1493663690790
+    soldado: 1493675156045
+  lastteleport: 1493678264644
+  logout: 1493663910410
+ipAddress: 179.197.253.145
+lastlocation:
+  world: plotworld
+  x: -83.48437178491298
+  y: 65.5
+  z: 288.07109846382286
+  yaw: -245.10022
+  pitch: 20.699995
+logoutlocation:
+  world: world
+  x: 1724.699999988079
+  y: 79.0
+  z: -320.63144967648424
+  yaw: -79.98461
+  pitch: 88.95001

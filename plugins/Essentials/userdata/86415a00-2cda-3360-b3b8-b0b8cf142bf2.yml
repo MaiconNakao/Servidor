@@ -1,0 +1,40 @@
+lastAccountName: CaribeGames
+timestamps:
+  login: 1493517088093
+  logout: 1493517152628
+  lastteleport: 1493426391094
+  kits:
+    prata: 1493063795862
+    explorer: 1493043571411
+    bronze: 1493048840324
+ipAddress: 189.38.138.94
+lastlocation:
+  world: world
+  x: -3754.6433781641044
+  y: 125.0
+  z: -3257.5616038641283
+  yaw: -45.51587
+  pitch: -0.39957896
+logoutlocation:
+  world: plotworld
+  x: 168.1082457207943
+  y: 65.875
+  z: -216.79029352880877
+  yaw: -84.45093
+  pitch: 15.300043
+money: '30859502.951119415'
+homes:
+  home:
+    world: plotworld
+    x: -106.5469523386272
+    y: 65.0
+    z: 157.84208816589543
+    yaw: 93.749794
+    pitch: 10.749999
+  mesa:
+    world: plotworld
+    x: 183.0334967030355
+    y: 69.0
+    z: -206.30000001192093
+    yaw: -349.50317
+    pitch: 40.65001

@@ -1,0 +1,23 @@
+lastAccountName: skay_0
+timestamps:
+  login: 1493080698749
+  kits:
+    explorer: 1493080732401
+    pvp: 1493080743302
+  logout: 1493080787166
+ipAddress: 177.158.230.49
+lastlocation:
+  world: world
+  x: -124.0
+  y: 64.0
+  z: -228.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 9456.226257227097
+  y: 103.0
+  z: -3207.530342763116
+  yaw: -79.08862
+  pitch: 10.672903
+money: '0.0'

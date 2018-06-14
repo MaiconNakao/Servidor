@@ -1,0 +1,157 @@
+Configuracao:
+   Achar_Minerando: true
+   # Ao matar um jogador tem chance de encontrar um fragmento (true = sim)
+   Achar_Batalhando: false
+   Nome_NPC: '&6Astronauta'
+   Ativar_Animacao: true
+
+Porcentagens:
+   Chance_Encontrar_Minerando: 2
+   Chance_Encontrar_Combate: 3
+
+# Coloque aqui o ID dos blocos que ao serem quebrados poderam givar um fragmento
+Blocos:
+- '21'
+- '1'
+- '133'
+- '129'
+- '56'
+- '73'
+
+Fragmento:
+   Comum:
+    ID: 349
+    Data: 3
+    Nome: '&6Fragmento COMUM'
+    Encantado: true
+    # Coloque 'null' se quer deixar sem lore
+    Lore:
+    - '&7Fragmento tipo: &a&lCOMUM'
+   Raro:
+    ID: 349
+    Data: 3
+    Nome: '&6Fragmento RARO'
+    Encantado: true
+    # Coloque 'null' se quer deixar sem lore
+    Lore:
+    - '&7Fragmento tipo: &b&lRARO'
+   Epico:
+    ID: 349
+    Data: 3
+    Nome: '&6Fragmento EPICO'
+    Encantado: true
+    # Coloque 'null' se quer deixar sem lore
+    Lore:
+    - '&7Fragmento tipo: &5&lEPICO'
+   Lendario:
+    ID: 349
+    Data: 3
+    Nome: '&6Fragmento LENDARIO'
+    Encantado: true
+    # Coloque 'null' se quer deixar sem lore
+    Lore:
+    - '&7Fragmento tipo: &6&lLENDARIO'
+
+Menu:
+   Titulo: 'Fragmentos'
+   Informacoes:
+    Comum:
+    - '&7Voce pode encontrar fragmentos comum'
+    - '&7minerando.'
+    - ''
+    - '&7Clique &8AQUI &7para ver as possiveis trocas!'
+    Raro:
+    - '&7Voce pode encontrar fragmentos raros'
+    - '&7batalhando ou comprando na loja de'
+    - '&7fragmentos comum.'
+    - ''
+    - '&7Clique &8AQUI &7para ver as possiveis trocas!'
+    Epico:
+    - '&7Voce pode conseguir fragmentos epicos'
+    - '&7comprando na loja de fragmentos raros.'
+    - ''
+    - '&7Clique &8AQUI &7para ver as possiveis trocas!'
+    Lendario:
+    - '&7Voce pode conseguir fragmentos lendarios'
+    - '&7comprando na loja de fragmentos epicos.'
+    - ''
+    - '&7Clique &8AQUI &7para ver as possiveis trocas!'
+
+Mensagens:
+   Sem_Permissao: '&e[Fragmentos] &cVoce nao possui permissao!'
+   Encontrou: '&e[Fragmentos] &aVoce encontrou um fragmento!'
+   Adquirido: '&e[Fragmentos] &aItem adquirido com sucesso!'
+   Tutorial:
+   - '&e[Fragmentos] Tutorial:'
+   - ' &eVoce pode encontrar fragmentos minerando'
+   - ' &eTroque seus fragmentos no Astronauta localizado no SPAWN'
+   - ' &eExistem 4 tipos de fragmentos: &a&lCOMUM&e, &b&lRARO&e, &5&lEPICO&e e &6&lLENDARIO'
+
+Itens_Loja:
+   Comum:
+    Espada:
+     ID: 276
+     Data: 0
+    # Coloque 'null' se quer deixar o item com o nome original
+     Nome: '&eEspada Fragmentada'
+     Quantidade: 1
+    # Preco em fragmentos (Exemplo> Preco: 5 = Sera necessario 5 fragmentos para comprar o item)
+     Preco: 5
+     Slot: 20
+    # Coloque 'null' se quer deixar sem lore
+     Lore:
+     - 'null'
+    # Coloque 'null' se quer deixar sem encantamentos
+    # Modo de encantamento: 'ID;Nivel'
+    # Lista de encantamentos: https://goo.gl/k4vAqn
+     Encantamentos:
+     - '16;5'
+    FragmentoRaro:
+     ID: 349
+     Data: 3
+     Nome: '&6Fragmento RARO'
+     Quantidade: 1
+     Preco: 10
+     Slot: 22
+     Lore:
+     - '&7Fragmento tipo: &b&lRARO'
+     Encantamentos:
+     - '16;1'
+   Raro:
+    FragmentoEpico:
+     ID: 349
+     Data: 3
+     Nome: '&6Fragmento EPICO'
+     Quantidade: 1
+     Preco: 20
+     Slot: 22
+     Lore:
+     - '&7Fragmento tipo: &5&lEPICO'
+     Encantamentos:
+     - '16;1'
+   Epico:
+    FragmentoLendario:
+     ID: 349
+     Data: 3
+     Nome: '&6Fragmento LENDARIO'
+     Quantidade: 1
+     Preco: 35
+     Slot: 22
+     Lore:
+     - '&7Fragmento tipo: &6&lLENDARIO'
+     Encantamentos:
+     - '16;1'
+   Lendario:
+    Espada:
+     ID: 276
+     Data: 0
+     Nome: 'null'
+     Quantidade: 1
+     Preco: 20
+     Slot: 22
+     Lore:
+     - 'null'
+     Encantamentos:
+     - '16;20'
+     - '21;20'
+     - '34;20'

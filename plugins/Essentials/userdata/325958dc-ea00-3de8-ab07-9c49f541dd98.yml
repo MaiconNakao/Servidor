@@ -1,0 +1,23 @@
+lastAccountName: lequinhogamer123
+timestamps:
+  login: 1493597861604
+  kits:
+    explorer: 1493003063072
+  lastteleport: 1493003117599
+  logout: 1493598004343
+ipAddress: 191.183.200.233
+lastlocation:
+  world: world
+  x: 1764.8858617182914
+  y: 79.0
+  z: -313.8535423956056
+  yaw: 31.75156
+  pitch: 2.8688433
+logoutlocation:
+  world: world
+  x: 9421.448319301033
+  y: 100.0
+  z: -3223.948259347401
+  yaw: -180.3386
+  pitch: 11.872903
+money: '1245.5357142857144'

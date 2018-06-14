@@ -1,0 +1,23 @@
+lastAccountName: zDoritosPvP_GOD
+timestamps:
+  login: 1493247583985
+  lastteleport: 1493168764357
+  kits:
+    explorer: 1493167705399
+  logout: 1493247596390
+ipAddress: 143.255.13.43
+lastlocation:
+  world: world
+  x: 2113.9700693425275
+  y: 57.0
+  z: -2013.6411188935845
+  yaw: -268.9923
+  pitch: 5.125581
+logoutlocation:
+  world: world
+  x: 9454.5
+  y: 102.5
+  z: -3203.5
+  yaw: -271.83847
+  pitch: 0.022902137
+money: '0.0'

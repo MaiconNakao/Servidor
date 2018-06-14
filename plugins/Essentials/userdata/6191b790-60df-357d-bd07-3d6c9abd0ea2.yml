@@ -1,0 +1,26 @@
+lastAccountName: RiseGOD_
+timestamps:
+  login: 1493662126464
+  kits:
+    explorer: 1493590987984
+    pvp: 1493646854426
+    iniciante: 1493591420743
+    bronze: 1493647674425
+  lastteleport: 1493662162975
+  logout: 1493662176692
+ipAddress: 187.105.190.220
+lastlocation:
+  world: world
+  x: 9455.132587053848
+  y: 102.5
+  z: -3193.3267156855177
+  yaw: -346.73706
+  pitch: 29.238663
+money: '598.47005208328'
+logoutlocation:
+  world: world
+  x: 1442.8906031259928
+  y: 79.0
+  z: -313.0498436430353
+  yaw: 100.20609
+  pitch: 7.8010178

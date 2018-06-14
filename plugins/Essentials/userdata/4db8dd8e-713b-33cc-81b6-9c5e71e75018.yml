@@ -1,0 +1,27 @@
+lastAccountName: meunomenaoetarso
+timestamps:
+  login: 1493519181787
+  kits:
+    explorer: 1493509596471
+    recruta: 1493512527737
+    pvp: 1493509895180
+    novato: 1493509872504
+    soldado: 1493511327990
+    bronze: 1493513433256
+  lastteleport: 1493513500982
+  logout: 1493520469304
+ipAddress: 152.237.255.222
+lastlocation:
+  world: world
+  x: 9277.080816775075
+  y: 104.0
+  z: 1572.6613557352384
+  yaw: 30.056002
+  pitch: 30.59994
+logoutlocation:
+  world: world
+  x: 9448.273026714876
+  y: 103.0
+  z: -3203.4177168767137
+  yaw: -271.83847
+  pitch: 0.022902137

@@ -1,0 +1,306 @@
+# Full plugin documentation:
+# dev.bukkit.org/bukkit-plugins/random_box/pages/main/documentation/
+
+boxName: '&eCaixa Misteriosa'
+
+boxItem: CHEST
+
+lore:
+- '&7Tipo: &fBásica'
+
+checkPermission: false
+
+openWhenClicked: true
+
+addGlow: false
+
+unstackable: true
+
+cooldown: 5
+
+gui:
+  enabled: false
+  rolling:
+  - {delay: 1, iterations: 7}
+  - {delay: 2, iterations: 6}
+  - {delay: 3, iterations: 5}
+  - {delay: 4, iterations: 4}
+  window:
+    type: CHEST
+    format:
+    - '$$$$$$$$$'
+    - '@@@@A@@@@'
+    - '$$$$$$$$$'
+    fillers:
+      '#':
+        item: {id: 160, data: 15, delay: 3}
+        onStop:
+          item: {id: 160, data: 15}
+      '$':
+        animated:
+        - {id: 160, data: 4, delay: 47}
+        - {id: 160, data: 15, delay: 20}
+        - {id: 160, data: 4, delay: 20}
+        - {id: 160, data: 15, delay: 20}
+      '@':
+        animated:
+        - {id: 160, data: 15, delay: 47}
+        - {id: 160, data: 4, delay: 20}
+        - {id: 160, data: 15, delay: 20}
+        - {id: 160, data: 4, delay: 20}
+
+effects:
+  open:
+    sound:
+      sound: 
+      volume: 1.0
+      pitch: 1.0
+  move:
+    sound: {sound: NOTE_PLING}
+  drop:
+    sound: {sound: }
+  close:
+    sound: {sound: }
+
+effects:
+  open:
+    sound:
+      sound: CHEST_OPEN
+      volume: 1.0
+      pitch: 1.0
+  move:
+    sound: {sound: CLICK}
+  drop:
+    sound: {sound: ANVIL_LAND}
+  close:
+    sound: {sound: CHEST_CLOSE}
+
+itemsToSelectCount: 1
+
+items:
+  item1:
+    item: DIAMOND_HELMET
+    name: '&bCapacete de Diamante'
+    enchants:
+      protection: 8
+      fire_protection: 8
+      unbreaking: 8
+      blast_protection: 8
+    amount: 1
+    chance: 4
+  item2:
+    item: DIAMOND_CHESTPLATE
+    name: '&bPeitoral de Diamante'
+    enchants:
+      protection: 8
+      fire_protection: 8
+      unbreaking: 8
+      blast_protection: 8
+    amount: 1
+    chance: 4
+  item3:
+    item: DIAMOND_LEGGINGS
+    name: '&bCalças de Diamante'
+    enchants:
+      protection: 8
+      fire_protection: 8
+      unbreaking: 8
+      blast_protection: 8
+    amount: 1
+    chance: 4
+  item4:
+    item: DIAMOND_BOOTS
+    name: '&bBotas de Diamante'
+    enchants:
+      protection: 8
+      fire_protection: 8
+      unbreaking: 8
+      blast_protection: 8
+    amount: 1
+    chance: 4
+  item5:
+    item: DIAMOND_SWORD
+    name: '&bEspada de Diamante'
+    enchants:
+      sharpness: 8
+      unbreaking: 3
+      fire: 2
+    amount: 1
+    chance: 4
+  item6:
+    item: BOW
+    name: '&bArco'
+    enchants:
+      power: 8
+      unbreaking: 3
+      flame: 2
+    amount: 1
+    chance: 4
+  item7:
+    item: DIAMOND_PICKAXE
+    name: '&bPicareta de Diamante'
+    enchants:
+      efficiency: 8
+      unbreaking: 8
+      fortune: 8
+    amount: 1
+    chance: 4
+  item8:
+    commands:
+      command1:
+        line: 'thor %player%'
+        fromConsole: true
+    item: DIAMOND_HELMET
+    name: '&bCapacete de Diamante'
+    enchants:
+      protection: 10
+      fire_protection: 10
+      unbreaking: 10
+      blast_protection: 10
+    amount: 1
+    chance: 2
+    dropEffect:
+      broadcast: '&e[Caixa] &e%player% &aconseguiu um item &5RARO &ana Caixa Misteriosa!'
+  item9:
+    commands:
+      command1:
+        line: 'thor %player%'
+        fromConsole: true
+    item: DIAMOND_CHESTPLATE
+    name: '&bPeitoral de Diamante'
+    enchants:
+      protection: 10
+      fire_protection: 10
+      unbreaking: 10
+      blast_protection: 10
+    amount: 1
+    chance: 2
+    dropEffect:
+      broadcast: '&e[Caixa] &e%player% &aconseguiu um item &5RARO &ana Caixa Misteriosa!'
+  item10:
+    commands:
+      command1:
+        line: 'thor %player%'
+        fromConsole: true
+    item: DIAMOND_LEGGINGS
+    name: '&bCalças de Diamante'
+    enchants:
+      protection: 10
+      fire_protection: 10
+      unbreaking: 10
+      blast_protection: 10
+    amount: 1
+    chance: 2
+    dropEffect:
+      broadcast: '&e[Caixa] &e%player% &aconseguiu um item &5RARO &ana Caixa Misteriosa!'
+  item11:
+    commands:
+      command1:
+        line: 'thor %player%'
+        fromConsole: true
+    item: DIAMOND_BOOTS
+    name: '&bBotas de Diamante'
+    enchants:
+      protection: 10
+      fire_protection: 10
+      unbreaking: 10
+      blast_protection: 10
+    amount: 1
+    chance: 2
+    dropEffect:
+      broadcast: '&e[Caixa] &e%player% &aconseguiu um item &5RARO &ana Caixa Misteriosa!'
+  item12:
+    commands:
+      command1:
+        line: 'thor %player%'
+        fromConsole: true
+    item: DIAMOND_SWORD
+    name: '&bEspada de Diamante'
+    enchants:
+      sharpness: 10
+      unbreaking: 5
+      fire: 4
+    amount: 1
+    chance: 2
+    dropEffect:
+      broadcast: '&e[Caixa] &e%player% &aconseguiu um item &5RARO &ana Caixa Misteriosa!'
+  item13:
+    commands:
+      command1:
+        line: 'thor %player%'
+        fromConsole: true
+    item: BOW
+    name: '&bArco'
+    enchants:
+      power: 10
+      unbreaking: 3
+      flame: 3
+      infinity: 1
+    amount: 1
+    chance: 2
+    dropEffect:
+      broadcast: '&e[Caixa] &e%player% &aconseguiu um item &5RARO &ana Caixa Misteriosa!'
+  item14:
+    commands:
+      command1:
+        line: 'thor %player%'
+        fromConsole: true
+    item: DIAMOND_PICKAXE
+    name: '&bPicareta de Diamante'
+    enchants:
+      efficiency: 10
+      unbreaking: 10
+      fortune: 10
+    amount: 1
+    chance: 2
+    dropEffect:
+      broadcast: '&e[Caixa] &e%player% &aconseguiu um item &5RARO &ana Caixa Misteriosa!'
+  item15:
+    item: IRON_BLOCK
+    name: '&fBloco de Ferro'
+    dontAssignName: true
+    amount: 8
+    chance: 7
+  item16:
+    item: GOLD_BLOCK
+    name: '&fBloco de Ouro'
+    dontAssignName: true
+    amount: 8
+    chance: 7
+  item17:
+    item: DIAMOND_BLOCK
+    name: '&fBloco de Diamante'
+    dontAssignName: true
+    amount: 8
+    chance: 7
+  item18:
+    item: EMERALD_BLOCK
+    name: '&fBloco de Esmeralda'
+    dontAssignName: true
+    amount: 8
+    chance: 7
+  item19:
+    item: DIAMOND_AXE
+    name: '&bMachado de Diamante'
+    enchants:
+      efficiency: 5
+      unbreaking: 3
+      fortune: 3
+    amount: 1
+    chance: 3
+  item20:
+    item: DIAMOND_AXE
+    name: '&bMachado de Diamante'
+    enchants:
+      efficiency: 5
+      unbreaking: 3
+      fortune: 3
+    amount: 1
+    chance: 3
+  item21:
+    item: DIAMOND_PICKAXE
+    name: '&bPicareta de Diamante'
+    enchants:
+      silk_touch: 1
+    amount: 1
+    chance: 3

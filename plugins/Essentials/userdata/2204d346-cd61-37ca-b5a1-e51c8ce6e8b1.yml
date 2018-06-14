@@ -1,0 +1,47 @@
+lastAccountName: pedra056
+timestamps:
+  login: 1493677848548
+  lastteleport: 1493678097957
+  kits:
+    zeus: 1493253139744
+    gaia: 1493677291876
+    explorer: 1492966936450
+    diamante: 1493156389900
+    cronos: 1493597152120
+    athena: 1493253318695
+    vip: 1493597227637
+    caos: 1493650110076
+    novato: 1493404531562
+    platina: 1493156412291
+  logout: 1493678347752
+ipAddress: 191.187.25.146
+lastlocation:
+  world: world
+  x: 9275.716892534092
+  y: 111.5
+  z: 1587.2669788511917
+  yaw: 128.17015
+  pitch: 6.4956827
+logoutlocation:
+  world: plotworld
+  x: -112.01435890017012
+  y: 65.0
+  z: -29.724273104249715
+  yaw: -148.80054
+  pitch: 4.617603
+money: '64092387.71627125'
+homes:
+  war:
+    world: plotworld
+    x: 19.669595916358237
+    y: 65.0
+    z: 2430.488825647648
+    yaw: -6.8900757
+    pitch: 3.6983535
+  loja1:
+    world: plotworld
+    x: -110.32615766452406
+    y: 65.0
+    z: -34.429555752830666
+    yaw: -115.73682
+    pitch: 19.97754

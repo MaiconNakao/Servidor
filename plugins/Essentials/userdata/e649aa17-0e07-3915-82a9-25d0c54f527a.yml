@@ -1,0 +1,29 @@
+lastAccountName: K4u3_M4r7in5
+timestamps:
+  login: 1493675959094
+  kits:
+    ouro: 1493222970488
+    explorer: 1492974535875
+    recruta: 1493052924692
+    diamante: 1493489018045
+    bronze: 1493052589285
+    soldado: 1493052711942
+    novato: 1493053076478
+  lastteleport: 1493676118164
+  logout: 1493489211842
+ipAddress: 189.6.107.89
+lastlocation:
+  world: plotworld
+  x: 178.3583396141386
+  y: 65.0
+  z: -1271.2239460969613
+  yaw: 251.40009
+  pitch: 25.950003
+logoutlocation:
+  world: plotworld
+  x: -70.80091807141162
+  y: 65.0
+  z: 236.66077664975842
+  yaw: 359.25043
+  pitch: 9.150008
+money: '304787.7330431572'

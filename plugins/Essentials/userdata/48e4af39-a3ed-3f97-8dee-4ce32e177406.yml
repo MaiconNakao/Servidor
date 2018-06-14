@@ -1,0 +1,47 @@
+lastAccountName: Pedro_Murilo
+timestamps:
+  login: 1493676791141
+  kits:
+    campeao: 1493582703477
+    capitao: 1493572902881
+    prata: 1493323010320
+    ouro: 1493495496282
+    explorer: 1492983904650
+    diamante: 1493495173728
+    pvp: 1493520556278
+    novato: 1492985626261
+    soldado: 1492989401734
+    platina: 1493495476355
+  logout: 1493677437429
+  lastteleport: 1493672243614
+ipAddress: 189.121.122.247
+lastlocation:
+  world: world
+  x: 418.3275205039366
+  y: 26.0
+  z: -2277.6933591973834
+  yaw: 99.92114
+  pitch: 9.11408
+logoutlocation:
+  world: world
+  x: 9438.806670364933
+  y: 106.0
+  z: -3197.530408330993
+  yaw: -65.98987
+  pitch: 54.94795
+money: '15495291.765934348'
+homes:
+  quarto:
+    world: plotworld
+    x: -268.46484000546593
+    y: 69.0625
+    z: -119.59747163767994
+    yaw: 29.887005
+    pitch: 5.9983115
+  oo:
+    world: plotworld
+    x: 114.44209895611422
+    y: 71.0
+    z: 190.94441191639646
+    yaw: 250.66356
+    pitch: 71.84781

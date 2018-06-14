@@ -1,0 +1,281 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&8Loja (Decorations)'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 5
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'Decoracoes'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    item-id: 1
+    left-click: false
+    right-click: true
+#   data-value: 0
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+slot1:
+  COMMAND: 'console: give {player} 175:2 16'
+  NAME: '&eDouble Tallgrass'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 175
+  DATA-VALUE: 2
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 2
+slot2:
+  COMMAND: 'console: give {player} 31:1 16'
+  NAME: '&eGrass'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 31
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 2
+slot3:
+  COMMAND: 'console: give {player} 31:2 16'
+  NAME: '&eFern'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 31
+  DATA-VALUE: 2
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 2
+slot4:
+  COMMAND: 'console: give {player} 32 16'
+  NAME: '&eDead Bush'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 32
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 2
+slot5:
+  COMMAND: 'console: give {player} 37 16'
+  NAME: '&eDandelion'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 37
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 2
+slot6:
+  COMMAND: 'console: give {player} 38 16'
+  NAME: '&ePoppy'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 38
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 2
+slot7:
+  COMMAND: 'console: give {player} 38:8 16'
+  NAME: '&eOxeye Daisy'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 38
+  DATA-VALUE: 8
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 2
+slot8:
+  COMMAND: 'console: give {player} 175:1 16'
+  NAME: '&eLilac'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 175
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 3
+slot9:
+  COMMAND: 'console: give {player} 38:5 16'
+  NAME: '&eOrange Tulip'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 38
+  DATA-VALUE: 5
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 3
+slot10:
+  COMMAND: 'console: give {player} 38:4 16'
+  NAME: '&eRed Tulip'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 38
+  DATA-VALUE: 4
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 3
+slot11:
+  COMMAND: 'console: give {player} 38:3 16'
+  NAME: '&eAzure Bluet'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 38
+  DATA-VALUE: 3
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 3
+slot12:
+  COMMAND: 'console: give {player} 38:2 16'
+  NAME: '&eAllium'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 38
+  DATA-VALUE: 2
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 3
+slot13:
+  COMMAND: 'console: give {player} 38:1 16'
+  NAME: '&eBlue Orchid'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 38
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 3
+slot14:
+  COMMAND: 'console: give {player} 38:6 16'
+  NAME: '&eWhite Tulip'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 38
+  DATA-VALUE: 6
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 3
+slot15:
+  COMMAND: 'console: give {player} 175:3 16'
+  NAME: '&eLarge Fern'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 175
+  DATA-VALUE: 3
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 4
+slot16:
+  COMMAND: 'console: give {player} 175:5 16'
+  NAME: '&ePeony'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&2.000'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 175
+  DATA-VALUE: 5
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 4
+voltar:
+  COMMAND: 'loja'
+  NAME: '&cVoltar'
+  ID: 262
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 5

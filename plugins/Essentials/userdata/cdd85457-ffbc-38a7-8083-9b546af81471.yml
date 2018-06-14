@@ -1,0 +1,24 @@
+lastAccountName: felipe2004
+timestamps:
+  login: 1493653257663
+  lastteleport: 1493654405517
+  logout: 1493656944819
+  kits:
+    explorer: 1493507861535
+    iniciante: 1493511966136
+    soldado: 1493585421377
+ipAddress: 189.51.96.238
+lastlocation:
+  world: world
+  x: 1486.2063818714705
+  y: 79.0
+  z: -319.371865613191
+  yaw: -223.86206
+  pitch: -2.552111
+logoutlocation:
+  world: plotworld
+  x: -309.45459128696183
+  y: 65.0
+  z: 153.14252677859986
+  yaw: -6.5220337
+  pitch: 28.00093

@@ -1,0 +1,29 @@
+lastAccountName: SnerkyYT
+timestamps:
+  login: 1493152361690
+  lastteleport: 1493152518808
+  logout: 1493152641327
+ipAddress: 191.32.92.202
+lastlocation:
+  world: plotworld
+  x: -80.69574196869878
+  y: 47.0
+  z: -160.46853130044886
+  yaw: -12.905171
+  pitch: -60.082474
+homes:
+  home:
+    world: plotworld
+    x: -81.67419868642725
+    y: 47.0
+    z: -162.24113954821092
+    yaw: -38.36199
+    pitch: -60.144867
+logoutlocation:
+  world: plotworld
+  x: -119.98198563688294
+  y: 65.0
+  z: -86.65743522174668
+  yaw: 240.12195
+  pitch: 5.9607387
+money: '0.0'

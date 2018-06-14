@@ -1,0 +1,38 @@
+lastAccountName: GeGamerYT
+timestamps:
+  login: 1493671438507
+  kits:
+    prata: 1493483264975
+    explorer: 1492967184627
+    recruta: 1493483525033
+    pvp: 1493668624886
+    iniciante: 1493505293571
+    bronze: 1493483205040
+    soldado: 1493483170073
+    novato: 1493509791855
+  lastteleport: 1493668810537
+  logout: 1493671578367
+ipAddress: 177.152.61.68
+lastlocation:
+  world: world
+  x: 9454.032917600787
+  y: 103.0
+  z: -3209.6034869566874
+  yaw: -357.75977
+  pitch: 8.850209
+logoutlocation:
+  world: plotworld
+  x: 1614.4327296572817
+  y: 65.0
+  z: -30.344590398195773
+  yaw: 290.42242
+  pitch: -9.149973
+money: '8148657.9804117065'
+homes:
+  blaze:
+    world: plotworld
+    x: 1606.3710745261264
+    y: 65.0
+    z: -34.843079091047215
+    yaw: -266.97632
+    pitch: 17.250006

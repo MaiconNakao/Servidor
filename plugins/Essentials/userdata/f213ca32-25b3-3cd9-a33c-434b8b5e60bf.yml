@@ -1,0 +1,23 @@
+lastAccountName: CanReis
+timestamps:
+  login: 1493430952730
+  kits:
+    explorer: 1493430966131
+    pvp: 1493431250097
+  lastteleport: 1493431254497
+  logout: 1493431339374
+ipAddress: 179.104.111.255
+lastlocation:
+  world: world
+  x: 9457.140539336586
+  y: 103.5
+  z: -3203.977669808229
+  yaw: -60.15975
+  pitch: 35.550037
+logoutlocation:
+  world: world
+  x: 9452.721700588412
+  y: 104.0
+  z: -3203.286915345583
+  yaw: -279.9098
+  pitch: 21.300041

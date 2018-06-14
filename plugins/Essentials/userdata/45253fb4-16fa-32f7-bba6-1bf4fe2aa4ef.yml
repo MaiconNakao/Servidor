@@ -1,0 +1,26 @@
+lastAccountName: zNathanG4merBR
+timestamps:
+  login: 1493588962581
+  kits:
+    explorer: 1492983356831
+    recruta: 1492984216233
+    pvp: 1492983366633
+    soldado: 1492984701213
+  lastteleport: 1493589663541
+  logout: 1493589682093
+ipAddress: 187.108.9.52
+lastlocation:
+  world: plotworld
+  x: 130.60801455089947
+  y: 65.0
+  z: 153.2243672573217
+  yaw: 105.479004
+  pitch: 47.07899
+logoutlocation:
+  world: plotworld
+  x: -318.7833282414608
+  y: 66.24918707874468
+  z: -271.67698608065746
+  yaw: -35.52556
+  pitch: 29.271072
+money: '412.5'

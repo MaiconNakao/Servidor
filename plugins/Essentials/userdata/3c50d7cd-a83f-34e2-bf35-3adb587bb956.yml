@@ -1,0 +1,37 @@
+lastAccountName: ItzPenguinPvP
+timestamps:
+  login: 1493494165636
+  lastteleport: 1493500617453
+  kits:
+    explorer: 1493402356696
+    recruta: 1493426039353
+    pvp: 1493499771278
+    iniciante: 1493491516044
+    novato: 1493429694875
+    soldado: 1493491520004
+    bronze: 1493495613689
+  logout: 1493500687432
+ipAddress: 177.191.1.124
+lastlocation:
+  world: world
+  x: 9276.212576567472
+  y: 111.5
+  z: 1579.7713894453907
+  yaw: 161.9177
+  pitch: 78.75
+logoutlocation:
+  world: world
+  x: -5422.474994740047
+  y: 132.0
+  z: -3189.2675156985897
+  yaw: -117.883545
+  pitch: 20.10841
+money: '17999.53595635733'
+homes:
+  home:
+    world: plotworld
+    x: -23.65321766167283
+    y: 65.0
+    z: 220.9956327116318
+    yaw: 96.13518
+    pitch: 3.0744815

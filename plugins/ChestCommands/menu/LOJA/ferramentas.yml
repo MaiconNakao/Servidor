@@ -1,0 +1,220 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&8Loja (Ferramentas)'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 5
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'Ferramentas'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    item-id: 1
+    left-click: false
+    right-click: true
+#   data-value: 0
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+slot1:
+  COMMAND: 'console: give {player} 310 1'
+  NAME: '&eDiamond Helmet'
+  PRICE: 4000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f4.000'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 310
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 2
+slot2:
+  COMMAND: 'console: give {player} 311 1'
+  NAME: '&eDiamond Chestplate'
+  PRICE: 4000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f4.000'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 311
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 2
+slot3:
+  COMMAND: 'console: give {player} 312 1'
+  NAME: '&eDiamond Leggings'
+  PRICE: 4000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f4.000'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 312
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 2
+slot4:
+  COMMAND: 'console: give {player} 313 1'
+  NAME: '&eDiamond Boots'
+  PRICE: 4000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f4.000'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 313
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 2
+slot5:
+  COMMAND: 'console: give {player} 276 1'
+  NAME: '&eDiamond Sword'
+  PRICE: 4000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f4.000'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 276
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 2
+slot6:
+  COMMAND: 'console: give {player} 261 1'
+  NAME: '&eBow'
+  PRICE: 4000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f4.000'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 261
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 2
+slot7:
+  COMMAND: 'console: give {player} 262 8'
+  NAME: '&eArrow'
+  PRICE: 2000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f2.000'
+    - '&7Quantidade: &fx8'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 262
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 2
+slot8:
+  COMMAND: 'console: give {player} 278 1'
+  NAME: '&eDiamond Pickaxe'
+  PRICE: 4000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f4.000'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 278
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 3
+slot9:
+  COMMAND: 'console: give {player} 279 1'
+  NAME: '&eDiamond Axe'
+  PRICE: 4000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f4.000'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 279
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 3
+slot10:
+  COMMAND: 'console: give {player} 277 1'
+  NAME: '&eDiamond Shovel'
+  PRICE: 4000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f4.000'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 277
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 3
+slot11:
+  COMMAND: 'console: give {player} 322 1'
+  NAME: '&eGolden Apple'
+  PRICE: 200
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f200'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 322
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 3
+slot12:
+  COMMAND: 'console: give {player} 322:1 1'
+  NAME: '&eGolden Apple'
+  PRICE: 18000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f18.000'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 322
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 3
+slot8888:
+  COMMAND: 'loja'
+  NAME: '&cVoltar'
+  ID: 262
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 5

@@ -1,0 +1,7 @@
+&5==============================================
+
+&d Evento Killer automatico começando!
+&d Tempo inicial para os jogadores se separarem!
+&d Tempo restante: @tempo segundos
+
+&5==============================================

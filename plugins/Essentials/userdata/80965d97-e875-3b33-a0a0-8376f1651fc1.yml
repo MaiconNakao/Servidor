@@ -1,0 +1,25 @@
+lastAccountName: FilhoDaJu457
+timestamps:
+  login: 1493233164145
+  kits:
+    explorer: 1493233177911
+    pvp: 1493233519239
+    novato: 1493233635181
+  lastteleport: 1493233614180
+  logout: 1493233637882
+ipAddress: 189.15.38.129
+lastlocation:
+  world: world
+  x: 9261.581163458572
+  y: 111.0
+  z: 1558.9806070216637
+  yaw: -347.04428
+  pitch: 5.007714
+logoutlocation:
+  world: world
+  x: 1738.434762623227
+  y: 79.0
+  z: -313.6819300772408
+  yaw: 294.4155
+  pitch: 13.81885
+money: '6722.718253968252'

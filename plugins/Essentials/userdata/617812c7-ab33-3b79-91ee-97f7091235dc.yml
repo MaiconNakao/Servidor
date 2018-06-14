@@ -1,0 +1,23 @@
+lastAccountName: Ningamer
+timestamps:
+  login: 1493054425968
+  kits:
+    explorer: 1493054453199
+  lastteleport: 1493054486650
+  logout: 1493054493978
+ipAddress: 191.253.112.119
+lastlocation:
+  world: world
+  x: 9454.699999988079
+  y: 103.0
+  z: -3202.8686343681575
+  yaw: -184.83844
+  pitch: 58.522896
+logoutlocation:
+  world: world
+  x: 1778.5025368126808
+  y: 80.0
+  z: -308.78844649484563
+  yaw: 182.80176
+  pitch: 0.6188432
+money: '0.0'

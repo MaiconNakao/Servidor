@@ -1,0 +1,24 @@
+lastAccountName: vini1414
+timestamps:
+  login: 1493642973830
+  kits:
+    explorer: 1493137996633
+    pvp: 1493389786586
+  lastteleport: 1493389819867
+  logout: 1493642976331
+ipAddress: 187.22.125.117
+lastlocation:
+  world: plotworld
+  x: 43.506569899277046
+  y: 65.0
+  z: 2387.4635509396053
+  yaw: -263.098
+  pitch: 25.506218
+logoutlocation:
+  world: world
+  x: 9452.93653921421
+  y: 104.0
+  z: -3203.155441087642
+  yaw: -323.1385
+  pitch: 6.4729023
+money: '15487.304687499995'

@@ -1,0 +1,1001 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                    ####
+##        #    #  # # #  # # #  # # #  # # #        ####
+###       #  #    #      #      #        #         ####
+####      # #     # # #  # # #  # # #    #        #####
+###       #  #    #      #          #    #         ####
+##        #   #   # # #  # # #  # # #    #          ###
+#                   ( ͡° ͜ʖ ͡°)                      ##
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                         #
+#                  Meu Skype: samukatb                   #
+#                                                       #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+#Sua chave de licença!
+Licenca: 'EYSX-E17F-ULPC-36HV'
+Versao: '1.0.2'
+
+#Insira seus dados de conexao para o MySQL. e necessário uma para que o plugin inicie.
+MySQL:
+  Host: localhost
+  Usuario: root
+  Senha: 28285454
+  Database: root
+  Tabela: maquinas
+  
+Configurar:
+  Mensagens:
+    VendeuTudo: '&dVoce vendeu &n@items@&d items por $&n@preco@&d de money!'
+    MaquinaVendeuTudo: '&dVoce vendeu &n@items@&d de items dessa maquina e recebeu &n@preco@&d de money!'
+    StatusColetarPossui: '&aEssa maquina contem itens para coletar!'
+    StatusColetarNaoPossui: '&eEssa maquina nao contem nenhum item para coletar!'
+    StatusDropsDireto: '&aDROP DIRETO'
+    StatusDropsExterno: '&aDROP EXTERNO'
+    StatusAlterado: '&eVoce alterou o modo do drop da sua maquina!'
+    StatusMaquinaLigada: '&a&lStatus da maquina: LIGADA'
+    StatusMaquinaDesligada: '&c&lStatus da maquina: DESLIGADA!'
+    StatusMoneyInsuficiente: '&cVoce nao possui money suficiente para upa-la!'
+    StatusMoneySuficiente: '&aClique aqui para subir-la de nivel!'
+    StatusLevelMaximo: '&eNivel maximo já foi atingido!'
+    MoneyInsuficiente: '&cVoce nao possui &n@money@&c de money para subir essa maquina de nivel!'
+    NivelMaximoAtingido: '&cEssa maquina já esta no nivel maximo!'
+    MaquinaAprimorada: '&6&lVoce subiu o nivel da sua maquina para @nivel@!'
+    MaquinaParou: '&cO combustivel da sua maquina acabou! Recolha os drops nela ou use /maquinas drops'
+    EspacoInsuficiente: '&eAlguns itens nao foram recolhidos pois seu inventario está cheio!'
+    NaoExisteDrops: '&cNao há nenhum drop dessa maquina!'
+    CombustivelInvalido: '&eEsse item nao e um combustivel!'
+    ComustivelNaoAceito: '&eEsse combustivel e muito fraco para essa maquina!'
+    MaquinaJaLigada: '&eEsta maquina já esta ligada!'
+    NaoPodeQuebrarLigada: '&cVoce nao pode quebrar uma maquina enquanto ela estiver ligada, aguarde!'
+    ConfigReload: '&aA configuraçao foi recarregada!'
+    SemPermissao: '&cVoce nao tem permissao para usar esse comando!'
+    DigiteJogador: '&eDigite o nome de um jogador!'
+    JogadorOffline: '&cEsse jogador nao foi encontrado!'
+    DigiteMaquina: '&cDigite o nome de alguma maquina!'
+    MaquinaNaoExiste: '&cEsta maquina nao existe!'
+    DigiteNivel: '&cDigite o nivel da maquina!'
+    DigiteCombustivel: '&cDigite o nome do combustivel!'
+    CombustivelNaoExiste: '&eEste combustivel nao existe!'
+    NaoExisteNivel: '&cEste nivel nao foi encontrado!'
+    LimiteMaxAlcancado: '&eDesculpe, mas o limite de maquinas para jogadores normais sao @maxmaquinas@. Voce ja possui @totalmaquinas@!'
+    MaquinaEntregue: '&aVoce entregou @quantidade@ maquina(s) de @maquina@ de nivel @nivel@ para @jogador@!'
+    VoceRecebeuMaquina: '&aVoce recebeu @quantidade@ maquina(s) de @maquina@ (nivel @nivel@)!'
+    CombustivelEntregue: '&aVoce entregou x@quantidade@ combustiveis de @combustivel@ para @jogador@!'
+    ComustivelRecebido: '&aVoce recebeu x@quantidade@ do combustivel @combustivel@!'
+    DigiteQuantidade: '&eDigite uma quantidade!'
+    RetireOsDrops: '&eNao e possivel quebrar a maquina pois e necessário retirar os itens dropados por ela!'
+    MaquinaNaoESua: '&cVoce nao pode interagir com maquinas que nao sao suas!'
+    NaoHaItensParaColetar: '&eAinda nao ha nenhum item para coletar!'
+    MaquinaNaoHaItensParaVender: '&eEssa maquina nao possui nenhum item para vender!'
+    NaoHaItensParaVender: '&eNao há nenhum item para vender :(!'
+    NaoHaMaquinas: '&cVoce nao tem nenhuma maquina!'
+    ItensColetados: '&aVoce coletou todos os itens de todas as maquinas!'
+    ItensNaoColetados: '&cAlguns itens nao foram coletados, lembre-se de pegar eles!'
+    MaquinaCheia: '&cSua maquina esta cheia! Alterando o modo para DROP EXTERNO!'
+    ItensMaquinaColetados: '&aVoce coletou todos os itens desta maquina!'
+    MaquinaIniciou: '&aSua maquina foi ligada! Ela irá gerar os itens em em breve!'
+    NaoPodeEvoluir: '&cVoce nao pode evoluir uma maquina enquanto ela estiver ligada, aguarde!'
+    MaquinaRemovida: '&aVoce removeu a maquina!'
+    MaquinaColocada: '&aVoce colocou a maquina. Ligue ela utilizando um combustivel!'
+    VoceRecebeuItemEspecial: '&aVoce recebeu o item especial para remover maquinas!'
+    VoceDeuItemEspecial: '&aVoce deu o item especial para @jogador@!'
+    NecessarioItemEspecial: '&cVoce só pode remover uma maquina com o item especial!'
+    NaoEPossivelPorMaquina: '&eDesculpe, nao e possivel colocar maquinas nesse mundo!'
+    Aguarde: '&eNao faça interações tao rapido, aguarde alguns segundos!'
+    AguardeSalvando: '&cO salvamento está sendo feito agora, aguarde alguns instantes e tente novamente!'
+    DadosSalvados: '&eOs dados foram salvos no MySQL!'
+    DadosCarregados: '&eIniciando o carregamento. Cheque o console para mais detalhes!'
+    MySqlRecarregado: '&aA conexao com o MySQL foi recarregada!'
+    ComandoNormal:
+      - '              &a&l--=[ Maquinas ]=--'
+      - '&a/maquinas drops - &aPara abrir o seu menu de Maquinas!'
+    ComandoAdmin:
+      - ''
+      - '&c/maquinas reload - Recarrega a configuraçao!'
+      - '&c/maquinas darmaquina <jogador> <maquina> <nivel>!'
+      - '&c/maquinas darcombustivel <jogador> <combustivel>!'
+      - '&c/maquinas daritemespecial <jogador>!'
+      - '&c/maquinas forcasalvar - Força o salvamento dos dados no MySQL!'
+      - '&c/maquinas forcacarregar - Força o carregamento de todos os dados do MySQL!'
+  Opcoes:
+    DesativarModoDropar: false
+    DelayParaUsarcombustivel: false
+    DestruirMaquinaSomenteComItemEspecial: true
+    TempoParaSalvarNoMySqlEmMinutos: 5
+    EfeitosAoPorSpawner: true
+    EfeitosFogos: true
+    EfeitosSons: true
+    DarMaquinaQuebradaDiretoProJogador: false
+    MaximoMaquinasJogador: 8
+    PermissaoMaquinasInfinitas: 'keestmaquinas.infinitas'
+    ItemEspecial:
+      ID: 278
+      Nome: '&ePicareta Especial'
+      Lore:
+        - ''
+        - '&aPicareta especial para remover Maquinas!'
+      Brilhar: true
+    MundosBlackList:
+      - 'MundoPlano'
+      - 'Spawn'
+      - 'VoidConstrucoes'
+      - 'Arenas'
+  Niveis:
+    1:
+      Rodadas: 3
+      TempoEntreCadaRodada: 20
+    2:
+      Rodadas: 4
+      TempoEntreCadaRodada: 18
+      Money: 150000
+    3:
+      Rodadas: 5
+      TempoEntreCadaRodada: 18
+      Money: 350000
+    4:
+      Rodadas: 6
+      TempoEntreCadaRodada: 17
+      Money: 500000
+    5:
+      Rodadas: 7
+      TempoEntreCadaRodada: 16
+      Money: 1000000
+    6:
+      Rodadas: 8
+      TempoEntreCadaRodada: 14
+      Money: 1500000
+      Permissao: 'keestmaquinas.vip'
+      StatusSemPermissao: '&cNecessario &a[VIP]&c para subir de nivel!'
+      MensagemSemPermissao: '&cVoce precisa ser &a[VIP]&c para subir essa maquina de nivel!'
+    7:
+      Rodadas: 9
+      TempoEntreCadaRodada: 14
+      Money: 2500000
+      Permissao: 'keestmaquinas.vip'
+      StatusSemPermissao: '&cNecessario &a[VIP]&c para subir de nivel!'
+      MensagemSemPermissao: '&cVoce precisa ser &a[VIP]&c para subir essa maquina de nivel!'
+    8:
+      Rodadas: 10
+      TempoEntreCadaRodada: 12
+      Money: 5000000
+      Permissao: 'keestmaquinas.vip'
+      StatusSemPermissao: '&cNecessario &a[VIP]&c para subir de nivel!'
+      MensagemSemPermissao: '&cVoce precisa ser &a[VIP]&c para subir essa maquina de nivel!'
+    9:
+      Rodadas: 11
+      TempoEntreCadaRodada: 11
+      Money: 10000000
+      Permissao: 'keestmaquinas.vip2'
+      StatusSemPermissao: '&cNecessario &b[VIP&6+&b]&c para subir de nivel!'
+      MensagemSemPermissao: '&cVoce precisa ser &a[VIP]&c para subir essa maquina de nivel!'
+    10:
+      Rodadas: 12
+      TempoEntreCadaRodada: 11
+      Money: 15000000
+      Permissao: 'keestmaquinas.vip2'
+      StatusSemPermissao: '&cNecessario &b[VIP&6+&b]&c para subir de nivel!'
+      MensagemSemPermissao: '&cVoce precisa ser &b[VIP&6+&b]&c para subir essa maquina de nivel!'
+    11:
+      Rodadas: 13
+      TempoEntreCadaRodada: 10
+      Money: 30000000
+      Permissao: 'keestmaquinas.vip2'
+      StatusSemPermissao: '&cNecessario &b[VIP&6+&b]&c para subir de nivel!'
+      MensagemSemPermissao: '&cVoce precisa ser &5[VIP&6++&5]&c para subir essa maquina de nivel!'
+    12:
+      Rodadas: 14
+      TempoEntreCadaRodada: 8
+      Money: 40000000
+      Permissao: 'keestmaquinas.vip3'
+      StatusSemPermissao: '&cNecessario &5[VIP&6++&5]&c para subir de nivel!'
+      MensagemSemPermissao: '&cVoce precisa ser &5[VIP&6++&5]&c para subir essa maquina de nivel!'
+    13:
+      Rodadas: 15
+      TempoEntreCadaRodada: 8
+      Money: 50000000
+      Permissao: 'keestmaquinas.vip3'
+      StatusSemPermissao: '&cNecessario &5[VIP&6++&5]&c para subir de nivel!'
+      MensagemSemPermissao: '&cVoce precisa ser &5[VIP&6++&5]&c para subir essa maquina de nivel!'
+    14:
+      Rodadas: 16
+      TempoEntreCadaRodada: 5
+      Money: 75000000
+      Permissao: 'keestmaquinas.vip3'
+      StatusSemPermissao: '&cNecessario &5[VIP&6++&5]&c para subir de nivel!'
+      MensagemSemPermissao: '&cVoce precisa ser &5[VIP&6++&5]&c para subir essa maquina de nivel!'
+    15:
+      Rodadas: 17
+      TempoEntreCadaRodada: 2
+      Money: 100000000
+      Permissao: 'keestmaquinas.vip3'
+      StatusSemPermissao: '&cNecessario &5[VIP&6++&5]&c para subir de nivel!'
+      MensagemSemPermissao: '&cVoce precisa ser &5[VIP&6++&5]&c para subir essa maquina de nivel!'
+  Combustiveis:
+    Carvao:
+      ID: 263
+      Nome: '&eCombustivel de Carvao'
+      Lore:
+        - ''
+        - '  &aO combustivel mais basico para as maquinas!'
+        - ''
+        - '    &e* Maquinas que aceitam esse combustivel:'
+        - ''
+        - '            &e- Maquina de Cookie!'
+        - '            &e- Maquina de XP!'
+        - '            &e- Maquina de Couro!'
+        - '            &e- Maquina de Osso!'
+        - '            &e- Maquina de Flecha!'
+        - '            &e- Maquina de Maça Dourada!'
+        - '            &e- Maquina de Ferro!'
+        - '            &e- Maquina de Ouro!'
+        - '            &e- Maquina de Tijolos!'
+        - '            &e- Maquina de Prismarine Crystals!'
+        - ''
+      Brilhar: true
+    Energia:
+      ID: 377
+      Nome: '&6Energia'
+      Lore:
+        - ''
+        - '      &aEnergia avançada para as maquinas!'
+        - ''
+        - '    &e* Maquinas que aceitam essa Energia:'
+        - ''
+        - '             &e- Maquina de Dima!'
+        - '             &e- Maquina de Cap!'
+        - '             &e- Maquina de Estrela!'
+        - '             &6- Maquina dos VIP'
+        - ''
+      Brilhar: true
+  Maquinas:
+    MaquinaCookie:
+      ID: 86
+      Nome: '&f&lMaquina de &6Cookie!'
+      Lore:
+        - ''
+        - '          &a&lA maquina mais basica do servidor!'
+        - '              &aNivel da maquina: &n@nivel@'
+        - '               &aRodadas(Waves): &n@rodadas@'
+        - '      &aTempo entre rodadas: &n@temporodadas@&r&a segundos'
+        - ''
+        - '   &a&l*Drops:'
+        - '     &b - 16x Cookie'
+        - '     &b - 10x Açucares'
+        - ''
+      Brilhar: false
+      Combustiveis:
+        - 'Carvao'
+      ItensParaDropar:
+        Cookie:
+          ID: 357
+          Nome: '&6Cookie'
+          Lore:
+            - ''
+            - '   &eCookie dropado de uma &6Maquina de Cookie'
+            - ''
+            - '&6Preco por cada: 18.0'
+          Brilhar: false
+          Quantidade: 16
+          PrecoVenda: 18
+        Acucares:
+          ID: 353
+          Nome: '&fAçucar'
+          Lore:
+            - ''
+            - '   &eDropado de uma &6Maquina de Cookie!'
+            - ''
+            - '&6Preco por cada: 12.0'
+          Brilhar: false
+          Quantidade: 10
+          PrecoVenda: 12
+    MaquinaXP:
+      ID: 112
+      Nome: '&fMaquina de &aX&6P!'
+      Lore:
+        - ''
+        - '      &a&lUma maquina basica, otima para ganhar nivel de experiencia!'
+        - '                &aNivel da maquina: &n@nivel@'
+        - '                 &aRodadas(Waves): &n@rodadas@'
+        - '            &aTempo entre rodadas: &n@temporodadas@&a segundos'
+        - ''
+        - '   &a&l* Drops:'
+        - '     &b - 16x potes de XP'
+        - ''
+      Brilhar: true
+      Combustiveis:
+        - 'Carvao'
+      ItensParaDropar:
+        XP:
+          ID: 384
+          Nome: '&aX&6P'
+          Lore:
+            - ''
+            - '    &aX&6P dropado de uma maquina de &aX&6P!'
+            - ''
+            - '&6Preco por cada: 250'
+          Brilhar: true
+          Quantidade: 16
+          PrecoVenda: 250
+    MaquinaOuro:
+      ID: 41
+      Nome: '&e&lMaquina de Ouro!'
+      Lore:
+        - ''
+        - '      &a&lUma maquina basica, otima para lucrar!'
+        - '                &aNivel da maquina: &n@nivel@'
+        - '                 &aRodadas(Waves): &n@rodadas@'
+        - '            &aTempo entre rodadas: &n@temporodadas@&a segundos'
+        - ''
+        - '   &a&l* Drops:'
+        - '     &b - 5x Ouros'
+        - '     &b - 5x Blocos de Ouros'
+        - '     &b - 5x Pepitas de Ouro'
+        - ''
+      Brilhar: true
+      Combustiveis:
+        - 'Carvao'
+      ItensParaDropar:
+        Ouro:
+          ID: 266
+          Nome: '&eOuro'
+          Lore:
+            - ''
+            - '    &eOuro dropado de uma maquina de Ouro!'
+            - ''
+            - '&6Preco por cada: 25'
+          Brilhar: true
+          Quantidade: 5
+          PrecoVenda: 25
+        BlocoOuro:
+          ID: 41
+          Nome: '&eBloco de Ouro'
+          Lore:
+            - ''
+            - '    &eDropado de uma maquina de Ouro!'
+            - ''
+            - '&6Preco por cada: 114'
+          Brilhar: true
+          Quantidade: 5
+          PrecoVenda: 114
+        Pepitas:
+          ID: 371
+          Nome: '&ePepitas de Ouro!'
+          Lore:
+            - ''
+            - '    &eDropado de uma maquina de Ouro!'
+            - ''
+            - '&6Preco por cada: 93'
+          Brilhar: true
+          Quantidade: 5
+          PrecoVenda: 93
+    MaquinaCouro:
+      ID: 179
+      Nome: '&eMaquina de &cCouro'
+      Lore:
+        - ''
+        - '      &a&lUma maquina basica, otima para ajudar na skill repair!'
+        - '                &aNivel da maquina: &n@nivel@'
+        - '                 &aRodadas(Waves): &n@rodadas@'
+        - '            &aTempo entre rodadas: &n@temporodadas@&a segundos'
+        - ''
+        - '   &a&l* Drops:'
+        - '     &b - 16x Couros'
+        - ''
+      Brilhar: false
+      Combustiveis:
+        - 'Carvao'
+      ItensParaDropar:
+        Couro:
+          ID: 334
+          Nome: '&cCouro'
+          Lore:
+            - ''
+            - '    &eCouro dropado de uma maquina de Couro!'
+            - ''
+            - '&6Preco por cada: 7'
+          Brilhar: false
+          Quantidade: 16
+          PrecoVenda: 7
+    MaquinaOsso:
+      ID: 155
+      Nome: '&eMaquina de &fOsso'
+      Lore:
+        - ''
+        - '      &a&lUma maquina basica, otima para plantaçoes!'
+        - '                &aNivel da maquina: &n@nivel@'
+        - '                 &aRodadas(Waves): &n@rodadas@'
+        - '            &aTempo entre rodadas: &n@temporodadas@&a segundos'
+        - ''
+        - '   &a&l* Drops:'
+        - '     &b - 10x Ossos'
+        - '     &b - 10x Po de Osso'
+        - ''
+      Brilhar: false
+      Combustiveis:
+        - 'Carvao'
+      ItensParaDropar:
+        Osso:
+          ID: 352
+          Nome: '&fOsso'
+          Lore:
+            - ''
+            - '    &fOsso&e dropado de uma maquina de &fOsso!'
+            - ''
+            - '&6Preco por cada: 18'
+          Brilhar: false
+          Quantidade: 10
+          PrecoVenda: 18
+        Podeosso:
+          ID: '351:15'
+          Nome: '&fPo de Osso'
+          Lore:
+            - ''
+            - '    &fPo de Osso&e dropado de uma maquina de &fOsso!'
+            - ''
+            - '&6Preco por cada: 18'
+          Brilhar: false
+          Quantidade: 10
+          PrecoVenda: 18
+    MaquinaDourada:
+      ID: '159:4'
+      Nome: '&eMaquina de MaçaDourada'
+      Lore:
+        - ''
+        - '      &a&lUma maquina basica, otima para iniciantes!'
+        - '                &aNivel da maquina: &n@nivel@'
+        - '                 &aRodadas(Waves): &n@rodadas@'
+        - '            &aTempo entre rodadas: &n@temporodadas@&a segundos'
+        - ''
+        - '   &a&l* Drops:'
+        - '     &b - 5x Maça Dourada'
+        - ''
+      Brilhar: false
+      Combustiveis:
+        - 'Carvao'
+      ItensParaDropar:
+        Macadourada:
+          ID: 322
+          Nome: '&eMaça Dourada'
+          Lore:
+            - ''
+            - '    &eMaça Dourada&e dropado de uma maquina de &eMaça Dourada!'
+            - ''
+            - '&6Preco por cada: 165'
+          Brilhar: false
+          Quantidade: 5
+          PrecoVenda: 165
+    MaquinaFlecha:
+      ID: '159:9'
+      Nome: '&eMaquina de &cFlechas'
+      Lore:
+        - ''
+        - '      &a&lUma maquina basica, otima para iniciantes!'
+        - '                &aNivel da maquina: &n@nivel@'
+        - '                 &aRodadas(Waves): &n@rodadas@'
+        - '            &aTempo entre rodadas: &n@temporodadas@&a segundos'
+        - ''
+        - '   &a&l* Drops:'
+        - '     &b - 16x Flechas'
+        - ''
+      Brilhar: false
+      Combustiveis:
+        - 'Carvao'
+      ItensParaDropar:
+        Flecha:
+          ID: 262
+          Nome: '&cFlechas'
+          Lore:
+            - ''
+            - '    &fFlechas&e dropado de uma maquina de &eMaquina de &cFlechas'
+            - ''
+            - '&6Preco por cada: 49'
+          Brilhar: false
+          Quantidade: 16
+          PrecoVenda: 49
+    MaquinaTijolos:
+      ID: 45
+      Nome: '&eMaquina de &cTijolos'
+      Lore:
+        - ''
+        - '      &a&lUma maquina basica, otima para iniciantes!'
+        - '                &aNivel da maquina: &n@nivel@'
+        - '                 &aRodadas(Waves): &n@rodadas@'
+        - '            &aTempo entre rodadas: &n@temporodadas@&a segundos'
+        - ''
+        - '   &a&l* Drops:'
+        - '     &b - 16x &cTijolos'
+        - ''
+      Brilhar: false
+      Combustiveis:
+        - 'Carvao'
+      ItensParaDropar:
+        Tijolos:
+          ID: 336
+          Nome: '&cTijolos'
+          Lore:
+            - ''
+            - '    &cTijolos&e dropado de uma maquina de &eMaquina de &cTijolos'
+            - ''
+            - '&6Preco por cada: 42'
+          Brilhar: true
+          Quantidade: 16
+          PrecoVenda: 42
+    MaquinaCrystals:
+      ID: '168:2'
+      Nome: '&eMaquina de &9Fragmentos'
+      Lore:
+        - ''
+        - '      &a&lUma maquina basica, otima para iniciantes!'
+        - '                &aNivel da maquina: &n@nivel@'
+        - '                 &aRodadas(Waves): &n@rodadas@'
+        - '            &aTempo entre rodadas: &n@temporodadas@&a segundos'
+        - ''
+        - '   &a&l* Drops:'
+        - '     &b - 26x &9Fragmentos'
+        - ''
+      Brilhar: false
+      Combustiveis:
+        - 'Carvao'
+      ItensParaDropar:
+        Prismarine:
+          ID: 409
+          Nome: '&9Prismarine Fragmento'
+          Lore:
+            - ''
+            - '    &9Fragmento&e dropado de uma maquina de &eMaquina de &9Prismarine fragmentos'
+            - ''
+            - '&6Preco por cada: 31'
+          Brilhar: true
+          Quantidade: 26
+          PrecoVenda: 31
+    MaquinaEstrela:
+      ID: 133
+      Nome: '&eMaquina de Estrela'
+      Lore:
+        - ''
+        - '      &a&lUma maquina basica, otima para iniciantes!'
+        - '                &aNivel da maquina: &n@nivel@'
+        - '                 &aRodadas(Waves): &n@rodadas@'
+        - '            &aTempo entre rodadas: &n@temporodadas@&a segundos'
+        - ''
+        - '   &a&l* Drops:'
+        - '     &b - 20x Estrelas'
+        - ''
+      Brilhar: false
+      Combustiveis:
+        - 'Carvao'
+        - 'Energia'
+      ItensParaDropar:
+        Nethercristal:
+          ID: 399
+          Nome: '&eEstrela'
+          Lore:
+            - ''
+            - '    &eEstrela  dropado de uma maquina de Maquina de Estrela'
+            - ''
+            - '&6Preco por cada: 180'
+          Brilhar: true
+          Quantidade: 26
+          PrecoVenda: 180
+    MaquinaFerro:
+      ID: 42
+      Nome: '&f&lMaquina de Ferro!'
+      Lore:
+        - ''
+        - '          &a&lA maquina basica do servidor!'
+        - '              &aNivel da maquina: &n@nivel@'
+        - '               &aRodadas(Waves): &n@rodadas@'
+        - '          &aTempo entre rodadas: &n@temporodadas@&r&a segundos'
+        - ''
+        - '   &a&l*Drops:'
+        - '     &b - 32x Ferros'
+        - '     &b - 15x Blocos de Ferro'
+        - ''
+      Brilhar: true
+      Combustiveis:
+        - 'Carvao'
+      ItensParaDropar:
+        Ferro:
+          ID: 265
+          Nome: '&eFerro'
+          Lore:
+            - ''
+            - '   &eFerro dropado de uma &fMaquina de Ferro!'
+            - ''
+            - '&6Preco por cada: 25'
+          Brilhar: true
+          Quantidade: 32
+          PrecoVenda: 25
+        BlocoFerro:
+          ID: 42
+          Nome: '&eBloco de Ferro'
+          Lore:
+            - ''
+            - '   &eDropado de uma &fMaquina de Ferro!'
+            - ''
+            - '&6Preco por cada: 138'
+          Brilhar: true
+          Quantidade: 15
+          PrecoVenda: 138
+    MaquinaCapiroto:
+      ID: '95:1'
+      Nome: '&e&lMaquina de CAP!'
+      Lore:
+        - ''
+        - '          &a&lA maquina de pvp do servidor!'
+        - '              &aNivel da maquina: &n@nivel@'
+        - '               &aRodadas(Waves): &n@rodadas@'
+        - '          &aTempo entre rodadas: &n@temporodadas@&r&a segundos'
+        - ''
+        - '   &a&l*Drops:'
+        - '     &b - 3x CAP'
+        - ''
+      Brilhar: true
+      Combustiveis:
+        - 'Energia'
+        - 'Carvao'
+      ItensParaDropar:
+        Cap:
+          ID: '322:1'
+          Nome: '&e&lCAPIROTO'
+          Lore:
+            - ''
+            - '   &e&lCAPIROTO dropado de uma &e&lMaquina de CAP!'
+            - ''
+            - '&6Preco por cada: 380'
+          Brilhar: true
+          Quantidade: 3
+          PrecoVenda: 380
+    Maquinadiamante:
+      ID: 57
+      Nome: '&e&lMaquina de &b&lDima'
+      Lore:
+        - ''
+        - '          &a&lA maquina de pvp do servidor!'
+        - '              &aNivel da maquina: &n@nivel@'
+        - '               &aRodadas(Waves): &n@rodadas@'
+        - '          &aTempo entre rodadas: &n@temporodadas@&r&a segundos'
+        - ''
+        - '   &a&l*Drops:'
+        - '     &b - 48x Diamantes'
+        - ''
+      Brilhar: true
+      Combustiveis:
+        - 'Energia'
+        - 'Carvao'
+      ItensParaDropar:
+        Mdiamante:
+          ID: 264
+          Nome: '&b&lDIAMANTES'
+          Lore:
+            - ''
+            - '   &b&lDima dropado de uma &e&lMaquina de &b&lDima'
+            - ''
+            - '&6Preco por cada: 90'
+          Brilhar: true
+          Quantidade: 48
+          PrecoVenda: 90      
+    MaquinaVIP:
+      ID: 174
+      Nome: '&6&lMaquina &b&lVIP'
+      Lore:
+        - ''
+        - '        &6&lA melhor maquina do servidor!'
+        - '             &6Nivel da maquina: &n@nivel@'
+        - '              &6Rodadas(Waves): &n@rodadas@'
+        - '        &6Tempo entre rodadas: &n@temporodadas@&6 segundos'
+        - ''
+        - '   &a&l* Drops:'
+        - '     &b - x1 Espada &a&lC&c&lZ&6&lPVP&c (1% de chance)'
+        - '     &b - x1 Picareta &a&lC&c&lZ&6&lPVP&c (1% de chance)'
+        - '     &b - x1 Machado &a&lC&c&lZ&6&lPVP&c (1% de chance)'
+        - '     &b - x48 Diamantes'
+        - '     &b - x1 Pocao de Força II'
+        - ''
+      Brilhar: true
+      AvisarJogadorAoDroparItem: true
+      AvisoMensagem: '&eSua maquina &6&lMaquina &b&lVIP &edropou algo!'
+      PermissaoParaUsar: 'keestmaquinas.vip'
+      MensagemSemPermissao: '&cVoce precisa ser &e&lVIP &cpara interagir com essa maquina!'
+      Combustiveis:
+        - 'Energia'
+      ItensParaDropar:
+        Espada:
+          ID: 276
+          Nome: '&bEspada &4&lMACHINE'
+          Lore:
+            - ''
+            - '    &6Espada dropada da &6&lMaquina &b&lVIP'
+            - ''
+            - '&6Preco por cada: 100000'
+          Brilhar: false
+          Quantidade: 1
+          PrecoVenda: 100000
+          Encantamentos: sharpness:7-unbreaking:3
+          Chance: 1
+          ComandosAoDropar:
+            - 'tm abc &bO jogador @jogador@ ganhou uma &bEspada &4&lMACHINE &bde uma &6&lMaquina &b&lVIP'
+          SoltarFogosAoGanhaEsseItem: true
+        Picareta:
+          ID: 278
+          Nome: '&bPicareta &4&lMACHINE'
+          Lore:
+            - ''
+            - '    &bPicareta dropada da &6&lMaquina &b&lVIP'
+            - ''
+            - '&6Preco por cada: 100000'
+          Brilhar: true
+          Quantidade: 1
+          PrecoVenda: 100000
+          Encantamentos: Efficiency:8-unbreaking:3
+          Chance: 1
+          ComandosAoDropar:
+            - 'tm abc &bO jogador @jogador@ ganhou uma &bPicareta &4&lMACHINE &bde uma &6&lMaquina &b&lVIP'
+          SoltarFogosAoGanhaEsseItem: true
+        Machado:
+          ID: 279
+          Nome: '&6Machado &4&lMACHINE'
+          Lore:
+            - ''
+            - '    &6Machado dropado da &6&lMaquina &b&lVIP'
+            - ''
+            - '&6Preco por cada: 100000'
+          Brilhar: false
+          Quantidade: 1
+          PrecoVenda: 100000
+          Encantamentos: sharpness:8-unbreaking:4-fireaspect:3
+          Chance: 1 
+          SoltarFogosAoGanhaEsseItem: true
+          ComandosAoDropar:
+            - 'tm abc &bO jogador @jogador@ ganhou um &bMachado &4&lMACHINE &bde uma &6&lMaquina &b&lVIP'
+        Diamante:
+          ID: 264
+          Nome: '&6Diamante'
+          Lore:
+            - ''
+            - '    &6Diamante dropado de uma &6&lMaquina &b&lVIP'
+            - ''
+            - '&6Preco por cada: 90'
+          Brilhar: false
+          Quantidade: 48
+          PrecoVenda: 90
+        Forca:
+          ID: '373:8233'
+          Nome: '&5MACHINE &C&LFORCE'
+          Lore:
+            - ''
+            - '    &6Poçao dropada de uma &6&lMaquina &b&lVIP'
+            - ''
+            - '&6Preco por cada: 15000'
+          Brilhar: false
+          Quantidade: 1
+          PrecoVenda: 5000
+  MenuGUIs:
+    MenuPrincipal:
+      TituloGui: '&a&lMenu da Maquina'
+      Tamanho: 27
+      Items:
+        Info:
+          ID: 339
+          Slot: 4
+          Nome: '&a&l&nInformações da Maquina:'
+          Lore:
+            - ''      
+            - '     &bTipo: &l(@maquinatipo@&r&b&l)'
+            - '            &bNivel da maquina: &l(&n@nivel@&r&b&l)'
+            - '             &bRodadas(Waves): &l(&n@rodadas@&r&b&l)'
+            - '       &bTempo entre rodadas: &l(&n@temporodadas@&r&b&l)&b segundos'
+            - ''
+            - '&bDono: &l&n@maquinadono@'
+          Brilhar: true
+        SubirNivel:
+          ID: 331
+          Slot: 11
+          Nome: '   &e&l * &nEvoluir nivel da Maquina&e *'
+          Lore:
+            - ''
+            - '     &bClique aqui para evoluir o nivel da maquina'
+            - '       &bDeixando-a mais poderosa e lucrativa!'
+            - ''
+          Brilhar: true
+        AbrirDrops:
+          ID: 54
+          Slot: 15
+          Nome: '        &e&l * &nAbrir Drops&e *'
+          Lore:
+            - ''
+            - ' &bClique aqui para abrir o armazenamento da maquina!'
+            - ''
+            - '&7Digite /maquinas drops para ver todas as suas maquinas!'
+        ModoDropar:
+          ID: 421
+          Slot: 22
+          Nome: ' &e&l * &nAlterar modo de DROP *'
+          Lore:
+            - ''
+            - '             &bHá dois modos de DROP:'
+            - ''
+            - '                    &eDrop Direto:'
+            - '    &eOs itens sao armazenados dentro da maquina'
+            - ''
+            - '                   &eDrop Externo:'
+            - '    &eOs itens sao dropados ao lado da maquina!'
+            - ''
+            - '               &b&lStatus atual: @statusdrops@!'
+            - ''
+            - '&7Clique aqui para alterar o modo!'
+        Decoracao1:
+          ID: 131
+          Slot: 0
+          Nome: '&a&lInformações sobre Maquinas!'
+          Lore:
+            - '       &bMaquinas sao equipamento avançados em nosso servidor!'
+            - '       &bAtraves de combustiveis, voce pode ligar uma maquina!'
+            - '    &bE entao, essa maquina gerará items para voce render uma $$$!'
+            - '   &bQuanto mairo o nivel, maior os items que serao gerados por ela!'
+    MenuSubirNivel:
+      Tamanho: 27
+      TituloGui: '&a&l&nAprimorar Maquina'
+      Items:
+        MaquinaInfo:
+          ID: 339
+          Slot: 11
+          Nome: '       &a&l&nInformações da Maquina:'
+          Lore:
+            - ''      
+            - '     &bTipo: &l(@maquinatipo@&r&b&l)'
+            - '            &bNivel da maquina: &l(&n@nivel@&r&b&l)'
+            - '             &bRodadas(Waves): &l(&n@rodadas@&r&b&l)'
+            - '       &bTempo entre rodadas: &l(&n@temporodadas@&r&b&l)&b segundos'
+            - ''
+            - '&bDono: &l&n@maquinadono@'
+          Brilhar: true
+        Info:
+          ID: 321
+          Slot: 4
+          Nome: '       &e&l* Informações sobre Niveis'
+          Lore:
+            - ''
+            - '              &b&lO que sao "Niveis":'
+            - ''
+            - '          &bTodas as maquinas possuem niveis'
+            - '         &bQuanto maior for o nivel da maquina'
+            - '           &bMaior será o numero de Rodadas'
+            - '           &bE menor será o tempo entre elas'
+            - '   &bAprimore suas maquinas para gerar um ótimo lucro'
+            - ''
+          Brilhar: true
+        SubirNivel:
+          ID: 388
+          Slot: 15
+          Nome: '    &a&l&nAprimorar Maquina'
+          Lore:
+            - ''
+            - '      &bNivel atual da maquina → &c(&n@nivel@&r&c)'
+            - '    &bNivel após o aprimoramento → &c(&n@maquinanovonivel@&r&c)'
+            - '       &bCusto para aprimorar → &c(&n@custo@&r&c)'
+            - ''
+            - '   &e@status@!'
+          Brilhar: true
+    MenuDropsDasMaquinas:
+      TituloGui: '&b&lMenu de Drops'
+      Items:
+        VenderTudo:
+          PermissaoNecessaria: 'keestmaquinas.vip'
+          MensagemSemPermissao: '&cVoce precisa ser VIP para poder usar essa funçao!'
+          StatusSemPermissao: '&cNecessario VIP para utilizar esse recurso!'
+          StatusVender: '&7Clique para vender tudo!'
+          ID: 388
+          Nome: '    &d&l&nVENDER TUDO!'
+          Lore:
+            - ''
+            - '          &dItens para vender → &a&n@items@'
+            - '         &dValor da venda → &a&n$@valor@'
+            - '    &dApós a venda, seu saldo ficará → &a$&n@total@'
+            - ''
+            - '     @status@'
+          Brilhar: true
+        Info:
+          ID: 356
+          Nome: '      &a&l&nSobre Maquinas'
+          Lore:
+            - ''
+            - '       &bAqui serao mostradas todas as suas maquinas colocadas!'
+            - '&bVoce pode abrir individualmente cada drop da maquina clicando nela!'
+            - '    &be possivel recolher TODOS os drops, clique em Recolher Tudo!'
+            - '         &bMaquinas que estiverem brilhando estao ligadas!'
+            - '   &bPara vender todos os drops das maquinas, clique na esmeralda!'
+            - ''
+            - '&7Voce atualmente possui um total de @totalmaquinas@ maquinas!'
+            - ''
+          Brilhar: true
+        RecolherTodasAsMaquina:
+          ID: 342
+          Nome: '       &a&l&nRecolher Tudo'
+          Lore:
+            - ''
+            - '         &bClique aqui para recolher !'
+            - '     &bTodos os drops das suas maquinas!'
+            - ''
+          Brilhar: true
+        ProximaPagina:
+          ID: 262
+          Nome: '       &a&lProxima Pagina'
+          Lore:
+            - ''
+            - ' &bClique aqui para ver a proxima pagina de maquinas!'
+          Brilhar: true
+        PaginaAnterior:
+          ID: 262
+          Nome: '       &a&lPagina Anterior!'
+          Lore:
+            - ''
+            - ' &bClique aqui para ver a pagina anterior de maquinas!'
+          Brilhar: true
+        NaoHaMaquinas:
+          ID: '160:14'
+          Nome: '         &c&lVazio!'
+          Lore:
+            - ''
+            - '       &eVoce nao tem nenhuma maquina :(!'
+          Brilhar: true
+        Decoracao:
+          ID: '160:14'
+          Nome: ' '
+          Lore:
+            - ''
+          Brilhar: false
+        FormatoDasMaquinasNoGUI:
+          Nome: '  &b&lMaquina: &n@maquinatipo@'
+          Lore:
+            - ''      
+            - '           &bTipo: &l(&n@maquinatipo@&r&b&l)'
+            - ''
+            - '                  &bNivel da maquina: &l(&n@nivel@&r&b&l)'
+            - ''
+            - '                  &bRodadas(Waves): &l(&n@rodadas@&r&b&l)'
+            - ''
+            - '              &bTempo entre rodadas: &l(&n@temporodadas@ segundos&r&b&l)'
+            - ''
+            - ''
+            - '@statusmaquina@!'
+            - '@statuscoletar@!'
+          Brilhar: true
+    MenuMaquina:
+      Items:
+        Vender:
+          PermissaoNecessaria: 'keestmaquinas.vip'
+          MensagemSemPermissao: '&cVoce precisa ser VIP para poder usar essa funçao!'
+          StatusSemPermissao: '&cNecessario VIP para utilizar esse recurso!'
+          StatusVender: '&7Clique aqui para vender!'
+          ID: 388
+          Nome: '              &d&lVENDER TUDO!'
+          Lore:
+            - ''
+            - '          &dItens para vender → &a&n@items@'
+            - '         &dValor da venda → &a&n$@valor@'
+            - '    &dApós a venda, seu saldo ficará → &a$&n@total@'
+            - ''
+            - '             @status@'
+          Brilhar: true
+        Decoracao:
+          ID: '160:1'
+          Nome: ' '
+          Lore:
+            - ''
+          Brilhar: false
+        Voltar:
+          ID: 262
+          Nome: '                &c&lVoltar'
+          Lore:
+            - '     &eClique aqui para voltar as suas maquinas'
+          Brilhar: false
+        RecolherDrops:
+          ID: 342
+          Nome: '               &a&l&nRecolher Drops'
+          Lore:
+            - ''
+            - '   &bClique aqui para recolher todos os drops desta maquina!'
+            - ''
+          Brilhar: true

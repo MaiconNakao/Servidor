@@ -1,0 +1,23 @@
+lastAccountName: ImJhonyG0D
+timestamps:
+  login: 1493591391023
+  logout: 1493605220459
+  kits:
+    explorer: 1493064067957
+  lastteleport: 1493591547863
+ipAddress: 200.153.228.39
+lastlocation:
+  world: world
+  x: 9453.936871011785
+  y: 103.5
+  z: -3205.8652225957276
+  yaw: -298.24414
+  pitch: 45.92283
+logoutlocation:
+  world: world
+  x: 9451.116277874944
+  y: 103.0
+  z: -3204.382442239367
+  yaw: -316.54456
+  pitch: 9.772762
+money: '0.0'

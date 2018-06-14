@@ -1,0 +1,31 @@
+lastAccountName: KauaTheGamer
+timestamps:
+  login: 1493154139214
+  lastteleport: 1493156493673
+  kits:
+    explorer: 1493082529699
+  logout: 1493083771292
+ipAddress: 187.23.150.138
+lastlocation:
+  world: plotworld
+  x: -247.4583340122081
+  y: 66.0
+  z: -135.12514932228393
+  yaw: -83.25001
+  pitch: 11.250001
+money: '596245.5'
+homes:
+  home:
+    world: plotworld
+    x: -206.04641443591012
+    y: 65.0
+    z: -79.66407156448416
+    yaw: 12.709098
+    pitch: 6.689249
+logoutlocation:
+  world: plotworld
+  x: -246.30578825674283
+  y: 65.0
+  z: -121.3000000119209
+  yaw: -134.21118
+  pitch: 21.150091

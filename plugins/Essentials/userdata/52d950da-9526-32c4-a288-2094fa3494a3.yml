@@ -1,0 +1,23 @@
+lastAccountName: KIILON3
+timestamps:
+  login: 1493309995250
+  kits:
+    explorer: 1493310038852
+  lastteleport: 1493310338820
+  logout: 1493310349703
+ipAddress: 179.218.125.243
+lastlocation:
+  world: world
+  x: 1762.300000011921
+  y: 93.0
+  z: -320.30000001192093
+  yaw: -283.2003
+  pitch: 38.249954
+logoutlocation:
+  world: plotworld
+  x: 109.73977640778699
+  y: 65.0
+  z: 0.4937825471715769
+  yaw: -90.05482
+  pitch: -0.33263063
+money: '1458.3333333333333'

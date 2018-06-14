@@ -1,0 +1,127 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&7Minas'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'minas'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 1
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: dragon_egg
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+1:
+  COMMAND: 'warp minavillager'
+  NAME: '&eVillager'
+  KEEP-OPEN: true
+  ID: 388
+  POSITION-X: 1
+  POSITION-Y: 2
+2:
+  COMMAND: 'warp minazombie'
+  NAME: '&2Zombie'
+  KEEP-OPEN: true
+  ID: 367
+  POSITION-X: 3
+  POSITION-Y: 2
+3:
+  COMMAND: 'warp minaspider'
+  NAME: '&7Spider'
+  KEEP-OPEN: true
+  ID: 30
+  POSITION-X: 5
+  POSITION-Y: 2
+4:
+  COMMAND: 'warp minacreeper'
+  NAME: '&2Creeper'
+  KEEP-OPEN: true
+  ID: 289
+  POSITION-X: 7
+  POSITION-Y: 2
+5:
+  COMMAND: 'warp minaslime'
+  NAME: '&aSlime'
+  KEEP-OPEN: true
+  ID: 341
+  POSITION-X: 9
+  POSITION-Y: 2
+6:
+  COMMAND: 'warp minablaze'
+  NAME: '&6Blaze'
+  KEEP-OPEN: true
+  ID: 377
+  POSITION-X: 2
+  POSITION-Y: 3
+7:
+  COMMAND: 'warp minaguardian'
+  NAME: '&9Guardian'
+  KEEP-OPEN: true
+  ID: 409
+  POSITION-X: 4
+  POSITION-Y: 3
+8:
+  COMMAND: 'warp minairongolem'
+  NAME: '&4IronGolem'
+  KEEP-OPEN: true
+  ID: 265
+  POSITION-X: 6
+  POSITION-Y: 3
+9:
+  COMMAND: 'warp minawither'
+  NAME: '&0Wither'
+  KEEP-OPEN: true
+  ID: 399
+  POSITION-X: 8
+  POSITION-Y: 3
+10:
+  COMMAND: 'warp minaenderdragon'
+  NAME: '&5EnderDragon'
+  KEEP-OPEN: true
+  ID: 381
+  POSITION-X: 4
+  POSITION-Y: 4
+11:
+  COMMAND: 'warp minaherobrine'
+  NAME: '&4Herobrine'
+  KEEP-OPEN: true
+  ID: 'skull:3'
+  SKULL-OWNER: 'MHF_Herobrine'
+  POSITION-X: 6
+  POSITION-Y: 4
+13:
+  COMMAND: 'warp minapvp'
+  NAME: '&cMinaPvP'
+  KEEP-OPEN: false
+  ID: 276
+  POSITION-X: 5
+  POSITION-Y: 6

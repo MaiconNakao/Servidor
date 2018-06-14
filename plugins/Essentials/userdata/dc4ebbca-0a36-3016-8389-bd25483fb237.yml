@@ -1,0 +1,51 @@
+lastAccountName: zMystiqui
+timestamps:
+  login: 1493654439834
+  kits:
+    gaia: 1493573201233
+    explorer: 1493086599378
+    cronos: 1493573349685
+    vip: 1493169018479
+    vipexplorer: 1493573049498
+    hades: 1493573371311
+  lastteleport: 1493654467722
+  logout: 1493654490687
+ipAddress: 170.254.73.115
+lastlocation:
+  world: world
+  x: 9454.5
+  y: 102.50999999046324
+  z: -3203.5
+  yaw: -269.10977
+  pitch: 83.40004
+logoutlocation:
+  world: world
+  x: 424.23750001192093
+  y: 30.0
+  z: -2286.697187770055
+  yaw: -167.48528
+  pitch: 44.72908
+homes:
+  vip:
+    world: world
+    x: -1314.4076733246168
+    y: 157.0
+    z: -5096.482530615334
+    yaw: 0.6746784
+    pitch: -0.0718148
+  spawners:
+    world: world
+    x: 9402.5
+    y: 119.0
+    z: -1070.5
+    yaw: -90.9902
+    pitch: 37.905697
+  farme:
+    world: plotworld
+    x: -248.80861909364785
+    y: 1.0
+    z: 167.30000001192093
+    yaw: -2.1559405
+    pitch: 50.30543
+money: '6236603.901289694'
+nickname: §f§lMystiqui

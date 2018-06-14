@@ -1,0 +1,327 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&8Loja (Blocks-02)'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'blocos2'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    item-id: 1
+    left-click: false
+    right-click: true
+#   data-value: 0
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+slot1:
+  COMMAND: 'console: give {player} 88 64'
+  NAME: '&eSoul Sand'
+  PRICE: 3000
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f3.000'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 88
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 2
+slot2:
+  COMMAND: 'console: give {player} 89 16'
+  NAME: '&eGlowstone'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 89
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 2
+slot3:
+  COMMAND: 'console: give {player} 112 64'
+  NAME: '&eNether Brick'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 112
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 2
+slot4:
+  COMMAND: 'console: give {player} 121 64'
+  NAME: '&eEnd Stone'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 121
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 2
+slot5:
+  COMMAND: 'console: give {player} 155 64'
+  NAME: '&eBlock of Quartz'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 155
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 2
+slot6:
+  COMMAND: 'console: give {player} 155:1 64'
+  NAME: '&eChiseled Quartz Block'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 155
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 2
+slot7:
+  COMMAND: 'console: give {player} 155:2 64'
+  NAME: '&ePillar Quartz Block'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 155
+  DATA-VALUE: 2
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 2
+slot8:
+  COMMAND: 'console: give {player} 98 64'
+  NAME: '&eStone Bricks'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 98
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 3
+slot9:
+  COMMAND: 'console: give {player} 98:1 64'
+  NAME: '&eMossy Stone Bricks'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 98
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 3
+slot10:
+  COMMAND: 'console: give {player} 98:3 64'
+  NAME: '&eChiseled Stone Bricks'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 98
+  DATA-VALUE: 3
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 3
+slot11:
+  COMMAND: 'console: give {player} 98:2 64'
+  NAME: '&eCracked Stone Bricks'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 98
+  DATA-VALUE: 2
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 3
+slot12:
+  COMMAND: 'console: give {player} 168 64'
+  NAME: '&ePrismarine'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 168
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 3
+slot13:
+  COMMAND: 'console: give {player} 168:1 64'
+  NAME: '&ePrismarine Bricks'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 168
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 3
+slot14:
+  COMMAND: 'console: give {player} 168:2 64'
+  NAME: '&eDark Prismarine'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 168
+  DATA-VALUE: 2
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 3
+slot15:
+  COMMAND: 'console: give {player} 169 16'
+  NAME: '&eSea Lantern'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx16'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 169
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 4
+slot16:
+  COMMAND: 'console: give {player} 174 1'
+  NAME: '&ePacked Ice'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx1'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 174
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 4
+slot17:
+  COMMAND: 'console: give {player} 170 64'
+  NAME: '&eHay Bale'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 170
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 4
+slot18:
+  COMMAND: 'console: give {player} 172 64'
+  NAME: '&eHardened Clay'
+  PRICE: 1500
+  LORE:
+    - '&7'
+    - '&7Gasto: &2$&f1.500'
+    - '&7Quantidade: &fx64'
+    - '&7'
+    - '&eClique para comprar este item!'
+  ID: 172
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 4
+Proximaanterior:
+  COMMAND: 'blocos1'
+  NAME: '&e<- Pagina anterior'
+  ID: 395
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 6
+voltar:
+  COMMAND: 'loja'
+  NAME: '&cVoltar'
+  ID: 262
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 6
+Proximapagina:
+  COMMAND: 'blocos3'
+  NAME: '&eProxima pagina ->'
+  ID: 395
+  DATA-VALUE: 0
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 6

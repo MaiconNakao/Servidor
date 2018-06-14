@@ -1,0 +1,20 @@
+Configuration:
+   Espaco_Messages: true
+   Sounds: true
+   Minimo_Jogadores: 2
+   Comando: 'pex user @jogador group set VIP'
+
+AutoStart:
+   Auto_Horario: true
+   # Domingo - Segunda - Terca - Quarta - Quinta - Sexta - Sabado
+   Dia: 'sexta'
+   Horario: '12:00'
+   Auto_Meta: true
+   Meta: 40
+
+Messages:
+   NO_Permission: '&cVoce nao possui permissao pra fazer isto!'
+   Ja_Acontecendo: '&cUm sorteio ja esta acontecendo!'
+   Iniciando: '  &eSorteando &61 &ejogador de &f&l@jogadores &eonlines'
+   Iniciando2: '  &e&lIniciando o sorteio!'
+   Cancelado: '  &cO sorteio foi cancelado!'

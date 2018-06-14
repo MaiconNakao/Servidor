@@ -1,0 +1,39 @@
+lastAccountName: KeniaKranos
+timestamps:
+  login: 1493594797284
+  kits:
+    prata: 1493520610144
+    ouro: 1493518538967
+    explorer: 1493510089856
+    recruta: 1493520754308
+    pvp: 1493523749613
+    iniciante: 1493512644498
+    novato: 1493510370809
+    platina: 1493518823706
+    bronze: 1493520724581
+    soldado: 1493520741101
+  lastteleport: 1493595279963
+  logout: 1493595489270
+ipAddress: 170.78.153.141
+lastlocation:
+  world: world
+  x: 9275.300000011921
+  y: 111.0
+  z: 1590.1742826364855
+  yaw: -152.04414
+  pitch: 31.557718
+logoutlocation:
+  world: plotworld
+  x: -319.90589148471673
+  y: 65.0
+  z: 5.026298559815138
+  yaw: 7.0499997
+  pitch: 5.699999
+homes:
+  home:
+    world: plotworld
+    x: 33.43127348558788
+    y: 65.0
+    z: 189.0202708046358
+    yaw: -3.8999329
+    pitch: 15.950005

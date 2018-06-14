@@ -1,0 +1,32 @@
+lastAccountName: Ferraz_Gaming
+timestamps:
+  login: 1493475474102
+  lastteleport: 1493475632540
+  kits:
+    explorer: 1492978406852
+    novato: 1493475658172
+  logout: 1493475799945
+ipAddress: 89.115.178.46
+lastlocation:
+  world: world
+  x: 9471.053017512751
+  y: 106.0
+  z: -3208.3193416955983
+  yaw: -270.7887
+  pitch: 40.050007
+money: '163.39285714285506'
+homes:
+  home:
+    world: plotworld
+    x: -104.38252616377262
+    y: 65.0
+    z: 80.56911083902693
+    yaw: -108.15039
+    pitch: 26.849983
+logoutlocation:
+  world: world
+  x: 9261.040882189784
+  y: 111.0625
+  z: 1559.8879041601365
+  yaw: 10.799914
+  pitch: 4.04998

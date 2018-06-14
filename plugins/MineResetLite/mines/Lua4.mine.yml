@@ -1,0 +1,24 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 60
+  surface: ''
+  maxZ: -28
+  maxY: 237
+  maxX: -44
+  ignoreLadders: false
+  fillMode: false
+  world: Lua
+  minY: 235
+  resetWarnings: []
+  minX: -50
+  composition:
+    0:0: 0.29
+    '19:0': 0.7
+    '165:0': 0.01
+  name: Lua4
+  resetClock: 19
+  minZ: -34
+  isSilent: false
+  tpY: -1
+  tpX: 0
+  tpZ: 0

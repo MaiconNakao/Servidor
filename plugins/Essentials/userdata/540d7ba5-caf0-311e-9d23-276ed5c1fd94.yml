@@ -1,0 +1,23 @@
+lastAccountName: sleepayLoL
+timestamps:
+  login: 1493269331001
+  logout: 1493269949020
+  lastteleport: 1493269759470
+  kits:
+    explorer: 1493269710976
+ipAddress: 187.255.8.64
+lastlocation:
+  world: plotworld
+  x: -176.78759982935645
+  y: 65.0
+  z: -125.63256745298884
+  yaw: -328.83362
+  pitch: 21.486897
+logoutlocation:
+  world: plotworld
+  x: 254.21437440878253
+  y: 64.0
+  z: -174.34140399524654
+  yaw: 98.22548
+  pitch: 84.062515
+money: '900000.0'

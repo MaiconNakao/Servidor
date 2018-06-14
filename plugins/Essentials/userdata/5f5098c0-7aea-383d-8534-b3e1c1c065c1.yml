@@ -1,0 +1,31 @@
+lastAccountName: PequenosCombo
+timestamps:
+  login: 1493586927660
+  lastteleport: 1493586588893
+  kits:
+    prata: 1493578766331
+  logout: 1493587162078
+ipAddress: 170.84.49.146
+lastlocation:
+  world: world
+  x: 2111.568806982013
+  y: 57.5
+  z: -2013.5053662674036
+  yaw: 269.58075
+  pitch: 2.4044523
+money: '6533.706701388'
+homes:
+  home:
+    world: plotworld
+    x: 131.64127433073037
+    y: 65.0
+    z: 153.17513242957068
+    yaw: -87.00054
+    pitch: 15.5770235
+logoutlocation:
+  world: plotworld
+  x: -316.55128939446234
+  y: 65.0
+  z: -262.94910890183996
+  yaw: -105.37007
+  pitch: 6.6357865

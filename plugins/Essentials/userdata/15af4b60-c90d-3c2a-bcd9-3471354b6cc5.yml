@@ -1,0 +1,21 @@
+lastAccountName: Nokito
+timestamps:
+  login: 1492978653770
+  lastteleport: 1492978857642
+  logout: 1492978884823
+ipAddress: 179.187.27.253
+logoutlocation:
+  world: world
+  x: 1791.6331932023638
+  y: 79.0
+  z: -315.059644653135
+  yaw: 107.05177
+  pitch: 23.868824
+lastlocation:
+  world: world
+  x: 9451.782008922735
+  y: 103.5
+  z: -3203.9224654251143
+  yaw: -185.28845
+  pitch: 18.922888
+money: '0.0'

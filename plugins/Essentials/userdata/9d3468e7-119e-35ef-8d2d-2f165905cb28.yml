@@ -1,0 +1,24 @@
+lastAccountName: TibiBR_
+timestamps:
+  login: 1493262364080
+  kits:
+    explorer: 1493262387292
+    pvp: 1493262398842
+  lastteleport: 1493262807883
+  logout: 1493262825933
+ipAddress: 179.110.172.109
+lastlocation:
+  world: plotworld
+  x: -174.10670553377778
+  y: 64.0
+  z: -96.59556924216713
+  yaw: -136.27666
+  pitch: 2.1456015
+logoutlocation:
+  world: plotworld
+  x: -154.27924818462506
+  y: 65.0
+  z: -95.77957026267275
+  yaw: -106.14778
+  pitch: -0.18015088
+money: '0.0'

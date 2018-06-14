@@ -1,0 +1,25 @@
+lastAccountName: abcd1234
+timestamps:
+  login: 1492978914675
+  kits:
+    explorer: 1492978944396
+    pvp: 1492978959548
+    iniciante: 1492979286646
+  lastteleport: 1492979067766
+  logout: 1492979302556
+ipAddress: 189.24.236.206
+lastlocation:
+  world: world
+  x: 1766.2322833528785
+  y: 93.0
+  z: -334.0505267702837
+  yaw: 141.57062
+  pitch: 34.544445
+logoutlocation:
+  world: world
+  x: 1662.193089243117
+  y: 79.0
+  z: -315.8266892420089
+  yaw: -3.298594
+  pitch: 5.3136625
+money: '9346.428571428572'

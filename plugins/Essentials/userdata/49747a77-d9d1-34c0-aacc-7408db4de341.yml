@@ -1,0 +1,24 @@
+lastAccountName: GVG_CoelhoPoker
+timestamps:
+  login: 1493071669790
+  kits:
+    explorer: 1493071702548
+    pvp: 1493071726817
+  lastteleport: 1493072801000
+  logout: 1493073062768
+ipAddress: 201.23.213.62
+lastlocation:
+  world: world
+  x: 1713.7381412837888
+  y: 79.0
+  z: -312.4989207746908
+  yaw: -341.07782
+  pitch: 2.7621627
+logoutlocation:
+  world: plotworld
+  x: 142.39293390316828
+  y: 65.0
+  z: 145.31106924537966
+  yaw: -241.78198
+  pitch: -4.0070386
+money: '106.87934027776828'
