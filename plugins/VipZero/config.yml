@@ -4,17 +4,85 @@ MySQL:
   Port: 3306
   Username: test
   Password: '123'
-  Database: minecraft
+  Database: piratamc
+vips:
+  xMagoPvP:
+    inicio: 16/06/2017
+    usando: vip1
+    vip1: 7
+    vip2: 2
+    vip3: 7
+  KiroGaya:
+    inicio: 14/06/2018
+    usando: vip3
+    vip3: 1
 language: br
-server_name: '&7'
-check_for_updates: true
-case_sensitive_for_flatfile: false
-key_length: 10
 one_vip_change: false
 usekey_global: false
 rvip_unlisted: true
-use_vault_for_permissions: true
 check_time: 10
+vip_groups:
+- vip1
+- vip2
+- vip3
+default_group: default
+vip_items:
+- 'vip1,0,comando,bc 1 @player &aAcabou de ativar um VIP! '
+- vip1,0,310,1,protection-15-unbreaking-15-name-&4
+- vip1,0,311,1,protection-15-unbreaking-15-name-&4
+- vip1,0,312,1,protection-15-unbreaking-15-name-&4
+- vip1,0,313,1,protection-15-unbreaking-15-name-&4
+- vip1,0,276,1,fireaspect-7-sharpness-5-name-&4
+- vip1,0,278,1,unbreaking-7-efficiency-7-fortune-8-name-&4
+- vip1,0,322:1,300,none
+- vip1,0,comando,ss add @player irongolem 5
+- vip1,0,comando,ss add @player pig 5
+- vip1,0,comando,ss add @player cow 5
+- vip1,0,57,32,none
+- vip1,0,41,32,none
+- vip1,0,comando,money create @player
+- vip1,0,comando,money give @player 100000
+- null
+- null
+- null
+- 'vip2,0,comando,bc 1 @player &aAcabou de ativar um VIP! '
+- vip2,0,310,1,protection-20-unbreaking-25-name-&4
+- vip2,0,311,1,protection-20-unbreaking-25-name-&4
+- vip2,0,312,1,protection-20-unbreaking-25-name-&4
+- vip2,0,313,1,protection-20-unbreaking-25-name-&4
+- vip2,0,276,1,fireaspect-7-sharpness-5-name-&4
+- vip2,0,278,1,unbreaking-8-efficiency-7-fortune-8-name-&4
+- vip2,0,322:1,300,none
+- vip2,0,comando,ss add @player irongolem 5
+- vip2,0,comando,ss add @player pig 5
+- vip2,0,comando,ss add @player cow 5
+- vip2,0,57,32,none
+- vip2,0,41,32,none
+- vip2,0,comando,money create @player
+- vip2,0,comando,money give @player 100000
+- null
+- null
+- null
+- 'vip3,0,comando,bc 1 @player &aAcabou de ativar um VIP! '
+- vip3,0,310,1,protection-30-unbreaking-35-name-&4
+- vip3,0,311,1,protection-30-unbreaking-35-name-&4
+- vip3,0,312,1,protection-30-unbreaking-35-name-&4
+- vip3,0,313,1,protection-30-unbreaking-35-name-&4
+- vip3,0,276,1,fireaspect-7-sharpness-5-name-&4
+- vip3,0,278,1,unbreaking-8-efficiency-9-fortune-8-name-&4
+- vip3,0,322:1,300,none
+- vip3,0,comando,ss add @player irongolem 5
+- vip3,0,comando,ss add @player pig 5
+- vip3,0,comando,ss add @player cow 5
+- vip3,0,57,32,none
+- vip3,0,41,32,none
+- vip3,0,comando,money create @player
+- vip3,0,comando,money give @player 100000
+server_name: VipZero
+check_for_updates: true
+case_sensitive_for_flatfile: false
+key_length: 10
+use_vault_for_permissions: false
 pagseguro:
   use: false
   email: suporte@lojamodelo.com.br
@@ -30,41 +98,4 @@ paypal:
   mysql_log: false
 logging:
   usekey: false
-vip_groups:
-- Soldado
-- Mestre
-- Expert
-- Ajudante
-- Mod
-- Admin
-- Gerente
-- Diretor
-default_group: default
-vip_items:
-- Soldado,0,cmd,tm bc &b&l@player{NL}Tornou-se &3[Soldado]!
-- Soldado,0,cmd,pex user @player group set Soldado
-- Soldado,0,cmd,crate key all vip 1
-- Mestre,0,cmd,tm bc &b&l@player{NL}Tornou-se &5[Mestre]!
-- Mestre,0,cmd,pex user @player group set Mestre
-- Mestre,0,cmd,crate key all vip 2
-- Expert,0,cmd,tm bc &b&l@player{NL}Tornou-se &b[Expert]!
-- Expert,0,cmd,pex user @player group set Expert
-- Expert,0,cmd,crate key all vip 3
-- Ajudante,0,cmd,pex user @player group set Ajudante
-- Ajudante,0,cmd,tm bc &b&l@player{NL}foi promovido a &e&lAJUDANTE&f!
-- Mod,0,cmd,pex user @player group set Mod
-- Mod,0,cmd,tm bc &b&l@player{NL} foi promovido a &5&lMODERADOR&f!
-- Admin,0,cmd,pex user @player group set Admin
-- Admin,0,cmd,tm bc &b&l@player{NL}foi promovido a &c&lADMIN&f!
-- Gerente,0,cmd,pex user @player group set gerente
-- Gerente,0,cmd,tm bc &b&l@player{NL}foi promovido a &4&lGERENTE&f!
-- Gerente,0,cmd,op @player
-- Diretor,0,cmd,pex user @player group set diretor
-- Diretor,0,cmd,tm bc &b&l@player{NL}foi promovido a &6&lDONO&F!
-- Diretor,0,cmd,op @player
-vips:
-  OneForAll:
-    inicio: 13/06/2018
-    usando: Expert
-    Expert: 30
 keys: {}

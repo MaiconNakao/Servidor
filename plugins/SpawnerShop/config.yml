@@ -12,31 +12,31 @@ options:
   prefix: '&3&lNovaEra '
   nomoney: '&cSem dinheiro suficiente.'
 prices:
-  enderman: 500000
-  blaze: 1000000
-  skeleton: 500000
-  zombie: 70000
-  creeper: 1000000000
-  cavespider: 1000000
-  spider: 60000
-  wolf: 100000
-  chicken: 100000
-  cow: 20000
-  pig: 30000
-  ocelot: 100000
-  mushroom: 100000
-  sheep: 100000
-  bat: 100000
-  rabbit: 100000
-  squid: 100000
-  villager: 5151234643634
-  zombiepig: 90000
-  silverfish: 100000
-  irongolem: 1500000
-  slime: 100000
-  horse: 100000
-  witch: 100000
-  wither: 3400000
+  enderman: 50000000
+  blaze: 100000000
+  skeleton: 50000000
+  zombie: 7000000
+  creeper: 100000000000
+  cavespider: 100000000
+  spider: 6000000
+  wolf: 10000000
+  chicken: 10000000
+  cow: 2000000
+  pig: 30000000
+  ocelot: 100000000
+  mushroom: 10000000
+  sheep: 1000000
+  bat: 10000000
+  rabbit: 10000000
+  squid: 10000000
+  villager: 515123464363400
+  zombiepig: 900000
+  silverfish: 1000000
+  irongolem: 15000000
+  slime: 1000000000
+  horse: 10000000
+  witch: 100000000
+  wither: 34000000
 spawners:
   enderman: false
   blaze: true
