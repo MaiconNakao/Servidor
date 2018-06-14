@@ -120,7 +120,7 @@ rankups:
     rankup_to: PrataIV
     cost: '1000000'
     rankup_actions:
-    - '[addgroup] PrataV'
+    - '[addgroup] PrataIV'
     - '[removegroup] PrataV'
     - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&7PrataIV&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
