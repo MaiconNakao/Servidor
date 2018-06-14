@@ -57,308 +57,268 @@
 # %rankup_is_completed_<rankname>% - show if a player has completed the specified rank
 
 last_rank:
-  rank: Herobrine
-  prefix: '&4[Herobrine]'
+  rank: Mestre
+  prefix: '&9[&6&lMestreᢁ&9]'
 requirement_message:
 - '&8'
 - '&cVoce precisa &a$&f%cost% &cpara o rank %rankupprefix%'
 - '&8'
 rankups:
-  VillagerIII:
+  BronzeV:
     order: 1
-    prefix: '&e[VillagerIII]'
-    rankup_to: VillagerII
-    cost: '50000'
+    prefix: '&6[BronzeV]'
+    rankup_to: BronzeIV
+    cost: '100000'
     rankup_actions:
-    - '[addgroup] VillagerII'
-    - '[removegroup] VillagerIII'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[addgroup] BronzeIV'
+    - '[removegroup] BronzeV'
+    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&6BronzeIV&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  VillagerII:
+  BronzeIV:
     order: 2
-    prefix: '&e[VillagerII]'
-    rankup_to: VillagerI
-    cost: '103000'
+    prefix: '&6[BronzeIV]'
+    rankup_to: BronzeIII
+    cost: '200000'
     rankup_actions:
-    - '[addgroup] VillagerI'
-    - '[removegroup] VillagerII'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[addgroup] BronzeIII'
+    - '[removegroup] BronzeIV'
+    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&6BronzeIII&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  VillagerI:
+  BronzeIII:
     order: 3
-    prefix: '&e[VillagerI]'
-    rankup_to: ZombieIII
-    cost: '180000'
+    prefix: '&6[BronzeIII]'
+    rankup_to: BronzeII
+    cost: '300000'
     rankup_actions:
-    - '[addgroup] ZombieIII'
-    - '[removegroup] HerculesI'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[addgroup] BronzeII'
+    - '[removegroup] BronzeIII'
+    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&6BronzeII&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  ZombieIII:
+  BronzeII:
     order: 4
-    prefix: '&2[ZombieIII]'
-    rankup_to: ZombieII
-    cost: '350000'
+    prefix: '&6[BronzeII]'
+    rankup_to: BronzeI
+    cost: '400000'
     rankup_actions:
-    - '[addgroup] ZombieII'
-    - '[removegroup] ZombieIII'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[addgroup] BronzeI'
+    - '[removegroup] BronzeII'
+    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&6BronzeI&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  ZombieII:
+  BronzeI:
     order: 5
-    prefix: '&2[ZombieII]'
-    rankup_to: ZombieI
-    cost: '620000'
+    prefix: '&6[BronzeI]'
+    rankup_to: PrataV
+    cost: '500000'
     rankup_actions:
-    - '[addgroup] ZombieI'
-    - '[removegroup] ZombieII'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[addgroup] PrataV'
+    - '[removegroup] BronzeI'
+    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&7PrataV&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  ZombieI:
+  PrataV:
     order: 6
-    prefix: '&2[ZombieI]'
-    rankup_to: SpiderIII
+    prefix: '&7[PrataV]'
+    rankup_to: PrataIV
     cost: '1000000'
     rankup_actions:
-    - '[addgroup] SpiderIII'
-    - '[removegroup] ZombieI'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[addgroup] PrataV'
+    - '[removegroup] PrataV'
+    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&7PrataIV&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  SpiderIII:
+  PrataIV:
     order: 7
-    prefix: '&7[SpiderIII]'
-    rankup_to: SpiderII
-    cost: '138000'
+    prefix: '&7[PrataIV]'
+    rankup_to: PrataIII
+    cost: '2000000'
     rankup_actions:
-    - '[addgroup] SpiderII'
-    - '[removegroup] SpiderIII'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[addgroup] PrataIII'
+    - '[removegroup] PrataIV'
+    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&7PrataIII&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  SpiderII:
+  PrataIII:
     order: 8
-    prefix: '&7[SpiderIII]'
-    rankup_to: SpiderI
-    cost: '2500000'
+    prefix: '&7[PrataIII]'
+    rankup_to: PrataII
+    cost: '3000000'
     rankup_actions:
-    - '[addgroup] SpiderI'
-    - '[removegroup] SpiderII'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[addgroup] PrataII'
+    - '[removegroup] PrataIII'
+    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&7PrataII&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  SpiderI:
+  PrataII:
     order: 9
-    prefix: '&7[SpiderI]'
-    rankup_to: CreeperIII
-    cost: '3470000'
+    prefix: '&7[PrataII]'
+    rankup_to: PrataI
+    cost: '4000000'
     rankup_actions:
-    - '[addgroup] CreeperIII'
-    - '[removegroup] SpiderI'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[addgroup] PrataI'
+    - '[removegroup] PrataII'
+    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&7PrataI&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  CreeperIII:
+  PrataI:
     order: 10
-    prefix: '&2[CreeperIII]'
-    rankup_to: CreeperII
-    cost: '5680000'
+    prefix: '&7[PrataI]'
+    rankup_to: OuroV
+    cost: '5000000'
     rankup_actions:
-    - '[addgroup] CreeperII'
-    - '[removegroup] CreeperIII'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[addgroup] OuroV'
+    - '[removegroup] PrataI'
+    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&eOuroV&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  CreeperII:
+  OuroV:
     order: 11
-    prefix: '&2[CreeperII]'
-    rankup_to: CreeperI
-    cost: '8200000'
+    prefix: '&e[OuroV]'
+    rankup_to: OuroIV
+    cost: '15000000'
     rankup_actions:
-    - '[addgroup] CreeperI'
-    - '[removegroup] CreeperII'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[addgroup] OuroIV'
+    - '[removegroup] OuroV'
+    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&eOuroIV&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  CreeperI:
+  OuroIV:
     order: 12
-    prefix: '&2[CreeperI]'
-    rankup_to: SlimeIII
-    cost: '10000000'
+    prefix: '&e[OuroIV]'
+    rankup_to: OuroIII
+    cost: '25000000'
     rankup_actions:
-    - '[addgroup] SlimeIII'
-    - '[removegroup] CreeperI'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[addgroup] OuroIII'
+    - '[removegroup] OuroIV'
+    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&eOuroIII&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  SlimeIII:
+  OuroIII:
     order: 13
-    prefix: '&a[SlimeIII]'
-    rankup_to: SlimeII
-    cost: '125000000'
+    prefix: '&e[OuroIII]'
+    rankup_to: OuroII
+    cost: '35000000'
     rankup_actions:
-    - '[addgroup] SlimeII'
-    - '[removegroup] SlimeIII'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[addgroup] OuroII'
+    - '[removegroup] OuroIII'
+    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&eOuroII&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  SlimeII:
+  OuroII:
     order: 14
-    prefix: '&a[SlimeII]'
-    rankup_to: SlimeI
-    cost: '147500000'
+    prefix: '&e[OuroII]'
+    rankup_to: OuroI
+    cost: '45000000'
     rankup_actions:
-    - '[addgroup] SlimeI'
-    - '[removegroup] SlimeII'
+    - '[addgroup] OuroI'
+    - '[removegroup] OuroII'
     - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  SlimeI:
+  OuroI:
     order: 15
-    prefix: '&a[SlimeI]'
-    rankup_to: BlazeIII
-    cost: '268000000'
+    prefix: '&e[OuroI]'
+    rankup_to: PlatinaV
+    cost: '55000000'
     rankup_actions:
-    - '[addgroup] BlazeIII'
-    - '[removegroup] SlimeI'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[addgroup] PlatinaV'
+    - '[removegroup] OuroI'
+    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &7[&3PlatinaV&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  BlazeIII:
+  PlatinaV:
     order: 16
-    prefix: '&6[BlazeIII]'
-    rankup_to: BlazeII
-    cost: '850000000'
+    prefix: '&3[PlatinaV]'
+    rankup_to: PlatinaIV
+    cost: '65000000'
     rankup_actions:
-    - '[addgroup] BlazeII'
-    - '[removegroup] BlazeIII'
+    - '[addgroup] PlatinaIV'
+    - '[removegroup] PlatinaV'
     - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  BlazeII:
+  PlatinaIV:
     order: 17
-    prefix: '&6[BlazeII]'
-    rankup_to: BlazeI
-    cost: '1270000000'
+    prefix: '&3[PlatinaIV]'
+    rankup_to: PlatinaIII
+    cost: '75000000'
     rankup_actions:
-    - '[addgroup] BlazeI'
-    - '[removegroup] BlazeII'
+    - '[addgroup] PlatinaIII'
+    - '[removegroup] PlatinaIV'
     - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  BlazeI:
+  PlatinaIII:
     order: 18
-    prefix: '&6[BlazeI]'
-    rankup_to: GuardianIII
-    cost: '2500000000'
+    prefix: '&3[PlantinaIII]'
+    rankup_to: PlatinaII
+    cost: '85000000'
     rankup_actions:
-    - '[addgroup] GuardianIII'
-    - '[removegroup] BlazeI'
+    - '[addgroup] PlatinaI'
+    - '[removegroup] PlatinaII'
     - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  GuardianIII:
+  PlatinaII:
     order: 19
-    prefix: '&9[GuardianIII]'
-    rankup_to: GuardianII
-    cost: '3620000000'
+    prefix: '&3[PlatinaII]'
+    rankup_to: PlatinaI
+    cost: '95000000'
     rankup_actions:
-    - '[addgroup] GuardianII'
-    - '[removegroup] GuardianIII'
+    - '[addgroup] DiamanteV'
+    - '[removegroup] PlatinaI'
     - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  GuardianII:
+  PlatinaI:
     order: 20
-    prefix: '&9[GuardianII]'
-    rankup_to: GuardianI
-    cost: '5150000000'
+    prefix: '&3[PlatinaI]'
+    rankup_to: DiamanteV
+    cost: '150000000'
     rankup_actions:
-    - '[addgroup] GuardianI'
-    - '[removegroup] GuardianII'
+    - '[addgroup] DiamanteV'
+    - '[removegroup] PlatinaI'
     - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  GuardianI:
+  DiamanteV:
     order: 21
-    prefix: '&9[GuardianI]'
-    rankup_to: IronGolemII
-    cost: '102000000'
-    rankup_actions:
-    - '[addgroup] IronGolemII'
-    - '[removegroup] GuardianI'
-    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &4[IronGolemII]'
-    - '[consolecommand] crate key %player% RANKUP 1'
-  IronGolemII:
-    order: 22
-    prefix: '&4[IronGolemII]'
-    rankup_to: IronGolemI
+    prefix: '&b[DiamanteV]'
+    rankup_to: DiamanteIV
     cost: '250000000'
     rankup_actions:
-    - '[addgroup] IronGolemI'
-    - '[removegroup] IronGolemII'
+    - '[addgroup] DiamanteIII'
+    - '[removegroup] DiamanteV'
     - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  IronGolemI:
+  DiamanteIV:
+    order: 22
+    prefix: '&b[DiamanteIV]'
+    rankup_to: DiamanteIII
+    cost: '350000000'
+    rankup_actions:
+    - '[addgroup] DiamanteIII'
+    - '[removegroup] DiamanteIV'
+    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[consolecommand] crate key %player% RANKUP 1'
+  DiamanteIII:
     order: 23
-    prefix: '&4[IronGolemI]'
-    rankup_to: Wither
-    cost: '842630000'
+    prefix: '&b[DiamanteIII]'
+    rankup_to: DiamanteII
+    cost: '450000000'
     rankup_actions:
-    - '[addgroup] Wither'
-    - '[removegroup] IronGolemI'
-    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &0[Wither]'
+    - '[addgroup] DiamanteII'
+    - '[removegroup] DiamanteIII'
+    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  Wither:
+  DiamanteII:
     order: 24
-    prefix: '&0[Wither]'
-    rankup_to: EnderDragonIII
-    cost: '2250420000'
+    prefix: '&b[DiamanteII]'
+    rankup_to: DiamanteI
+    cost: '550000000'
     rankup_actions:
-    - '[addgroup] EnderDragonIII'
-    - '[removegroup] Wither'
-    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &5[EnderDragonIII]'
+    - '[addgroup] DiamanteI'
+    - '[removegroup] DiamanteII'
+    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  EnderDragonIII:
+  DiamanteI:
     order: 25
-    prefix: '&5[EnderDragonIII]'
-    rankup_to: EnderDragonII
-    cost: '6000000000'
+    prefix: '&b[DiamanteI]'
+    rankup_to: Mestre
+    cost: '1550000000'
     rankup_actions:
-    - '[addgroup] EnderDragonII'
-    - '[removegroup] EnderDragonIII'
+    - '[addgroup] Mestre'
+    - '[removegroup] DiamanteI'
     - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
     - '[consolecommand] crate key %player% RANKUP 1'
-  EnderDragonII:
+  Mestre:
     order: 26
-    prefix: '&5[EnderDragonII]'
-    rankup_to: EnderDragonI
-    cost: '25000000000'
-    rankup_actions:
-    - '[addgroup] EnderDragonI'
-    - '[removegroup] EnderDragonII'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
-    - '[consolecommand] crate key %player% RANKUP 1'
-  EnderDragonI:
-    order: 27
-    prefix: '&5[EnderDragonI]'
-    rankup_to: HerobrineIII
-    cost: '100000000000'
-    rankup_actions:
-    - '[addgroup] HerobrineIII'
-    - '[removegroup] EnderDragonI'
-    - '[consolecommand] tm bc &f%player% {nl} &fUpou para &4[HerobrineIII]'
-    - '[consolecommand] crate key %player% RANKUP 1'
-  HerobrineIII:
-    order: 28
-    prefix: '&4[HerobrineIII]'
-    rankup_to: HerobrineII
-    cost: '140000000000'
-    rankup_actions:
-    - '[addgroup] HerobrineII'
-    - '[removegroup] HerobrineIII'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
-    - '[consolecommand] crate key %player% RANKUP 1'
-  HerobrineII:
-    order: 29
-    prefix: '&4[HerobrineII]'
-    rankup_to: Herobrine
-    cost: '205000000000'
-    rankup_actions:
-    - '[addgroup] Herobrine'
-    - '[removegroup] HerobrineII'
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
-    - '[consolecommand] crate key %player% RANKUP 1'
-  Herobrine:
-    order: 30
-    prefix: '&4[Herobrine]'
+    prefix: '&6&l[Mestre]'
     cost: ''
     rankup_actions:
-    - '[actionbarbroadcast] &6%player% &epassou de rank para &7[&f%rankup%&7]'
+    - '[actionbarbroadcast] &6%player% &eAgora é um &6&l[Mestre] Da &9NovaEra Parabéns '
     - '[consolecommand] crate key %player% RANKUP 5'
-    - '[consolecommand] tm bc &4&l%player%<nl>&fupou para &4&lHEROBRINE'
+    - '[consolecommand] tm bc &4&l%player%<nl>&a&lAgora é &6&lMestre'
