@@ -14,6 +14,6 @@ Configuracao:
 # &cOi
 Mensagem_Kick: '&c&lKICK @linha&1 @linha&cO servidor entrou em manutencao! @linha&7Voltamos em breve! @linha&2 @linha&ewww.SeuSite.com'
 
-Mensagem_Manutencao: '&c&lKICK @linha&1 @linha&cO servidor esta em manutencao! @linha&7Voltamos em breve! @linha&2 @linha&ewww.SeuSite.com'
+Mensagem_Manutencao: '&c&lKICK @linha&1 @linha&cO servidor esta em manutencao! @linha&7Voltamos em breve! @linha&2 @linha&Site: Em breve'
 
 MOTD: '                  &cServidor em MANUTENCAO!'

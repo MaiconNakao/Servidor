@@ -1,32 +1,35 @@
 lastAccountName: KiroGaya
 timestamps:
-  login: 1528839694639
-  logout: 1528842429592
-  lastteleport: 1528842198492
+  login: 1529018703409
+  logout: 1529018703335
+  lastteleport: 1529018777554
   kits:
     basicovip++: 1528771820721
     expert: 1528762300253
-    villager: 1528778007448
+    villager: 1528930184631
     blaze: 1528753286608
-    basico: 1528770975187
+    basico: 1528930969736
     pvp: 1528771125236
+    baitola: 1528930509140
     spider: 1528753296801
+    wither: 1528929276132
+    expertd: 1528930667036
     soldado: 1528654642579
-ipAddress: 177.102.108.213
+ipAddress: 179.111.100.64
 logoutlocation:
-  world: SpawnVip
-  x: 9.317952182752167
-  y: 15.393805181374585
-  z: -63.70743133553488
-  yaw: -133.45172
-  pitch: 90.0
+  world: Teste
+  x: -30.2957367101552
+  y: 113.41096852752078
+  z: -48.64425976066452
+  yaw: 105.522804
+  pitch: 46.703613
 lastlocation:
   world: world
-  x: -394.8986983063735
-  y: 64.24638251413162
-  z: 33.51652147351945
-  yaw: -322.7036
-  pitch: 66.51241
+  x: -402.61701520866114
+  y: 50.0
+  z: 63.19658427198178
+  yaw: -95.02388
+  pitch: 11.753665
 money: '834336.0'
 homes:
   arena:

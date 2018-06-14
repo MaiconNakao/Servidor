@@ -1,7 +1,7 @@
 Groups:
   Dono:
     Permission: nte.dono
-    Prefix: '&6[DONO] '
+    Prefix: '&c[Diretor]&f'
     Suffix: '&f'
     SortPriority: 1
   Gerente:
@@ -49,3 +49,38 @@ Groups:
     Prefix: '&7'
     Suffix: '&f'
     SortPriority: 10
+  Baitola:
+    Permission: ''
+    Prefix: '&e[B]'
+    Suffix: ''
+    SortPriority: -1
+  Cuzao:
+    Permission: ''
+    Prefix: '&e[C]'
+    Suffix: ''
+    SortPriority: -1
+  Pasteleiro:
+    Permission: ''
+    Prefix: '&6[P]'
+    Suffix: ''
+    SortPriority: -1
+  Empresario:
+    Permission: ''
+    Prefix: '&a[E]'
+    Suffix: ''
+    SortPriority: -1
+  Milhonario:
+    Permission: ''
+    Prefix: '&e[M]'
+    Suffix: ''
+    SortPriority: -1
+  Bilhonario:
+    Permission: ''
+    Prefix: '&9[B]'
+    Suffix: ''
+    SortPriority: -1
+  DOTADO:
+    Permission: ''
+    Prefix: '&d&l[D]'
+    Suffix: ''
+    SortPriority: -1

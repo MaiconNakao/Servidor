@@ -2,7 +2,7 @@ worlds:
   SpawnVip:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: SpawnVip
     color: WHITE
     style: NORMAL
     pvp: 'true'

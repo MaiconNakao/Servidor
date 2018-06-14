@@ -1,19 +1,20 @@
 lastAccountName: Darkzs
 timestamps:
-  login: 1528842586031
-  lastteleport: 1528842740138
-  logout: 1528843090436
+  login: 1528996177471
+  lastteleport: 1528996196706
+  logout: 1528996319652
   kits:
     expert: 1528842715344
     mestred: 1528843081844
+    herobrine: 1528939357043
 ipAddress: 189.35.145.19
 lastlocation:
   world: Mina
-  x: 890.246870294599
-  y: 65.0
-  z: -1251.6387062173756
-  yaw: 83.83065
-  pitch: 15.864874
+  x: 873.5068315332092
+  y: 17.490147966047267
+  z: -1257.654089299736
+  yaw: -66.727234
+  pitch: 36.963516
 homes:
   vip:
     world: SpawnVip
@@ -51,9 +52,10 @@ homes:
     yaw: -271.2448
     pitch: 38.992985
 logoutlocation:
-  world: Mina
-  x: 1908.6136910231564
-  y: 89.5644915267296
-  z: -1277.0630532226212
-  yaw: -176.83832
-  pitch: 0.43327913
+  world: world
+  x: -416.2686003066446
+  y: 51.0
+  z: 60.4589501969943
+  yaw: -12.4904785
+  pitch: 7.468731
+money: '2008045.0'

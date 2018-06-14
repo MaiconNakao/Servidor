@@ -1,7 +1,7 @@
 Configuracao:
    Achar_Minerando: true
    # Ao matar um jogador tem chance de encontrar um fragmento (true = sim)
-   Achar_Batalhando: false
+   Achar_Batalhando: true
    Nome_NPC: '&6Astronauta'
    Ativar_Animacao: true
 
@@ -28,7 +28,7 @@ Fragmento:
     Lore:
     - '&7Fragmento tipo: &a&lCOMUM'
    Raro:
-    ID: 349
+    ID: 388
     Data: 3
     Nome: '&6Fragmento RARO'
     Encantado: true
@@ -36,7 +36,7 @@ Fragmento:
     Lore:
     - '&7Fragmento tipo: &b&lRARO'
    Epico:
-    ID: 349
+    ID: 406
     Data: 3
     Nome: '&6Fragmento EPICO'
     Encantado: true
@@ -44,7 +44,7 @@ Fragmento:
     Lore:
     - '&7Fragmento tipo: &5&lEPICO'
    Lendario:
-    ID: 349
+    ID: 399
     Data: 3
     Nome: '&6Fragmento LENDARIO'
     Encantado: true

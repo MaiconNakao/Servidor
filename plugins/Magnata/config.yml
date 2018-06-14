@@ -6,4 +6,4 @@ AtivarMsgJoin: true
 MensagemJoin: '&2&l[Magnata] &aMagnata &b$player &aentrou no servidor'
 AtivarMsgQuit: false
 MensagemQuit: '&2&l[Magnata] &aMagnata &b$player &asaiu do servidor'
-MagnataAtual: Guiciato
+MagnataAtual: OneForAll

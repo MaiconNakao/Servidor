@@ -1,7 +1,7 @@
 lastAccountName: LinoMG
 timestamps:
-  login: 1528844575942
-  logout: 1528845801253
+  login: 1528920248622
+  logout: 1528920355996
   kits:
     villager: 1528768476022
     basico: 1528768830868
@@ -16,8 +16,8 @@ lastlocation:
   pitch: 11.220174
 logoutlocation:
   world: Mina
-  x: 879.062407044418
-  y: 67.0
-  z: -1246.5913745644236
-  yaw: -88.36408
-  pitch: 31.810213
+  x: 894.6999999880791
+  y: 66.0
+  z: -1248.583763121795
+  yaw: -138.13304
+  pitch: 24.292074

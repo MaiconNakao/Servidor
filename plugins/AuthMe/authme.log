@@ -8074,3 +8074,248 @@ Caused by: java.sql.SQLException: file is encrypted or is not a database
 [06-13 01:19:40]: [WARN] Error getting message with key 'invalid_name_case'. Please update your config file 'messages_en.yml' (or run /authme messages)
 [06-13 01:19:57]: [WARN] Error getting message with key 'denied_command'. Please update your config file 'messages_en.yml' (or run /authme messages)
 [06-13 01:28:14]: [FINE] OneForAll logged in!
+[06-13 02:05:01]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 02:05:44]: [INFO] SQLite driver loaded
+[06-13 02:05:44]: [INFO] SQLite Setup finished
+[06-13 02:05:44]: [INFO] Hooked into PermissionsEx!
+[06-13 02:05:44]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 02:05:44]: [INFO] Hooked successfully into Essentials
+[06-13 02:05:44]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 02:05:44]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 02:05:44]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 02:05:44]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 02:05:54]: [WARN] Error getting message with key 'denied_command'. Please update your config file 'messages_en.yml' (or run /authme messages)
+[06-13 02:05:56]: [FINE] OneForAll logged in!
+[06-13 02:26:55]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 02:27:29]: [INFO] SQLite driver loaded
+[06-13 02:27:29]: [INFO] SQLite Setup finished
+[06-13 02:27:29]: [INFO] Hooked into PermissionsEx!
+[06-13 02:27:30]: [INFO] Hooked successfully into Essentials
+[06-13 02:27:30]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 02:27:30]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 02:27:30]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 02:27:30]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 02:27:30]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 02:27:34]: [FINE] OneForAll logged in!
+[06-13 02:34:24]: [FINE] OneForAll logged in!
+[06-13 03:42:11]: [FINE] Guiciato logged in!
+[06-13 12:52:30]: [FINE] Guiciato logged in!
+[06-13 13:19:36]: [FINE] Guiciato logged in!
+[06-13 13:23:06]: [FINE] Guiciato logged in!
+[06-13 13:37:46]: [FINE] Guiciato logged in!
+[06-13 17:04:21]: [FINE] LinoMG logged in!
+[06-13 17:14:24]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 17:14:57]: [INFO] SQLite driver loaded
+[06-13 17:14:57]: [INFO] SQLite Setup finished
+[06-13 17:14:57]: [INFO] Hooked into PermissionsEx!
+[06-13 17:14:57]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 17:14:57]: [INFO] Hooked successfully into Essentials
+[06-13 17:14:57]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 17:14:57]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 17:14:57]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 17:14:57]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 17:15:01]: [FINE] KiroGaya logged in!
+[06-13 17:24:26]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 17:24:57]: [INFO] SQLite driver loaded
+[06-13 17:24:57]: [INFO] SQLite Setup finished
+[06-13 17:24:57]: [INFO] Hooked into PermissionsEx!
+[06-13 17:24:57]: [INFO] Hooked successfully into Essentials
+[06-13 17:24:57]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 17:24:57]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 17:24:58]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 17:24:58]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 17:24:58]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 17:25:02]: [FINE] KiroGaya logged in!
+[06-13 18:18:47]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 18:19:18]: [INFO] SQLite driver loaded
+[06-13 18:19:18]: [INFO] SQLite Setup finished
+[06-13 18:19:18]: [INFO] Hooked into PermissionsEx!
+[06-13 18:19:18]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 18:19:18]: [INFO] Hooked successfully into Essentials
+[06-13 18:19:18]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 18:19:19]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 18:19:19]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 18:19:19]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 18:19:35]: [FINE] KiroGaya logged in!
+[06-13 18:30:14]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 18:30:48]: [INFO] SQLite driver loaded
+[06-13 18:30:48]: [INFO] SQLite Setup finished
+[06-13 18:30:48]: [INFO] Not hooking into PermissionsEx because it's disabled!
+[06-13 18:30:48]: [INFO] Hooked into Vault!
+[06-13 18:30:48]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 18:30:48]: [INFO] Hooked successfully into Essentials
+[06-13 18:30:48]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 18:30:48]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 18:30:48]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 18:30:48]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 18:32:51]: [FINE] KiroGaya logged in!
+[06-13 18:35:16]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 18:35:48]: [INFO] SQLite driver loaded
+[06-13 18:35:48]: [INFO] SQLite Setup finished
+[06-13 18:35:48]: [INFO] Hooked into PermissionsEx!
+[06-13 18:35:48]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 18:35:48]: [INFO] Hooked successfully into Essentials
+[06-13 18:35:48]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 18:35:48]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 18:35:48]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 18:35:48]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 18:35:55]: [FINE] KiroGaya logged in!
+[06-13 18:37:32]: [FINE] KiroGaya logged in!
+[06-13 18:40:05]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 18:40:37]: [INFO] SQLite driver loaded
+[06-13 18:40:37]: [INFO] SQLite Setup finished
+[06-13 18:40:37]: [INFO] Hooked into PermissionsEx!
+[06-13 18:40:37]: [INFO] Hooked successfully into Essentials
+[06-13 18:40:37]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 18:40:37]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 18:40:37]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 18:40:37]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 18:40:37]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 18:40:41]: [FINE] KiroGaya logged in!
+[06-13 18:44:30]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 18:45:01]: [INFO] SQLite driver loaded
+[06-13 18:45:01]: [INFO] SQLite Setup finished
+[06-13 18:45:01]: [INFO] Hooked into PermissionsEx!
+[06-13 18:45:02]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 18:45:02]: [INFO] Hooked successfully into Essentials
+[06-13 18:45:02]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 18:45:02]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 18:45:02]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 18:45:02]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 18:45:09]: [FINE] KiroGaya logged in!
+[06-13 18:56:50]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 18:57:24]: [INFO] SQLite driver loaded
+[06-13 18:57:24]: [INFO] SQLite Setup finished
+[06-13 18:57:24]: [INFO] Not hooking into PermissionsEx because it's disabled!
+[06-13 18:57:24]: [INFO] Hooked into Vault!
+[06-13 18:57:24]: [INFO] Hooked successfully into Essentials
+[06-13 18:57:24]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 18:57:24]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 18:57:24]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 18:57:24]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 18:57:24]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 18:58:51]: [FINE] KiroGaya logged in!
+[06-13 19:00:48]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 19:01:22]: [INFO] SQLite driver loaded
+[06-13 19:01:22]: [INFO] SQLite Setup finished
+[06-13 19:01:22]: [INFO] Not hooking into PermissionsEx because it's disabled!
+[06-13 19:01:22]: [INFO] Hooked into Vault!
+[06-13 19:01:22]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 19:01:22]: [INFO] Hooked successfully into Essentials
+[06-13 19:01:22]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 19:01:23]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 19:01:23]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 19:01:23]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 19:01:40]: [FINE] KiroGaya logged in!
+[06-13 19:08:12]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 19:08:44]: [INFO] SQLite driver loaded
+[06-13 19:08:44]: [INFO] SQLite Setup finished
+[06-13 19:08:44]: [INFO] Hooked into PermissionsEx!
+[06-13 19:08:44]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 19:08:44]: [INFO] Hooked successfully into Essentials
+[06-13 19:08:44]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 19:08:44]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 19:08:44]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 19:08:44]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 19:08:48]: [FINE] KiroGaya logged in!
+[06-13 19:21:59]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 19:22:52]: [INFO] SQLite driver loaded
+[06-13 19:22:52]: [INFO] SQLite Setup finished
+[06-13 19:22:52]: [INFO] Hooked into PermissionsEx!
+[06-13 19:22:52]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 19:22:52]: [INFO] Hooked successfully into Essentials
+[06-13 19:22:52]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 19:22:53]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 19:22:53]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 19:22:53]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 19:22:56]: [FINE] KiroGaya logged in!
+[06-13 19:29:29]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 19:30:01]: [INFO] SQLite driver loaded
+[06-13 19:30:01]: [INFO] SQLite Setup finished
+[06-13 19:30:02]: [INFO] Hooked into PermissionsEx!
+[06-13 19:30:02]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 19:30:02]: [INFO] Hooked successfully into Essentials
+[06-13 19:30:02]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 19:30:02]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 19:30:02]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 19:30:02]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 19:31:26]: [FINE] KiroGaya logged in!
+[06-13 19:53:59]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 19:54:51]: [INFO] SQLite driver loaded
+[06-13 19:54:51]: [INFO] SQLite Setup finished
+[06-13 19:54:51]: [INFO] Hooked into PermissionsEx!
+[06-13 19:54:51]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 19:54:51]: [INFO] Hooked successfully into Essentials
+[06-13 19:54:51]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 19:54:51]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 19:54:51]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 19:54:51]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 19:54:57]: [FINE] KiroGaya logged in!
+[06-13 20:05:29]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 20:06:06]: [INFO] SQLite driver loaded
+[06-13 20:06:06]: [INFO] SQLite Setup finished
+[06-13 20:06:06]: [INFO] Hooked into PermissionsEx!
+[06-13 20:06:06]: [INFO] Hooked successfully into Essentials
+[06-13 20:06:06]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 20:06:06]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 20:06:06]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 20:06:06]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 20:06:06]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 20:06:10]: [FINE] KiroGaya logged in!
+[06-13 20:56:19]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-13 20:56:53]: [INFO] SQLite driver loaded
+[06-13 20:56:53]: [INFO] SQLite Setup finished
+[06-13 20:56:54]: [INFO] Hooked into PermissionsEx!
+[06-13 20:56:54]: [INFO] Hooked successfully into Essentials
+[06-13 20:56:54]: [INFO] Hooked successfully into Multiverse-Core
+[06-13 20:56:54]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-13 20:56:54]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-13 20:56:54]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-13 20:56:54]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-13 20:57:58]: [FINE] KiroGaya logged in!
+[06-13 21:34:56]: [FINE] KiroGaya logged in!
+[06-13 22:20:35]: [FINE] Darkzs logged in!
+[06-14 05:58:10]: [FINE] OneForAll logged in!
+[06-14 06:00:20]: [WARN] Error getting message with key 'denied_command'. Please update your config file 'messages_en.yml' (or run /authme messages)
+[06-14 06:00:23]: [FINE] OneForAll logged in!
+[06-14 14:09:46]: [FINE] Darkzs logged in!
+[06-14 17:31:11]: [FINE] KiroGaya logged in!
+[06-14 17:53:37]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-14 17:54:11]: [INFO] SQLite driver loaded
+[06-14 17:54:11]: [INFO] SQLite Setup finished
+[06-14 17:54:11]: [INFO] Hooked into PermissionsEx!
+[06-14 17:54:11]: [INFO] Hooked successfully into Essentials
+[06-14 17:54:11]: [INFO] Hooked successfully into Multiverse-Core
+[06-14 17:54:11]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-14 17:54:12]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-14 17:54:12]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-14 17:54:12]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-14 17:54:20]: [FINE] KiroGaya logged in!
+[06-14 18:05:43]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-14 18:06:13]: [INFO] SQLite driver loaded
+[06-14 18:06:13]: [INFO] SQLite Setup finished
+[06-14 18:06:13]: [INFO] Hooked into PermissionsEx!
+[06-14 18:06:13]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-14 18:06:14]: [INFO] Hooked successfully into Essentials
+[06-14 18:06:14]: [INFO] Hooked successfully into Multiverse-Core
+[06-14 18:06:14]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-14 18:06:14]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-14 18:06:14]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-14 18:06:17]: [FINE] KiroGaya logged in!
+[06-14 19:45:17]: [FINE] OneForAll logged in!
+[06-14 20:18:46]: [FINE] KiroGaya logged in!
+[06-14 20:19:05]: [WARN] Error getting message with key 'denied_command'. Please update your config file 'messages_en.yml' (or run /authme messages)
+[06-14 20:19:06]: [FINE] OneForAll logged in!
+[06-14 20:23:42]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[06-14 20:24:15]: [INFO] SQLite driver loaded
+[06-14 20:24:15]: [INFO] SQLite Setup finished
+[06-14 20:24:15]: [INFO] Hooked into PermissionsEx!
+[06-14 20:24:15]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-14 20:24:15]: [INFO] Hooked successfully into Essentials
+[06-14 20:24:15]: [INFO] Hooked successfully into Multiverse-Core
+[06-14 20:24:16]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[06-14 20:24:16]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-14 20:24:16]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[06-14 20:25:04]: [FINE] KiroGaya logged in!
+[06-14 20:26:02]: [FINE] OneForAll logged in!
+[06-14 20:33:30]: [INFO] AuthMe 5.3.2-b1726 disabled!
