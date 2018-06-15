@@ -1,2 +1,0 @@
-# Servidor
-Servidor Nova Era

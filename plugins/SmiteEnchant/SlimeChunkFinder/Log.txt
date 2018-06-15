@@ -1,6 +1,0 @@
-[09/07/2017 11:27:55][Debug][CommandModule]Registered command - settings
-[09/07/2017 11:27:55][Debug][CommandModule]Registered command - spawn
-[09/07/2017 11:27:55][Debug][CommandModule]Registered command - check
-[09/07/2017 11:27:55][Debug][CommandModule]Registered command - map
-[09/07/2017 11:27:55][Debug][CommandModule]Registered command - perms
-[09/07/2017 11:27:55][Info]Economy Enabled.

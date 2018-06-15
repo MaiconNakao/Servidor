@@ -1,8 +1,0 @@
-&7==============================================
-
-&7Evento &cGladiador &7FINALIZADO&7!
-&7Clan Vencedor: &c@clan&7!&7Premio: &a$@dinheiro&7!
-&7Tag &d[&5MITO&d] &7Para &c@mito&7!
-&7Tag &e[&6Gladiador&e] &7Para &c@vencedores&7!
-
-&7==============================================

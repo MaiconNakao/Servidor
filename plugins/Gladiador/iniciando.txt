@@ -1,7 +1,0 @@
-&7==============================================
-
-&7Evento &cGladiador &7Automatico Iniciado!
-&7Tempo Inicial Para os Clans Se Agruparem!
-&7Tempo Restante: &c@tempo &7Segundos!
-
-&7==============================================
